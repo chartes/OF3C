@@ -25,5 +25,4 @@ Texts from:
 From the ed. by Nicaise, Edouard (1890) p. 167 ff
 - Poésies de Gilles li Muisis, published for the first time, according to the manuscript of Lord Ashburnham by baron Kervyn de Lettenhove, Louvain, 1882, https://archive.org/details/posiesdegilles01lemuuoft/page/78/mode/2up, 
 
-Translated with www.DeepL.com/Translator (free version)
 
