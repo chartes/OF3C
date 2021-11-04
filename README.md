@@ -6,7 +6,6 @@
 
 ## Sources
 
-- \[Adoubement\]: Montreuil, Arnaud, _Une histoire de l'adoubement: étude du sens social d'une pratique aristocratique (XIe-XVe)_, dir. Joseph Morsel et Kouky Fianu, Univ. Paris 1, en préparation. 
 - \[Chrestien\]: Kunstmann, Pierre (éd), _Chrétien de Troyes: Cligès, Erec, Lancelot, Perceval, Yvain – manuscrit P (BnF fr. 794)_, 2009, [http://www.atilf.fr/dect](http://www.atilf.fr/dect).
 - \[Code\]: Duval and Pastore, in progress.
 - \[DocLing\]: Gleßgen, Martin Dietrich (dir.), et al., _Les plus anciens documents linguistiques de la France_, 2016, [http://www.rose.uzh.ch/docling/](http://www.rose.uzh.ch/docling/), 3e édition.
