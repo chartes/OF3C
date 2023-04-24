@@ -3998,8 +3998,7 @@ vivant	vivant	NOMcom	NOMB.=s|GENRE=m|CAS=r
 .	.	PONfrt	MORPH=empty
 [REF:ThibChamp_03_03_017]	Ref.	OUT	MORPH=empty
 Se	si	ADVgen	DEGRE=-
-m	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=r
-'	'	PONfbl	MORPH=empty
+m'	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=r
 ’	’	PONfbl	MORPH=empty
 aït	aidier	VERcjg	MODE=sub|TEMPS=pst|PERS.=3|NOMB.=s
 Deus	dieu	NOMpro	NOMB.=s|GENRE=m|CAS=n
@@ -9251,8 +9250,7 @@ de	de	PRE	MORPH=empty
 voir	voir	ADJqua	NOMB.=s|GENRE=m|CAS=r|DEGRE=p
 ;	;	PONfbl	MORPH=empty
 [REF:ThibChamp_42_05_049]	Ref.	OUT	MORPH=empty
-Qu	que4	CONsub	MORPH=empty
-'	'	PONfbl	MORPH=empty
+Qu'	que4	CONsub	MORPH=empty
 ’	’	PONfbl	MORPH=empty
 ele	il	PROper	PERS.=3|NOMB.=s|GENRE=f|CAS=n
 le	il	PROper	PERS.=3|NOMB.=s|GENRE=n|CAS=r
@@ -10142,9 +10140,7 @@ de	de	PRE	MORPH=empty
 ci	ci	ADVgen	DEGRE=-
 !	!	PONfrt	MORPH=empty
 [REF:ThibChamp_51_02_022]	Ref.	OUT	MORPH=empty
-N	ne1	ADVneg	MORPH=empty
-'	'	PONfbl	MORPH=empty
-’	’	PONfbl	MORPH=empty
+N'	ne1	ADVneg	MORPH=empty
 ai	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s
 cure	cure	NOMcom	NOMB.=s|GENRE=f|CAS=r
 de	de	PRE	MORPH=empty
@@ -12018,7 +12014,7 @@ Dist	dire	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 la	le	DETdef	NOMB.=s|GENRE=f|CAS=n
 belle	bel1	ADJqua	NOMB.=s|GENRE=f|CAS=n|DEGRE=p
 :	:	PONfbl	MORPH=empty
-“	\"	PONfbl	MORPH=empty
+“	“	PONpga	MORPH=empty
 Boens	bon	ADJqua	NOMB.=s|GENRE=m|CAS=n|DEGRE=p
 amis	ami	NOMcom	NOMB.=s|GENRE=m|CAS=n
 ,	,	PONfbl	MORPH=empty
@@ -12265,9 +12261,9 @@ raverai	ravoir2	VERcjg	MODE=ind|TEMPS=fut|PERS.=1|NOMB.=s
 m'	mon1	DETpos	PERS.=1|NOMB.=s|GENRE=f|CAS=r
 amie	ami	NOMcom	NOMB.=s|GENRE=f|CAS=r
 .	.	PONfrt	MORPH=empty
-”	\"	PONfbl	MORPH=empty
+”	”	PONpdr	MORPH=empty
 [REF:DuchLorr_02_VERIF_05_073]	Ref.	OUT	MORPH=empty
-“	\"	PONfbl	MORPH=empty
+“	“	PONpga	MORPH=empty
 Amins	ami	NOMcom	NOMB.=s|GENRE=m|CAS=n
 ,	,	PONfbl	MORPH=empty
 se	se	CONsub	MORPH=empty
@@ -12393,9 +12389,9 @@ Cui	cui	PROrel	NOMB.=s|GENRE=f|CAS=r
 amors	amor	NOMcom	NOMB.=s|GENRE=f|CAS=n
 mehaigne	mahaignier	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 .	.	PONfrt	MORPH=empty
-”	\"	PONfbl	MORPH=empty
+”	”	PONpdr	MORPH=empty
 [REF:DuchLorr_02_VERIF_06_091]	Ref.	OUT	MORPH=empty
-“	\"	PONfbl	MORPH=empty
+“	“	PONpga	MORPH=empty
 Biaus	bel1	ADJqua	NOMB.=s|GENRE=m|CAS=n|DEGRE=p
 amins	ami	NOMcom	NOMB.=s|GENRE=m|CAS=n
 ,	,	PONfbl	MORPH=empty
@@ -12471,7 +12467,7 @@ per	par	PRE	MORPH=empty
 grant	grant	ADJqua	NOMB.=s|GENRE=f|CAS=r|DEGRE=p
 dousor	douçor	NOMcom	NOMB.=s|GENRE=f|CAS=r
 .	.	PONfrt	MORPH=empty
-”	\"	PONfbl	MORPH=empty
+”	”	PONpdr	MORPH=empty
 [REF:DuchLorr_02_VERIF_06_103]	Ref.	OUT	MORPH=empty
 Et	et	CONcoo	MORPH=empty
 cil	cel	PROdem	NOMB.=s|GENRE=m|CAS=n
@@ -12484,7 +12480,7 @@ iriés	irier	VERppe	NOMB.=s|GENRE=m|CAS=n
 Et	et	CONcoo	MORPH=empty
 dist	dire	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 :	:	PONfbl	MORPH=empty
-“	\"	PONfbl	MORPH=empty
+“	“	PONpga	MORPH=empty
 Lais	las	ADJqua	NOMB.=s|GENRE=m|CAS=n|DEGRE=p
 !	!	PONfrt	MORPH=empty
 tant	tant	ADVgen	DEGRE=-
@@ -12522,7 +12518,7 @@ les	il	PROper	PERS.=3|NOMB.=p|GENRE=f|CAS=r
 me	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=i
 gairt	garder	VERcjg	MODE=sub|TEMPS=pst|PERS.=3|NOMB.=s
 .	.	PONfrt	MORPH=empty
-”	\"	PONfbl	MORPH=empty
+”	”	PONpdr	MORPH=empty
 [REF:TrouveresseANO_VERIF_01_001]	Ref.	OUT	MORPH=empty
 Je	je	PROper	PERS.=1|NOMB.=s|GENRE=f|CAS=n
 ne	ne1	ADVneg	MORPH=empty

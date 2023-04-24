@@ -335,7 +335,7 @@ qu'	que3	PROint	NOMB.=s|GENRE=n|CAS=r
 avez	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=2|NOMB.=p
 vous	vos	PROper	PERS.=2|NOMB.=p|GENRE=m|CAS=n
 ,	,	PONfbl	MORPH=empty
-Theophile	Théophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Theophile	Theophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
 ?	?	PONfrt	MORPH=empty
 Por	por2	PRE	MORPH=empty
 le	le	DETdef	NOMB.=s|GENRE=m|CAS=r
@@ -357,7 +357,7 @@ si	si	ADVgen	DEGRE=-
 joiant	joiant	ADJqua	NOMB.=s|GENRE=m|CAS=n|DEGRE=p
 estre	estre1	VERinf	MORPH=empty
 !	!	PONfrt	MORPH=empty
-THEOPHILE	Théophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
+THEOPHILE	Theophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
 parole	parler	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 .	.	PONfrt	MORPH=empty
 C'	que4	CONsub	MORPH=empty
@@ -507,7 +507,7 @@ gros	gros	ADJqua	NOMB.=p|GENRE=m|CAS=r|DEGRE=p
 mos	mot	NOMcom	NOMB.=p|GENRE=m|CAS=r
 oïr	öir	VERinf	MORPH=empty
 .	.	PONfrt	MORPH=empty
-THEOPHILES	Théophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
+THEOPHILES	Theophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
 .	.	PONfrt	MORPH=empty
 C'	ce1	PROdem	NOMB.=s|GENRE=n|CAS=n
 est	estre1	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
@@ -571,7 +571,7 @@ mas	mat	ADJqua	NOMB.=s|GENRE=m|CAS=n|DEGRE=p
 et	et	CONcoo	MORPH=empty
 penssis	pensif	ADJqua	NOMB.=s|GENRE=m|CAS=n|DEGRE=p
 .	.	PONfrt	MORPH=empty
-THEOPHILES	Théophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
+THEOPHILES	Theophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
 .	.	PONfrt	MORPH=empty
 Salatin	Salatin	NOMpro	NOMB.=s|GENRE=m|CAS=n
 ,	,	PONfbl	MORPH=empty
@@ -680,7 +680,7 @@ avez	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=2|NOMB.=p
 vous	vos	PROper	PERS.=2|NOMB.=p|GENRE=m|CAS=n
 entalenté	entalenter	VERppe	NOMB.=s|GENRE=m|CAS=r
 ?	?	PONfrt	MORPH=empty
-THEOPHILES	Théophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
+THEOPHILES	Theophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
 .	.	PONfrt	MORPH=empty
 J'	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n
 en	en2	PROadv	MORPH=empty
@@ -720,7 +720,7 @@ demain	demain	ADVgen	DEGRE=-
 au	a3+le	PRE.DETdef	MORPH=empty+NOMB.=s|GENRE=m|CAS=r
 matin	matin2	NOMcom	NOMB.=s|GENRE=m|CAS=r
 .	.	PONfrt	MORPH=empty
-THEOPHILES	Théophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
+THEOPHILES	Theophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
 .	.	PONfrt	MORPH=empty
 Volentiers	volentiers	ADVgen	DEGRE=-
 ,	,	PONfbl	MORPH=empty
@@ -746,7 +746,7 @@ demeures	demorer	VERcjg	MODE=ind|TEMPS=pst|PERS.=2|NOMB.=s
 Or	or4	ADVgen	DEGRE=-
 se	soi1	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=r
 depart	departir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
-Theophiles	Théophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Theophiles	Theophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
 de	de	PRE	MORPH=empty
 Salatin	Salatin	NOMpro	NOMB.=s|GENRE=m|CAS=r
 et	et	CONcoo	MORPH=empty
@@ -1286,7 +1286,7 @@ non	nom	NOMcom	NOMB.=s|GENRE=m|CAS=r
 ?	?	PONfrt	MORPH=empty
 SALATINS	Salatin	NOMpro	NOMB.=s|GENRE=m|CAS=n
 .	.	PONfrt	MORPH=empty
-Theophiles	Théophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Theophiles	Theophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
 par	par	PRE	MORPH=empty
 son	son4	DETpos	PERS.=3|NOMB.=s|GENRE=m|CAS=r
 droit	droit	ADJqua	NOMB.=s|GENRE=m|CAS=r|DEGRE=p
@@ -1419,7 +1419,7 @@ latin	latin	NOMcom	NOMB.=s|GENRE=m|CAS=r
 !	!	PONfrt	MORPH=empty
 Or	or4	ADVgen	DEGRE=-
 revient	revenir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
-Theophiles	Théophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Theophiles	Theophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
 a	a3	PRE	MORPH=empty
 Salatin	Salatin	NOMpro	NOMB.=s|GENRE=m|CAS=r
 .	.	PONfrt	MORPH=empty
@@ -1562,7 +1562,7 @@ n'	ne1	ADVneg	MORPH=empty
 aies	avoir	VERcjg	MODE=imp|PERS.=2|NOMB.=s
 cure	cure	NOMcom	NOMB.=s|GENRE=f|CAS=r
 .	.	PONfrt	MORPH=empty
-THEOPHILES	Théophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
+THEOPHILES	Theophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
 .	.	PONfrt	MORPH=empty
 Je	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n
 m'	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=r
@@ -1589,7 +1589,7 @@ plaidier	plaidier2	VERinf	MORPH=empty
 .	.	PONfrt	MORPH=empty
 Ici	ici	ADVgen	DEGRE=-
 va	aler	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
-Theophiles	Théophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Theophiles	Theophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
 au	a3+le	PRE.DETdef	MORPH=empty+NOMB.=s|GENRE=m|CAS=r
 deable	dïable	NOMcom	NOMB.=s|GENRE=m|CAS=r
 ;	;	PONfbl	MORPH=empty
@@ -1637,7 +1637,7 @@ est	estre1	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 molt	mout	ADVgen	DEGRE=-
 fiers	fier	ADJqua	NOMB.=s|GENRE=m|CAS=n|DEGRE=p
 !	!	PONfrt	MORPH=empty
-THEOPHILES	Théophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
+THEOPHILES	Theophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
 .	.	PONfrt	MORPH=empty
 Voire	voire	ADVgen	DEGRE=-
 ,	,	PONfbl	MORPH=empty
@@ -1675,7 +1675,7 @@ m'	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=r
 en	en2	PROadv	MORPH=empty
 tu	tu	PROper	PERS.=2|NOMB.=s|GENRE=m|CAS=n
 ?	?	PONfrt	MORPH=empty
-THEOPHILES	Théophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
+THEOPHILES	Theophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
 .	.	PONfrt	MORPH=empty
 Oïl	öil	ADVgen	DEGRE=-
 .	.	PONfrt	MORPH=empty
@@ -1699,7 +1699,7 @@ aiderai	aidier	VERcjg	MODE=ind|TEMPS=fut|PERS.=1|NOMB.=s
 outre	outre1	PRE	MORPH=empty
 reson	raison	NOMcom	NOMB.=s|GENRE=f|CAS=r
 .	.	PONfrt	MORPH=empty
-THEOPHILES	Théophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
+THEOPHILES	Theophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
 .	.	PONfrt	MORPH=empty
 Vez	vëoir	VERcjg	MODE=imp|PERS.=2|NOMB.=p
 ci	ci	ADVgen	DEGRE=-
@@ -1795,7 +1795,7 @@ avoir	avoir	VERinf	MORPH=empty
 bien	bien1	ADVgen	DEGRE=p
 dites	dire	VERppe	NOMB.=p|GENRE=f|CAS=r
 .	.	PONfrt	MORPH=empty
-THEOPHILES	Théophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
+THEOPHILES	Theophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
 .	.	PONfrt	MORPH=empty
 Vez	vëoir	VERcjg	MODE=imp|PERS.=2|NOMB.=p
 les	il	PROper	PERS.=3|NOMB.=p|GENRE=f|CAS=r
@@ -1808,7 +1808,7 @@ escrites	escrire	VERppe	NOMB.=p|GENRE=f|CAS=r
 .	.	PONfrt	MORPH=empty
 Or	or4	ADVgen	DEGRE=-
 baille	baillier	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
-Theophiles	Théophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Theophiles	Theophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
 les	le	DETdef	NOMB.=p|GENRE=f|CAS=r
 lettres	letre	NOMcom	NOMB.=p|GENRE=f|CAS=r
 au	a3+le	PRE.DETdef	MORPH=empty+NOMB.=s|GENRE=m|CAS=r
@@ -1823,7 +1823,7 @@ a	a3	PRE	MORPH=empty
 ouvrer	ovrer	VERinf	MORPH=empty
 ainsi	ainsi	ADVgen	DEGRE=-
 :	:	PONfbl	MORPH=empty
-Theophile	Théophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Theophile	Theophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
 ,	,	PONfbl	MORPH=empty
 biaus	bel1	ADJqua	NOMB.=s|GENRE=m|CAS=n|DEGRE=p
 douz	douz	ADJqua	NOMB.=s|GENRE=m|CAS=n|DEGRE=p
@@ -2024,7 +2024,7 @@ feroies	faire	VERcjg	MODE=con|PERS.=2|NOMB.=s
 contre	contre	PRE	MORPH=empty
 moi	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=r
 .	.	PONfrt	MORPH=empty
-THEOPHILES	Théophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
+THEOPHILES	Theophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
 .	.	PONfrt	MORPH=empty
 Je	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n
 ferai	faire	VERcjg	MODE=ind|TEMPS=fut|PERS.=1|NOMB.=s
@@ -2053,7 +2053,7 @@ envoie	envoiier	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 l'	le	DETdef	NOMB.=s|GENRE=m|CAS=n
 Evesque	evesque	NOMcom	NOMB.=s|GENRE=m|CAS=n
 querre	querre	VERinf	MORPH=empty
-Theophile	Théophile	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Theophile	Theophile	NOMpro	NOMB.=s|GENRE=m|CAS=r
 .	.	PONfrt	MORPH=empty
 Or	or4	ADVgen	DEGRE=-
 tost	tost1	ADVgen	DEGRE=p
@@ -2066,7 +2066,7 @@ Pinceguerre	Pinceguerre	NOMpro	NOMB.=s|GENRE=m|CAS=n
 Si	si	ADVgen	DEGRE=-
 me	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=i
 va	aler	VERcjg	MODE=imp|PERS.=2|NOMB.=s
-Theophile	Théophile	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Theophile	Theophile	NOMpro	NOMB.=s|GENRE=m|CAS=r
 querre	querre	VERinf	MORPH=empty
 ,	,	PONfbl	MORPH=empty
 Se	si	ADVgen	DEGRE=-
@@ -2121,10 +2121,10 @@ Or	or4	ADVgen	DEGRE=-
 parole	parler	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 Pinceguerre	Pinceguerre	NOMpro	NOMB.=s|GENRE=m|CAS=n
 a	a3	PRE	MORPH=empty
-Theophile	Théophile	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Theophile	Theophile	NOMpro	NOMB.=s|GENRE=m|CAS=r
 ,	,	PONfbl	MORPH=empty
 et	et	CONcoo	MORPH=empty
-Theophiles	Théophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Theophiles	Theophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
 respont	respondre1	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 :	:	PONfbl	MORPH=empty
 Qui	qui	PROint	NOMB.=s|GENRE=m|CAS=n
@@ -2150,7 +2150,7 @@ sui	estre1	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s
 prestres	prestre	NOMcom	NOMB.=s|GENRE=m|CAS=n
 .	.	PONfrt	MORPH=empty
 —	—	PONfbl	MORPH=empty
-Theophiles	Théophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Theophiles	Theophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
 ,	,	PONfbl	MORPH=empty
 biaus	bel1	ADJqua	NOMB.=s|GENRE=m|CAS=n|DEGRE=p
 sire	seignor	NOMcom	NOMB.=s|GENRE=m|CAS=n
@@ -2196,7 +2196,7 @@ sens	sens	NOMcom	NOMB.=s|GENRE=m|CAS=r
 et	et	CONcoo	MORPH=empty
 savoir	savoir	NOMcom	NOMB.=s|GENRE=m|CAS=r
 .	.	PONfrt	MORPH=empty
-THEOPHILES	Théophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
+THEOPHILES	Theophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
 .	.	PONfrt	MORPH=empty
 Deable	dïable	NOMcom	NOMB.=p|GENRE=m|CAS=n
 i	i2	PROadv	MORPH=empty
@@ -2290,7 +2290,7 @@ ami	ami	NOMcom	NOMB.=s|GENRE=m|CAS=n
 com	come1	CONsub	MORPH=empty
 devant	devant	ADVgen	DEGRE=p
 .	.	PONfrt	MORPH=empty
-THEOPHILES	Théophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
+THEOPHILES	Theophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
 .	.	PONfrt	MORPH=empty
 Or	or4	ADVgen	DEGRE=-
 disoient	dire	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=p
@@ -2317,7 +2317,7 @@ lieve	lever	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 l'	le	DETdef	NOMB.=s|GENRE=m|CAS=n
 Evesque	evesque	NOMcom	NOMB.=s|GENRE=m|CAS=n
 contre	contre	PRE	MORPH=empty
-Theophile	Théophile	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Theophile	Theophile	NOMpro	NOMB.=s|GENRE=m|CAS=r
 et	et	CONcoo	MORPH=empty
 li	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=i
 rent	rendre	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
@@ -2333,7 +2333,7 @@ puissiez	pöoir	VERcjg	MODE=sub|TEMPS=pst|PERS.=2|NOMB.=p
 vous	vos	PROper	PERS.=2|NOMB.=p|GENRE=m|CAS=n
 venir	venir	VERinf	MORPH=empty
 !	!	PONfrt	MORPH=empty
-THEOPHILES	Théophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
+THEOPHILES	Theophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
 .	.	PONfrt	MORPH=empty
 Si	si	ADVgen	DEGRE=-
 sui	estre1	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s
@@ -2394,9 +2394,9 @@ j'	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n
 ai	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s
 si	si	ADVgen	DEGRE=-
 sera	estre1	VERcjg	MODE=ind|TEMPS=fut|PERS.=3|NOMB.=s
-vostre	vostre	ADJpos	PERS.=2|NOMB.=s|GENRE=n|CAS=n
+vostre	vostre	ADJpos	PERS.=2|NOMB.=s|GENRE=m|CAS=n
 .	.	PONfrt	MORPH=empty
-THEOPHILES	Théophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
+THEOPHILES	Theophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
 .	.	PONfrt	MORPH=empty
 Ci	ci	ADVgen	DEGRE=-
 a	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
@@ -2459,7 +2459,7 @@ irous	iros	ADJqua	NOMB.=s|GENRE=m|CAS=n|DEGRE=p
 LI	le	DETdef	NOMB.=s|GENRE=m|CAS=n
 EVESQUES	evesque	NOMcom	NOMB.=s|GENRE=m|CAS=n
 .	.	PONfrt	MORPH=empty
-Theophile	Théophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Theophile	Theophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
 ,	,	PONfbl	MORPH=empty
 ou	où	PROint	NOMB.=x|GENRE=x|CAS=x
 entendez	entendre	VERcjg	MODE=ind|TEMPS=pst|PERS.=2|NOMB.=p
@@ -2515,7 +2515,7 @@ tout	tot	PROind	NOMB.=s|GENRE=m|CAS=n
 ert	estre1	VERcjg	MODE=ind|TEMPS=fut|PERS.=3|NOMB.=s
 mien	mien	ADJpos	PERS.=1|NOMB.=s|GENRE=m|CAS=n
 .	.	PONfrt	MORPH=empty
-THEOPHILES	Théophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
+THEOPHILES	Theophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
 .	.	PONfrt	MORPH=empty
 Par	par	PRE	MORPH=empty
 foi	foi	NOMcom	NOMB.=s|GENRE=f|CAS=r
@@ -2529,7 +2529,7 @@ bien	bien1	ADVgen	DEGRE=p
 .	.	PONfrt	MORPH=empty
 Ici	ici	ADVgen	DEGRE=-
 va	aler	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
-Theophiles	Théophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Theophiles	Theophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
 a	a3	PRE	MORPH=empty
 ses	son4	DETpos	PERS.=3|NOMB.=p|GENRE=m|CAS=r
 compaignons	compagnon	NOMcom	NOMB.=p|GENRE=m|CAS=r
@@ -2602,7 +2602,7 @@ graces	grace	NOMcom	NOMB.=p|GENRE=f|CAS=r
 PIERRES	Pierre	NOMpro	NOMB.=s|GENRE=m|CAS=n
 respont	respondre1	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 :	:	PONfbl	MORPH=empty
-Theophile	Théophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Theophile	Theophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
 ,	,	PONfbl	MORPH=empty
 sont	estre1	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p
 ce	ce1	DETdem	NOMB.=s|GENRE=n|CAS=n
@@ -2628,7 +2628,7 @@ droiz	droit	NOMcom	NOMB.=s|GENRE=m|CAS=n
 et	et	CONcoo	MORPH=empty
 resons	raison	NOMcom	NOMB.=s|GENRE=f|CAS=n
 .	.	PONfrt	MORPH=empty
-THEOPHILES	Théophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
+THEOPHILES	Theophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
 .	.	PONfrt	MORPH=empty
 Ci	ci	ADVgen	DEGRE=-
 avoit	avoir	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=s
@@ -2688,7 +2688,7 @@ celestre	celeste	ADJqua	NOMB.=s|GENRE=m|CAS=r|DEGRE=p
 .	.	PONfrt	MORPH=empty
 Or	or4	ADVgen	DEGRE=-
 tence	tence	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
-Theophiles	Théophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Theophiles	Theophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
 a	a3	PRE	MORPH=empty
 un	un	DETndf	NOMB.=s|GENRE=m|CAS=r
 autre	autre	ADJind	NOMB.=s|GENRE=m|CAS=r
@@ -2730,7 +2730,7 @@ moi	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=r
 .	.	PONfrt	MORPH=empty
 THOMAS	Thomas	NOMpro	NOMB.=s|GENRE=m|CAS=n
 .	.	PONfrt	MORPH=empty
-Theophile	Théophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Theophile	Theophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
 ,	,	PONfbl	MORPH=empty
 foi	foi	NOMcom	NOMB.=s|GENRE=f|CAS=r
 que	que2	PROrel	NOMB.=s|GENRE=f|CAS=r
@@ -2744,7 +2744,7 @@ vous	vos	PROper	PERS.=2|NOMB.=p|GENRE=m|CAS=n
 soiez	estre1	VERcjg	MODE=sub|TEMPS=pst|PERS.=2|NOMB.=p
 yvres	ivre	ADJqua	NOMB.=s|GENRE=m|CAS=n|DEGRE=p
 .	.	PONfrt	MORPH=empty
-THEOPHILES	Théophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
+THEOPHILES	Theophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
 .	.	PONfrt	MORPH=empty
 Or	or4	ADVgen	DEGRE=-
 en	en2	PROadv	MORPH=empty
@@ -2778,7 +2778,7 @@ tant	tant	ADVgen	DEGRE=-
 vous	vos	PROper	PERS.=2|NOMB.=p|GENRE=m|CAS=r
 pris	prisier	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=p
 !	!	PONfrt	MORPH=empty
-THEOPHILES	Théophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
+THEOPHILES	Theophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
 .	.	PONfrt	MORPH=empty
 Thomas	Thomas	NOMpro	NOMB.=s|GENRE=m|CAS=n
 ,	,	PONfbl	MORPH=empty
@@ -2803,14 +2803,14 @@ vous	vos	PROper	PERS.=2|NOMB.=p|GENRE=m|CAS=n
 volez	voloir	VERcjg	MODE=ind|TEMPS=pst|PERS.=2|NOMB.=p
 plaidier	plaidier2	VERinf	MORPH=empty
 .	.	PONfrt	MORPH=empty
-Theophile	Théophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Theophile	Theophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
 ,	,	PONfbl	MORPH=empty
 lessiez	laissier	VERcjg	MODE=imp|PERS.=2|NOMB.=p
 me	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=r
 en	en1	PRE	MORPH=empty
 pais	pais	NOMcom	NOMB.=s|GENRE=f|CAS=r
 !	!	PONfrt	MORPH=empty
-THEOPHILES	Théophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
+THEOPHILES	Theophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
 .	.	PONfrt	MORPH=empty
 Thomas	Thomas	NOMpro	NOMB.=s|GENRE=m|CAS=n
 ,	,	PONfbl	MORPH=empty
@@ -2839,7 +2839,7 @@ pens	penser	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s
 Ici	ici	ADVgen	DEGRE=-
 se	soi1	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=r
 repent	repentir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
-Theophiles	Théophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Theophiles	Theophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
 et	et	CONcoo	MORPH=empty
 vient	venir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 a	a3	PRE	MORPH=empty
@@ -3188,7 +3188,7 @@ aler	aler	VERinf	MORPH=empty
 en	en1	PRE	MORPH=empty
 ordure	ordure	NOMcom	NOMB.=s|GENRE=f|CAS=r
 .	.	PONfrt	MORPH=empty
-Ordement	ordement	ADVgen	DEGRE=-p
+Ordement	ordement	ADVgen	DEGRE=-
 ai	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s
 ouvré	ovrer	VERppe	NOMB.=s|GENRE=m|CAS=r
 ,	,	PONfbl	MORPH=empty
@@ -3367,7 +3367,7 @@ est	estre1	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 la	le	DETdef	NOMB.=s|GENRE=f|CAS=n
 proiere	priiere	NOMcom	NOMB.=s|GENRE=f|CAS=n
 que	que2	PROrel	NOMB.=s|GENRE=f|CAS=r
-Theophiles	Théophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Theophiles	Theophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
 dist	dire	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 devant	devant	PRE	MORPH=empty
 Nostre	nostre	DETpos	PERS.=1|NOMB.=s|GENRE=f|CAS=r
@@ -3923,7 +3923,7 @@ parole	parler	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 Nostre	nostre	DETpos	PERS.=1|NOMB.=s|GENRE=f|CAS=n
 Dame	dame	NOMcom	NOMB.=s|GENRE=f|CAS=n
 a	a3	PRE	MORPH=empty
-Theophile	Théophile	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Theophile	Theophile	NOMpro	NOMB.=s|GENRE=m|CAS=r
 et	et	CONcoo	MORPH=empty
 dist	dire	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 :	:	PONfbl	MORPH=empty
@@ -3939,7 +3939,7 @@ par	par	PRE	MORPH=empty
 ci	ci	ADVgen	DEGRE=-
 ?	?	PONfrt	MORPH=empty
 [	[	PONfbl	MORPH=empty
-THEOPHILES	Théophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
+THEOPHILES	Theophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
 ]	]	PONfbl	MORPH=empty
 Ha	ha!	INJ	MORPH=empty
 !	!	PONfrt	MORPH=empty
@@ -3954,7 +3954,7 @@ C'	ce1	PROdem	NOMB.=s|GENRE=n|CAS=n
 est	estre1	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 li	le	DETdef	NOMB.=s|GENRE=m|CAS=n
 chetis	chaitif	ADJqua	NOMB.=s|GENRE=m|CAS=n|DEGRE=p
-Theophile	Théophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Theophile	Theophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
 ,	,	PONfbl	MORPH=empty
 li	le	DETdef	NOMB.=s|GENRE=m|CAS=n
 entrepris	entreprendre	VERppe	NOMB.=s|GENRE=m|CAS=n
@@ -4030,7 +4030,7 @@ de	de	PRE	MORPH=empty
 ma	mon1	DETpos	PERS.=1|NOMB.=s|GENRE=f|CAS=r
 chapele	chapele	NOMcom	NOMB.=s|GENRE=f|CAS=r
 !	!	PONfrt	MORPH=empty
-THEOPHILES	Théophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
+THEOPHILES	Theophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
 parole	parler	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 :	:	PONfbl	MORPH=empty
 Dame	dame	NOMcom	NOMB.=s|GENRE=f|CAS=n
@@ -4105,7 +4105,7 @@ Cahu	Cahu	NOMpro	NOMB.=s|GENRE=m|CAS=r
 NOSTRE	nostre	DETpos	PERS.=1|NOMB.=s|GENRE=f|CAS=n
 DAME	dame	NOMcom	NOMB.=s|GENRE=f|CAS=n
 .	.	PONfrt	MORPH=empty
-Theophile	Théophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Theophile	Theophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
 ,	,	PONfbl	MORPH=empty
 je	je	PROper	PERS.=1|NOMB.=s|GENRE=f|CAS=n
 t'	tu	PROper	PERS.=2|NOMB.=s|GENRE=m|CAS=r
@@ -4145,7 +4145,7 @@ Dame	dame	NOMcom	NOMB.=s|GENRE=f|CAS=n
 por	por2	PRE	MORPH=empty
 la	le	DETdef	NOMB.=s|GENRE=f|CAS=r
 chartre	chartre2	NOMcom	NOMB.=s|GENRE=f|CAS=r
-Theophile	Théophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Theophile	Theophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
 .	.	PONfrt	MORPH=empty
 Sathan	Satan	NOMpro	NOMB.=s|GENRE=m|CAS=n
 !	!	PONfrt	MORPH=empty
@@ -4248,7 +4248,7 @@ Dame	dame	NOMcom	NOMB.=s|GENRE=f|CAS=n
 la	le	DETdef	NOMB.=s|GENRE=f|CAS=r
 chartre	chartre2	NOMcom	NOMB.=s|GENRE=f|CAS=r
 a	a3	PRE	MORPH=empty
-Theophile	Théophile	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Theophile	Theophile	NOMpro	NOMB.=s|GENRE=m|CAS=r
 .	.	PONfrt	MORPH=empty
 Amis	ami	NOMcom	NOMB.=s|GENRE=m|CAS=n
 ,	,	PONfbl	MORPH=empty
@@ -4329,7 +4329,7 @@ honteuse	hontos	ADJqua	NOMB.=s|GENRE=f|CAS=n|DEGRE=p
 et	et	CONcoo	MORPH=empty
 mate	mat	ADJqua	NOMB.=s|GENRE=f|CAS=n|DEGRE=p
 .	.	PONfrt	MORPH=empty
-THEOPHILE	Théophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
+THEOPHILE	Theophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
 .	.	PONfrt	MORPH=empty
 Volentiers	volentiers	ADVgen	DEGRE=-
 ,	,	PONfbl	MORPH=empty
@@ -4358,7 +4358,7 @@ bien	bien1	ADVgen	DEGRE=p
 .	.	PONfrt	MORPH=empty
 Ici	ici	ADVgen	DEGRE=-
 vient	venir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
-Theophiles	Théophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Theophiles	Theophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
 a	a3	PRE	MORPH=empty
 l'	le	DETdef	NOMB.=s|GENRE=m|CAS=r
 evesque	evesque	NOMcom	NOMB.=s|GENRE=m|CAS=r
@@ -4574,7 +4574,7 @@ orrez	öir	VERcjg	MODE=ind|TEMPS=fut|PERS.=2|NOMB.=p
 la	le	DETdef	NOMB.=s|GENRE=f|CAS=r
 vie	vie1	NOMcom	NOMB.=s|GENRE=f|CAS=r
 De	de	PRE	MORPH=empty
-Theophile	Théophile	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Theophile	Theophile	NOMpro	NOMB.=s|GENRE=m|CAS=r
 Qui	qui	PROrel	NOMB.=s|GENRE=m|CAS=n
 Anemis	enemi	NOMcom	NOMB.=s|GENRE=m|CAS=r
 servi	servir	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
@@ -4622,7 +4622,7 @@ torna	torner	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 fortune	fortune	NOMcom	NOMB.=s|GENRE=f|CAS=n
 ,	,	PONfbl	MORPH=empty
 Que	que4	CONsub	MORPH=empty
-Theophiles	Théophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Theophiles	Theophile	NOMpro	NOMB.=s|GENRE=m|CAS=n
 ot	avoir	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 a	a3	PRE	MORPH=empty
 l'	le	DETdef	NOMB.=s|GENRE=m|CAS=r
@@ -4814,5 +4814,5 @@ Explicit	explicare	VERppe	MORPH=empty
 le	le	DETdef	NOMB.=s|GENRE=m|CAS=n
 miracle	miracle	NOMcom	NOMB.=s|GENRE=m|CAS=n
 de	de	PRE	MORPH=empty
-Theophile	Théophile	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Theophile	Theophile	NOMpro	NOMB.=s|GENRE=m|CAS=r
 .	.	PONfrt	MORPH=empty

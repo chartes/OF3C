@@ -5649,7 +5649,7 @@ Joste	joste1	PRE	MORPH=empty
 l'	le	DETdef	NOMB.=s|GENRE=f|CAS=r
 eve	aigue	NOMcom	NOMB.=s|GENRE=f|CAS=r
 dou	de+le	PRE.DETdef	NOMB.=s|GENRE=m|CAS=r
-Rin	Rin	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Rin	Rhin	NOMpro	NOMB.=s|GENRE=m|CAS=r
 les	il	PROper	PERS.=3|NOMB.=p|GENRE=m|CAS=r
 anmoinent	enmener	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p
 ferant	ferir	VERppa	NOMB.=x|GENRE=x|CAS=x
@@ -5724,7 +5724,7 @@ desor	desor	PRE	MORPH=empty
 l'	le	DETdef	NOMB.=s|GENRE=f|CAS=r
 aigue	aigue	NOMcom	NOMB.=s|GENRE=f|CAS=r
 dou	de+le	PRE.DETdef	NOMB.=s|GENRE=m|CAS=r
-Rim	Rin	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Rim	Rhin	NOMpro	NOMB.=s|GENRE=m|CAS=r
 ,	,	PONfbl	MORPH=empty
 Si	se	CONsub	MORPH=empty
 ne	ne1	ADVneg	MORPH=empty
@@ -15135,7 +15135,7 @@ Landon	Landon	NOMpro	NOMB.=s|GENRE=m|CAS=r
 Erupuis	Erepuis	NOMpro	NOMB.=s|GENRE=m|CAS=r
 et	et	CONcoo	MORPH=empty
 le	le	DETdef	NOMB.=s|GENRE=m|CAS=r
-Manz	Le_Mans	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Manz	Mans	NOMpro	NOMB.=s|GENRE=m|CAS=r
 ;	;	PONfbl	MORPH=empty
 «	«	PONpga	MORPH=empty
 Dusque	dusque	PRE	MORPH=empty
@@ -18068,7 +18068,7 @@ Dusque	desque	PRE	MORPH=empty
 l'	le	DETdef	NOMB.=s|GENRE=f|CAS=r
 aigue	aigue	NOMcom	NOMB.=s|GENRE=f|CAS=r
 dou	de+le	PRE.DETdef	NOMB.=s|GENRE=m|CAS=r
-Rin	Rin	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Rin	Rhin	NOMpro	NOMB.=s|GENRE=m|CAS=r
 ne	ne1	ADVneg	MORPH=empty
 cessent	cesser	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p
 ne	ne2	CONcoo	MORPH=empty
@@ -22553,7 +22553,7 @@ autre	autre	PROind	NOMB.=s|GENRE=m|CAS=r
 et	et	CONcoo	MORPH=empty
 envers	envers2	ADVgen	DEGRE=-
 et	et	CONcoo	MORPH=empty
-adens	dent1	ADVgen	DEGRE=-
+adens	adens	ADVgen	DEGRE=-
 .	.	PONfrt	MORPH=empty
 De	de	PRE	MORPH=empty
 ci	ci	ADVgen	DEGRE=-

@@ -81,7 +81,7 @@ et	et	CONcoo	MORPH=empty
 li	le	DETdef	NOMB.=s|GENRE=m|CAS=r
 costé	costé	NOMcom	NOMB.=s|GENRE=m|CAS=r
 
-Olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=n
 l	il	PROper	PERS.=3|NOMB.=s|GENRE=n|CAS=r
 apercoit	apercevoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 mout	mout	ADVgen	DEGRE=-
@@ -239,7 +239,7 @@ li	le	DETdef	NOMB.=s|GENRE=m|CAS=r
 cors	cors1	NOMcom	NOMB.=s|GENRE=m|CAS=r
 alumé	alumer	VERppe	NOMB.=s|GENRE=m|CAS=r
 
-Olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=n
 apela	apeler	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 merci	merci	NOMcom	NOMB.=s|GENRE=f|CAS=r
 li	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=i
@@ -324,7 +324,7 @@ soi	estre1	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s
 de	de	PRE	MORPH=empty
 verité	verité	NOMcom	NOMB.=s|GENRE=f|CAS=r
 
-Olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=n
 gentis	gentil	ADJqua	NOMB.=s|GENRE=m|CAS=n|DEGRE=p
 hons	ome	NOMcom	NOMB.=s|GENRE=m|CAS=n
 aiez	avoir	VERcjg	MODE=imp|PERS.=2|NOMB.=p
@@ -357,7 +357,7 @@ versé	verser1	VERppe	NOMB.=s|GENRE=m|CAS=r
 Quant	cant1	CONsub	MORPH=empty
 l	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=r
 entent	entendre	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
-Olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=n
 si	si	ADVgen	DEGRE=-
 de	de	PRE	MORPH=empty
 pitié	pitié	NOMcom	NOMB.=s|GENRE=f|CAS=r
@@ -382,7 +382,7 @@ li	le	DETdef	NOMB.=s|GENRE=m|CAS=n
 champ	champ	NOMcom	NOMB.=s|GENRE=m|CAS=n
 afinez	afiner1	VERppe	NOMB.=s|GENRE=m|CAS=n
 
-Olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=n
 prist	prendre	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 li	le	DETdef	NOMB.=s|GENRE=m|CAS=r
 rois	roi2	NOMcom	NOMB.=s|GENRE=m|CAS=r
@@ -440,7 +440,7 @@ reprovez	reprover	VERppe	NOMB.=s|GENRE=n|CAS=n
 
 Certes	certes	ADVgen	DEGRE=-
 dist	dire	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
-Olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=n
 je	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n
 sui	estre1	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s
 en	en1	PRE	MORPH=empty
@@ -492,7 +492,7 @@ humilitez	umelité	NOMcom	NOMB.=s|GENRE=f|CAS=r
 
 Gentis	gentil	ADJqua	NOMB.=s|GENRE=m|CAS=n|DEGRE=p
 quens	conte1	NOMcom	NOMB.=s|GENRE=m|CAS=n
-Olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=n
 por	por2	PRE	MORPH=empty
 dex	Dieu	NOMpro	NOMB.=s|GENRE=m|CAS=r
 car	car	ADVgen	DEGRE=-
@@ -1307,7 +1307,7 @@ cruautez	crüauté	NOMcom	NOMB.=s|GENRE=f|CAS=r
 N	ne1	ADVneg	MORPH=empty
 i	i2	PROadv	MORPH=empty
 prisa	prisier	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
-Olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=r
 ii.	2	DETcar	NOMB.=p|GENRE=m|CAS=r
 deniers	denier	NOMcom	NOMB.=p|GENRE=m|CAS=r
 monaiez	monëer	VERppe	NOMB.=p|GENRE=m|CAS=r
@@ -1336,7 +1336,7 @@ parentez	parenté	NOMcom	NOMB.=s|GENRE=m|CAS=r
 
 et	et	CONcoo	MORPH=empty
 Respont	respondre1	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
-Olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=n
 ja	ja	ADVgen	DEGRE=-
 n	ne1	ADVneg	MORPH=empty
 orrez	öir	VERcjg	MODE=ind|TEMPS=fut|PERS.=2|NOMB.=p
@@ -1452,7 +1452,7 @@ adurez	aduré	ADJqua	NOMB.=s|GENRE=m|CAS=n|DEGRE=p
 Ou	o3	CONcoo	MORPH=empty
 li	le	DETdef	NOMB.=s|GENRE=m|CAS=n
 cuens	conte1	NOMcom	NOMB.=s|GENRE=m|CAS=n
-Olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=n
 qui	qui	PROrel	NOMB.=s|GENRE=m|CAS=n
 tant	tant	ADVgen	DEGRE=-
 est	estre1	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
@@ -1469,7 +1469,7 @@ alosez	aloser	ADJqua	NOMB.=s|GENRE=m|CAS=n|DEGRE=p
 par	par	PRE	MORPH=empty
 dex	Dieu	NOMpro	NOMB.=s|GENRE=m|CAS=r
 dit	dire	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
-Olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=n
 car	car	CONcoo	MORPH=empty
 i	il	PROper	PERS.=3|NOMB.=p|GENRE=m|CAS=n
 t	tu	PROper	PERS.=2|NOMB.=s|GENRE=m|CAS=r
@@ -1508,7 +1508,7 @@ l	le	DETdef	NOMB.=s|GENRE=n|CAS=n
 en	on	PROind	NOMB.=s|GENRE=n|CAS=n
 quiert	querre	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 en	en1	PRE	MORPH=empty
-erumprez	Erumprez	NOMpro	NOMB.=s|GENRE=m|CAS=r
+erumprez	Neron-Prez	NOMpro	NOMB.=s|GENRE=m|CAS=r
 
 Ge	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n
 t	tu	PROper	PERS.=2|NOMB.=s|GENRE=m|CAS=r
@@ -1666,7 +1666,7 @@ amitiez	amistié	NOMcom	NOMB.=s|GENRE=f|CAS=r
 
 et	et	CONcoo	MORPH=empty
 respont	respondre1	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
-Olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=n
 de	de	PRE	MORPH=empty
 folie	folie2	NOMcom	NOMB.=s|GENRE=f|CAS=r
 parlez	parler	VERcjg	MODE=ind|TEMPS=pst|PERS.=2|NOMB.=p
@@ -1828,7 +1828,7 @@ en	en2	PROadv	MORPH=empty
 voi	aler	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s
 Rollant	Rollant	NOMpro	NOMB.=s|GENRE=m|CAS=r
 ou	o3	CONcoo	MORPH=empty
-Olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=r
 son	son4	DETpos	PERS.=3|NOMB.=s|GENRE=m|CAS=n
 per	per	NOMcom	NOMB.=s|GENRE=m|CAS=n
 
@@ -1884,7 +1884,7 @@ refusez	refuser	VERppe	NOMB.=s|GENRE=m|CAS=n
 
 Certes	certes	ADVgen	DEGRE=-
 dit	dire	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
-Olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=n
 de	de	PRE	MORPH=empty
 folie	folie2	NOMcom	NOMB.=s|GENRE=f|CAS=r
 parlez	parler	VERcjg	MODE=ind|TEMPS=pst|PERS.=2|NOMB.=p

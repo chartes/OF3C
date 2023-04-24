@@ -7,7 +7,7 @@ parla	parler	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 Et	et	CONcoo	MORPH=empty
 dist	dire	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 :	:	PONfbl	MORPH=empty
-\"	\"	PONfbl	MORPH=empty
+"	"	PONpxx	MORPH=empty
 Pelerin	pelerin	NOMcom	NOMB.=s|GENRE=m|CAS=n
 ,	,	PONfbl	MORPH=empty
 entent	entendre	VERcjg	MODE=imp|PERS.=2|NOMB.=s
@@ -245,7 +245,7 @@ que	que2	PROrel	NOMB.=s|GENRE=f|CAS=r
 te	tu	PROper	PERS.=2|NOMB.=s|GENRE=m|CAS=i
 di	dire	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s
 .	.	PONfrt	MORPH=empty
-\"	\"	PONfbl	MORPH=empty
+"	"	PONpxx	MORPH=empty
 Mais	mais1	CONcoo	MORPH=empty
 pour	por2	PRE	MORPH=empty
 ce	ce1	PROdem	NOMB.=s|GENRE=n|CAS=r
@@ -260,7 +260,7 @@ cria	crïer2	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 en	en1	PRE	MORPH=empty
 haut	haut	ADJqua	NOMB.=s|GENRE=m|CAS=r|DEGRE=p
 :	:	PONfbl	MORPH=empty
-\"	\"	PONfbl	MORPH=empty
+"	"	PONpxx	MORPH=empty
 Las	las	ADJqua	NOMB.=s|GENRE=m|CAS=n|DEGRE=p
 ,	,	PONfbl	MORPH=empty
 Michaut	Michel	NOMpro	NOMB.=s|GENRE=m|CAS=n
@@ -309,8 +309,7 @@ que	que4	CONsub	MORPH=empty
 l'	le	DETdef	NOMB.=s|GENRE=m|CAS=n
 empetrement	empetrement	NOMcom	NOMB.=s|GENRE=m|CAS=n
 Qu'	que2	PROrel	NOMB.=s|GENRE=m|CAS=r
-ell	il	PROper	PERS.=3|NOMB.=s|GENRE=f|CAS=n
-'	'	PONfbl	MORPH=empty
+ell'	il	PROper	PERS.=3|NOMB.=s|GENRE=f|CAS=n
 a	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 fait	faire	VERppe	NOMB.=s|GENRE=m|CAS=r
 surrepticement	subrepticement	ADVgen	DEGRE=-
@@ -454,7 +453,7 @@ soie	estre1	VERcjg	MODE=sub|TEMPS=pst|PERS.=1|NOMB.=s
 ses	son4	DETpos	PERS.=3|NOMB.=p|GENRE=m|CAS=n
 annemis	enemi	NOMcom	NOMB.=p|GENRE=m|CAS=n
 .	.	PONfrt	MORPH=empty
-\"	\"	PONfbl	MORPH=empty
+"	"	PONpxx	MORPH=empty
 Moult	mout	ADVgen	DEGRE=-
 estoit	estre1	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=s
 li	le	DETdef	NOMB.=s|GENRE=m|CAS=n
@@ -585,7 +584,7 @@ chantoient	chanter	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=p
 haut	haut	ADJqua	NOMB.=s|GENRE=m|CAS=r|DEGRE=p
 ton	ton1	NOMcom	NOMB.=s|GENRE=m|CAS=r
 :	:	PONfbl	MORPH=empty
-\"	\"	PONfbl	MORPH=empty
+"	"	PONpxx	MORPH=empty
 Aourés	aorer2	VERppe	NOMB.=s|GENRE=m|CAS=n
 soies	estre1	VERcjg	MODE=imp|PERS.=2|NOMB.=s
 et	et	CONcoo	MORPH=empty
@@ -706,7 +705,7 @@ tendre	tendre1	VERinf	MORPH=empty
 tout	tot	DETind	NOMB.=s|GENRE=m|CAS=n
 pelerin	pelerin	NOMcom	NOMB.=s|GENRE=m|CAS=n
 .	.	PONfrt	MORPH=empty
-\"	\"	PONfbl	MORPH=empty
+"	"	PONpxx	MORPH=empty
 Quant	cant1	CONsub	MORPH=empty
 ainsi	ainsi	ADVgen	DEGRE=-
 chanté	chanter	VERppe	NOMB.=s|GENRE=m|CAS=r
@@ -721,7 +720,7 @@ Redisoient	redire	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=p
 autre	autre	DETind	NOMB.=s|GENRE=f|CAS=r
 chançon	chançon	NOMcom	NOMB.=s|GENRE=f|CAS=r
 :	:	PONfbl	MORPH=empty
-\"	\"	PONfbl	MORPH=empty
+"	"	PONpxx	MORPH=empty
 Jhesu	Jésus	NOMpro	NOMB.=s|GENRE=m|CAS=n
 ,	,	PONfbl	MORPH=empty
 à	a3	PRE	MORPH=empty
@@ -849,7 +848,7 @@ tousjours	tozjors	ADVgen	DEGRE=-
 et	et	CONcoo	MORPH=empty
 loués	löer1	VERppe	NOMB.=s|GENRE=m|CAS=n
 !	!	PONfrt	MORPH=empty
-\"	\"	PONfbl	MORPH=empty
+"	"	PONpxx	MORPH=empty
 En	en1	PRE	MORPH=empty
 chantant	chanter	VERppa	NOMB.=x|GENRE=x|CAS=x
 et	et	CONcoo	MORPH=empty
@@ -927,7 +926,7 @@ on	on	PROind	NOMB.=s|GENRE=n|CAS=n
 chanta	chanter	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 ainsi	ainsi	ADVgen	DEGRE=-
 :	:	PONfbl	MORPH=empty
-\"	\"	PONfbl	MORPH=empty
+"	"	PONpxx	MORPH=empty
 Loués	löer1	VERppe	NOMB.=s|GENRE=m|CAS=n
 soies	estre1	VERcjg	MODE=sub|TEMPS=pst|PERS.=2|NOMB.=s
 tu	tu	PROper	PERS.=2|NOMB.=s|GENRE=m|CAS=n
@@ -1179,7 +1178,7 @@ vous	vos	PROper	PERS.=2|NOMB.=p|GENRE=m|CAS=r
 a	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 creés	crïer1	VERppe	NOMB.=p|GENRE=m|CAS=r
 .	.	PONfrt	MORPH=empty
-\"	\"	PONfbl	MORPH=empty
+"	"	PONpxx	MORPH=empty
 En	en1	PRE	MORPH=empty
 ce	ce2	DETdem	NOMB.=s|GENRE=m|CAS=r
 point	point	NOMcom	NOMB.=s|GENRE=m|CAS=r
@@ -1252,7 +1251,7 @@ qui	qui	PROrel	NOMB.=s|GENRE=m|CAS=n
 haut	haut	ADVgen	DEGRE=-
 chantoit	chanter	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=s
 :	:	PONfbl	MORPH=empty
-\"	\"	PONfbl	MORPH=empty
+"	"	PONpxx	MORPH=empty
 Jhesuscrist	Jésus+crist	NOMpro	NOMB.=s|GENRE=m|CAS=n
 ,	,	PONfbl	MORPH=empty
 tu	tu	PROper	PERS.=2|NOMB.=s|GENRE=m|CAS=n
@@ -1472,7 +1471,7 @@ t'	tu	PROper	PERS.=2|NOMB.=s|GENRE=m|CAS=i
 en	en2	PROadv	MORPH=empty
 di	dire	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s
 .	.	PONfrt	MORPH=empty
-\"	\"	PONfbl	MORPH=empty
+"	"	PONpxx	MORPH=empty
 Ainsi	ainsi	ADVgen	DEGRE=-
 dedens	dedenz	PRE	MORPH=empty
 la	le	DETdef	NOMB.=s|GENRE=f|CAS=r
@@ -1597,7 +1596,7 @@ monta	monter	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 et	et	CONcoo	MORPH=empty
 dist	dire	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 :	:	PONfbl	MORPH=empty
-\"	\"	PONfbl	MORPH=empty
+"	"	PONpxx	MORPH=empty
 Venés	venir	VERcjg	MODE=imp|PERS.=2|NOMB.=p
 et	et	CONcoo	MORPH=empty
 oés	öir	VERcjg	MODE=imp|PERS.=2|NOMB.=p
@@ -1887,7 +1886,7 @@ mande	mander	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 le	le	DETdef	NOMB.=s|GENRE=m|CAS=n
 prevost	prevost	NOMcom	NOMB.=s|GENRE=m|CAS=n
 .	.	PONfrt	MORPH=empty
-\"	\"	PONfbl	MORPH=empty
+"	"	PONpxx	MORPH=empty
 Ainsi	ainsi	ADVgen	DEGRE=-
 fu	estre1	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 fait	faire	VERppe	NOMB.=s|GENRE=m|CAS=n
@@ -1914,7 +1913,7 @@ En	en1	PRE	MORPH=empty
 haut	haut	ADJqua	NOMB.=s|GENRE=m|CAS=r|DEGRE=p
 criant	crïer2	VERppa	NOMB.=x|GENRE=x|CAS=x
 :	:	PONfbl	MORPH=empty
-\"	\"	PONfbl	MORPH=empty
+"	"	PONpxx	MORPH=empty
 Or	or4	ADVgen	DEGRE=-
 ça	ça	ADVgen	DEGRE=-
 ,	,	PONfbl	MORPH=empty
@@ -1944,7 +1943,7 @@ actendre	atendre	VERinf	MORPH=empty
 ce	ce2	DETdem	NOMB.=s|GENRE=m|CAS=r
 jugement	jugement	NOMcom	NOMB.=s|GENRE=m|CAS=r
 !	!	PONfrt	MORPH=empty
-\"	\"	PONfbl	MORPH=empty
+"	"	PONpxx	MORPH=empty
 Et	et	CONcoo	MORPH=empty
 adonc	adonc	ADVgen	DEGRE=-
 vint	venir	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
@@ -1967,7 +1966,7 @@ joyeux	joios	ADJqua	NOMB.=p|GENRE=m|CAS=n|DEGRE=p
 au	a3+le	PRE.DETdef	MORPH=empty+NOMB.=s|GENRE=m|CAS=r
 devant	devant	NOMcom	NOMB.=s|GENRE=m|CAS=r
 :	:	PONfbl	MORPH=empty
-\"	\"	PONfbl	MORPH=empty
+"	"	PONpxx	MORPH=empty
 Or	or4	ADVgen	DEGRE=-
 ça	ça	ADVgen	DEGRE=-
 ,	,	PONfbl	MORPH=empty
@@ -2051,7 +2050,7 @@ ullés	uller1	VERcjg	MODE=imp|PERS.=2|NOMB.=p
 ,	,	PONfbl	MORPH=empty
 Disans	dire	VERppa	NOMB.=x|GENRE=x|CAS=x
 :	:	PONfbl	MORPH=empty
-'	'	PONfbl	MORPH=empty
+'	'	PONpxx	MORPH=empty
 Pourquoi	por2+coi2	ADVint	MORPH=empty
 fusmes	estre1	VERcjg	MODE=ind|TEMPS=psp|PERS.=1|NOMB.=p
 nous	nos1	PROper	PERS.=1|NOMB.=p|GENRE=m|CAS=n
@@ -2078,8 +2077,8 @@ Clarté	clarté	NOMcom	NOMB.=s|GENRE=f|CAS=r
 ne	ne2	CONcoo	MORPH=empty
 consolacion	consolacïon	NOMcom	NOMB.=s|GENRE=f|CAS=r
 ?	?	PONfrt	MORPH=empty
-'	'	PONfbl	MORPH=empty
-\"	\"	PONfbl	MORPH=empty
+'	'	PONpxx	MORPH=empty
+"	"	PONpxx	MORPH=empty
 Or	or4	ADVgen	DEGRE=-
 dirai	dire	VERcjg	MODE=ind|TEMPS=fut|PERS.=1|NOMB.=s
 quiex	quel1	DETrel	NOMB.=p|GENRE=x|CAS=n
@@ -2216,7 +2215,7 @@ quant	cant1	CONsub	MORPH=empty
 me	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=i
 dist	dire	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 :	:	PONfbl	MORPH=empty
-\"	\"	PONfbl	MORPH=empty
+"	"	PONpxx	MORPH=empty
 Grant	grant	ADJqua	NOMB.=s|GENRE=f|CAS=r|DEGRE=p
 grace	grace	NOMcom	NOMB.=s|GENRE=f|CAS=r
 t'	tu	PROper	PERS.=2|NOMB.=s|GENRE=m|CAS=i
@@ -2571,7 +2570,7 @@ de	de	PRE	MORPH=empty
 rien	rien	PROind	NOMB.=s|GENRE=f|CAS=r
 menti	mentir	VERppe	NOMB.=s|GENRE=m|CAS=r
 !	!	PONfrt	MORPH=empty
-\"	\"	PONfbl	MORPH=empty
+"	"	PONpxx	MORPH=empty
 Tost	tost1	ADVgen	DEGRE=-
 le	il	PROper	PERS.=3|NOMB.=s|GENRE=n|CAS=r
 fis	faire	VERcjg	MODE=ind|TEMPS=psp|PERS.=1|NOMB.=s
@@ -2629,7 +2628,7 @@ vëoie	vëoir	VERcjg	MODE=ind|TEMPS=ipf|PERS.=1|NOMB.=s
 aus	a3+le	PRE.DETdef	MORPH=empty+NOMB.=p|GENRE=m|CAS=r
 yeux	ueil	NOMcom	NOMB.=p|GENRE=m|CAS=r
 .	.	PONfrt	MORPH=empty
-\"	\"	PONfbl	MORPH=empty
+"	"	PONpxx	MORPH=empty
 Ha	ha	INJ	MORPH=empty
 ,	,	PONfbl	MORPH=empty
 dis	dire	VERcjg	MODE=ind|TEMPS=psp|PERS.=1|NOMB.=s
@@ -2829,7 +2828,7 @@ vont	aler	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p
 les	le	DETdef	NOMB.=p|GENRE=m|CAS=r
 galos	galop	NOMcom	NOMB.=p|GENRE=m|CAS=r
 .	.	PONfrt	MORPH=empty
-\"	\"	PONfbl	MORPH=empty
+"	"	PONpxx	MORPH=empty
 Or	or4	ADVgen	DEGRE=-
 m'	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=r
 en	en2	PROadv	MORPH=empty
@@ -2954,7 +2953,7 @@ mon	mon1	DETpos	PERS.=1|NOMB.=s|GENRE=m|CAS=n
 ange	angele	NOMcom	NOMB.=s|GENRE=m|CAS=n
 dist	dire	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 :	:	PONfbl	MORPH=empty
-\"	\"	PONfbl	MORPH=empty
+"	"	PONpxx	MORPH=empty
 Alon	aler	VERcjg	MODE=imp|PERS.=1|NOMB.=p
 ,	,	PONfbl	MORPH=empty
 Il	il	PROimp	PERS.=3|NOMB.=s|GENRE=m|CAS=n
@@ -3020,7 +3019,7 @@ est	estre1	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 prince	prince	NOMcom	NOMB.=s|GENRE=m|CAS=n
 toustemps	tot+tens	ADVgen	DEGRE=-
 .	.	PONfrt	MORPH=empty
-\"	\"	PONfbl	MORPH=empty
+"	"	PONpxx	MORPH=empty
 Et	et	CONcoo	MORPH=empty
 lors	lors	ADVgen	DEGRE=-
 le	le	DETdef	NOMB.=s|GENRE=m|CAS=n
@@ -3030,13 +3029,13 @@ avança	avancier	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 Et	et	CONcoo	MORPH=empty
 dist	dire	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 :	:	PONfbl	MORPH=empty
-\"	\"	PONfbl	MORPH=empty
+"	"	PONpxx	MORPH=empty
 Sens	sans	PRE	MORPH=empty
 moi	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=r
 mie	mie	ADVneg	MORPH=empty
 n'	ne1	ADVneg	MORPH=empty
 yra	aler	VERcjg	MODE=ind|TEMPS=fut|PERS.=3|NOMB.=s
-\"	\"	PONfbl	MORPH=empty
+"	"	PONpxx	MORPH=empty
 .	.	PONfrt	MORPH=empty
 Et	et	CONcoo	MORPH=empty
 me	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=i
@@ -3332,7 +3331,7 @@ disant	dire	VERppa	NOMB.=x|GENRE=x|CAS=x
 à	a3	PRE	MORPH=empty
 moi	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=r
 :	:	PONfbl	MORPH=empty
-\"	\"	PONfbl	MORPH=empty
+"	"	PONpxx	MORPH=empty
 Or	or4	ADVgen	DEGRE=-
 voi	vëoir	VERcjg	MODE=imp|PERS.=2|NOMB.=s
 Comment	coment1	ADVsub	MORPH=empty
@@ -3468,7 +3467,7 @@ je	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n
 n'	ne1	ADVneg	MORPH=empty
 atent	atendre	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s
 .	.	PONfrt	MORPH=empty
-\"	\"	PONfbl	MORPH=empty
+"	"	PONpxx	MORPH=empty
 Lors	lors	ADVgen	DEGRE=-
 li	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=i
 demandai	demander	VERcjg	MODE=ind|TEMPS=psp|PERS.=1|NOMB.=s
@@ -3504,7 +3503,7 @@ il	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n
 et	et	CONcoo	MORPH=empty
 dist	dire	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 :	:	PONfbl	MORPH=empty
-\"	\"	PONfbl	MORPH=empty
+"	"	PONpxx	MORPH=empty
 Le	le	DETdef	NOMB.=s|GENRE=m|CAS=n
 maistre	maistre	NOMcom	NOMB.=s|GENRE=m|CAS=n
 qui	qui	PROrel	NOMB.=s|GENRE=m|CAS=n
@@ -4174,7 +4173,7 @@ en	en1	PRE	MORPH=empty
 tel	tel	DETind	NOMB.=s|GENRE=m|CAS=r
 tourment	torment	NOMcom	NOMB.=s|GENRE=m|CAS=r
 ?	?	PONfrt	MORPH=empty
-\"	\"	PONfbl	MORPH=empty
+"	"	PONpxx	MORPH=empty
 Ainsi	ainsi	ADVgen	DEGRE=-
 fu	estre1	VERcjg	MODE=ind|TEMPS=psp|PERS.=1|NOMB.=s
 ainsi	ainsi	ADVgen	DEGRE=-
@@ -4383,7 +4382,7 @@ appellee	apeler	VERppe	NOMB.=s|GENRE=f|CAS=n
 est	estre1	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 Priere	priiere	NOMpro	NOMB.=s|GENRE=f|CAS=n
 :	:	PONfbl	MORPH=empty
-\"	\"	PONfbl	MORPH=empty
+"	"	PONpxx	MORPH=empty
 Je	je	PROper	PERS.=1|NOMB.=s|GENRE=f|CAS=n
 vieng	venir	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s
 et	et	CONcoo	MORPH=empty
@@ -5002,7 +5001,7 @@ ou	en1+le	PRE.DETdef	MORPH=empty+NOMB.=s|GENRE=m|CAS=r
 feu	feu	NOMcom	NOMB.=s|GENRE=m|CAS=r
 chaut	chaut	ADJqua	NOMB.=s|GENRE=m|CAS=r|DEGRE=p
 .	.	PONfrt	MORPH=empty
-\"	\"	PONfbl	MORPH=empty
+"	"	PONpxx	MORPH=empty
 Or	or4	ADVgen	DEGRE=-
 ça	ça	ADVgen	DEGRE=-
 ,	,	PONfbl	MORPH=empty
@@ -5075,14 +5074,14 @@ yex	ueil	NOMcom	NOMB.=p|GENRE=m|CAS=r
 ,	,	PONfbl	MORPH=empty
 Disans	dire	VERppa	NOMB.=x|GENRE=x|CAS=x
 :	:	PONfbl	MORPH=empty
-\"	\"	PONfbl	MORPH=empty
+"	"	PONpxx	MORPH=empty
 Merci	merci	NOMcom	NOMB.=s|GENRE=f|CAS=r
 ,	,	PONfbl	MORPH=empty
 beau	bel1	ADJqua	NOMB.=s|GENRE=m|CAS=n|DEGRE=p
 sire	seignor	NOMcom	NOMB.=s|GENRE=m|CAS=n
 Diex	Dieu	NOMpro	NOMB.=s|GENRE=m|CAS=n
 !	!	PONfrt	MORPH=empty
-\"	\"	PONfbl	MORPH=empty
+"	"	PONpxx	MORPH=empty
 Lors	lors	ADVgen	DEGRE=-
 verserent	verser1	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=p
 il	il	PROper	PERS.=3|NOMB.=p|GENRE=m|CAS=n
@@ -5167,7 +5166,7 @@ puis	puis	ADVgen	DEGRE=-
 me	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=i
 dist	dire	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 :	:	PONfbl	MORPH=empty
-\"	\"	PONfbl	MORPH=empty
+"	"	PONpxx	MORPH=empty
 Or	or4	ADVgen	DEGRE=-
 voi	vëoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s
 Com	come1	ADVsub	MORPH=empty
@@ -5223,7 +5222,7 @@ bien	bien2	NOMcom	NOMB.=s|GENRE=m|CAS=r
 fait	faire	VERppe	NOMB.=s|GENRE=m|CAS=r
 partiront	partir	VERcjg	MODE=ind|TEMPS=fut|PERS.=3|NOMB.=p
 .	.	PONfrt	MORPH=empty
-\"	\"	PONfbl	MORPH=empty
+"	"	PONpxx	MORPH=empty
 En	en1	PRE	MORPH=empty
 ce	ce1	PROdem	NOMB.=s|GENRE=n|CAS=r
 disant	dire	VERppa	NOMB.=x|GENRE=x|CAS=x
@@ -5285,7 +5284,7 @@ Et	et	CONcoo	MORPH=empty
 dirent	dire	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=p
 tous	tot	DETind	NOMB.=p|GENRE=m|CAS=n
 :	:	PONfbl	MORPH=empty
-\"	\"	PONfbl	MORPH=empty
+"	"	PONpxx	MORPH=empty
 Je	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n
 te	tu	PROper	PERS.=2|NOMB.=s|GENRE=m|CAS=r
 merci	mercïer	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s
@@ -5339,11 +5338,11 @@ pour	por2	PRE	MORPH=empty
 le	le	DETdef	NOMB.=s|GENRE=m|CAS=r
 general	general	ADJqua	NOMB.=s|GENRE=m|CAS=r|DEGRE=p
 .	.	PONfrt	MORPH=empty
-\"	\"	PONfbl	MORPH=empty
+"	"	PONpxx	MORPH=empty
 Lors	lors	ADVgen	DEGRE=-
 respondit	respondre1	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 :	:	PONfbl	MORPH=empty
-\"	\"	PONfbl	MORPH=empty
+"	"	PONpxx	MORPH=empty
 Ne	ne1	ADVneg	MORPH=empty
 sont	estre1	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p
 pas	pas	ADVneg	MORPH=empty
@@ -5503,7 +5502,7 @@ les	il	PROper	PERS.=3|NOMB.=p|GENRE=m|CAS=r
 y	i2	PROadv	MORPH=empty
 semont	semondre	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 .	.	PONfrt	MORPH=empty
-\"	\"	PONfbl	MORPH=empty
+"	"	PONpxx	MORPH=empty
 Tresbien	très+bien1	ADVgen	DEGRE=s
 me	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=i
 plust	plaire	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
@@ -5589,7 +5588,7 @@ Sathan	Satan	NOMpro	NOMB.=s|GENRE=m|CAS=n
 disoit	dire	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=s
 ainsi	ainsi	ADVgen	DEGRE=-
 :	:	PONfbl	MORPH=empty
-\"	\"	PONfbl	MORPH=empty
+"	"	PONpxx	MORPH=empty
 Chier	chier	ADJqua	NOMB.=p|GENRE=m|CAS=n|DEGRE=p
 ami	ami	NOMcom	NOMB.=p|GENRE=m|CAS=n
 et	et	CONcoo	MORPH=empty
@@ -5659,7 +5658,7 @@ rien	rien	PROind	NOMB.=s|GENRE=f|CAS=r
 au	a3+le	PRE.DETdef	MORPH=empty+NOMB.=s|GENRE=m|CAS=r
 derrenier	derrenier	NOMcom	NOMB.=s|GENRE=m|CAS=r
 .	.	PONfrt	MORPH=empty
-\"	\"	PONfbl	MORPH=empty
+"	"	PONpxx	MORPH=empty
 Adont	adonc	ADVgen	DEGRE=-
 à	a3	PRE	MORPH=empty
 mon	mon1	DETpos	PERS.=1|NOMB.=s|GENRE=m|CAS=r
@@ -5667,7 +5666,7 @@ ange	angele	NOMcom	NOMB.=s|GENRE=m|CAS=r
 je	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n
 dis	dire	VERcjg	MODE=ind|TEMPS=psp|PERS.=1|NOMB.=s
 :	:	PONfbl	MORPH=empty
-\"	\"	PONfbl	MORPH=empty
+"	"	PONpxx	MORPH=empty
 Moult	mout	ADVgen	DEGRE=-
 grandement	granment	ADVgen	DEGRE=-
 sui	estre1	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s
@@ -5734,14 +5733,14 @@ toi	tu	PROper	PERS.=2|NOMB.=s|GENRE=m|CAS=r
 voul	voloir	VERcjg	MODE=ind|TEMPS=psp|PERS.=1|NOMB.=s
 demander	demander	VERinf	MORPH=empty
 .	.	PONfrt	MORPH=empty
-\"	\"	PONfbl	MORPH=empty
+"	"	PONpxx	MORPH=empty
 À	a3	PRE	MORPH=empty
 ce	ce1	PROdem	NOMB.=s|GENRE=n|CAS=r
 li	le	DETdef	NOMB.=s|GENRE=m|CAS=n
 ange	angele	NOMcom	NOMB.=s|GENRE=m|CAS=n
 respondi	respondre1	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 :	:	PONfbl	MORPH=empty
-\"	\"	PONfbl	MORPH=empty
+"	"	PONpxx	MORPH=empty
 Toute	tot	DETind	NOMB.=s|GENRE=f|CAS=n
 la	le	DETdef	NOMB.=s|GENRE=f|CAS=n
 cure	cure	NOMcom	NOMB.=s|GENRE=f|CAS=n
@@ -6376,7 +6375,7 @@ est	estre1	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 fait	faire	VERppe	NOMB.=s|GENRE=m|CAS=n
 trebuchier	trebuchier	VERinf	MORPH=empty
 .	.	PONfrt	MORPH=empty
-\"	\"	PONfbl	MORPH=empty
+"	"	PONpxx	MORPH=empty
 Quant	cant1	CONsub	MORPH=empty
 me	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=i
 tenoit	tenir1	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=s
@@ -6457,7 +6456,7 @@ La	le	DETdef	NOMB.=s|GENRE=f|CAS=r
 lune	lune	NOMcom	NOMB.=s|GENRE=f|CAS=r
 circulierement	circulierement	ADVgen	DEGRE=-
 .	.	PONfrt	MORPH=empty
-\"	\"	PONfbl	MORPH=empty
+"	"	PONpxx	MORPH=empty
 Tresbien	très+bien1	ADVgen	DEGRE=s
 ,	,	PONfbl	MORPH=empty
 dis	dire	VERcjg	MODE=ind|TEMPS=psp|PERS.=1|NOMB.=s
@@ -7592,7 +7591,7 @@ anges	angele	NOMcom	NOMB.=s|GENRE=m|CAS=n
 me	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=i
 dist	dire	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 :	:	PONfbl	MORPH=empty
-\"	\"	PONfbl	MORPH=empty
+"	"	PONpxx	MORPH=empty
 Il	il	PROimp	PERS.=3|NOMB.=s|GENRE=m|CAS=n
 est	estre1	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 temps	tens	NOMcom	NOMB.=s|GENRE=m|CAS=n
@@ -7605,7 +7604,7 @@ Dont	dont	PROrel	NOMB.=x|GENRE=x|CAS=x
 aprés	après	ADVgen	DEGRE=-
 recordans	recorder	VERppa	NOMB.=s|GENRE=m|CAS=n
 soies	estre1	VERcjg	MODE=sub|TEMPS=pst|PERS.=2|NOMB.=s
-\"	\"	PONfbl	MORPH=empty
+"	"	PONpxx	MORPH=empty
 .	.	PONfrt	MORPH=empty
 Et	et	CONcoo	MORPH=empty
 lors	lors	ADVgen	DEGRE=-
@@ -7989,7 +7988,7 @@ paroles	parole	NOMcom	NOMB.=p|GENRE=f|CAS=r
 li	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=i
 disoit	dire	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=s
 :	:	PONfbl	MORPH=empty
-\"	\"	PONfbl	MORPH=empty
+"	"	PONpxx	MORPH=empty
 Chier	chier	ADJqua	NOMB.=s|GENRE=m|CAS=n|DEGRE=p
 gardien	gardiien	NOMcom	NOMB.=s|GENRE=m|CAS=n
 ,	,	PONfbl	MORPH=empty
@@ -8092,14 +8091,14 @@ mentir	mentir	VERinf	MORPH=empty
 de	de	PRE	MORPH=empty
 rien	rien	PROind	NOMB.=s|GENRE=f|CAS=r
 .	.	PONfrt	MORPH=empty
-\"	\"	PONfbl	MORPH=empty
+"	"	PONpxx	MORPH=empty
 Son	son4	DETpos	PERS.=3|NOMB.=s|GENRE=m|CAS=n
 ange	angele	NOMcom	NOMB.=s|GENRE=m|CAS=n
 lors	lors	ADVgen	DEGRE=-
 li	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=i
 respondi	respondre1	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 :	:	PONfbl	MORPH=empty
-\"	\"	PONfbl	MORPH=empty
+"	"	PONpxx	MORPH=empty
 Bien	bien1	ADVgen	DEGRE=p
 sçai	savoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s
 qu'	que4	CONsub	MORPH=empty
@@ -8403,7 +8402,7 @@ actendent	atendre	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p
 leur	lor2	DETpos	PERS.=3|NOMB.=s|GENRE=m|CAS=r
 sauvement	sauvement	NOMcom	NOMB.=s|GENRE=m|CAS=r
 .	.	PONfrt	MORPH=empty
-\"	\"	PONfbl	MORPH=empty
+"	"	PONpxx	MORPH=empty
 Moult	mout	ADVgen	DEGRE=-
 vi	vëoir	VERcjg	MODE=ind|TEMPS=psp|PERS.=1|NOMB.=s
 lors	lors	ADVgen	DEGRE=-

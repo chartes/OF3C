@@ -791,7 +791,7 @@ conjur	conjurer	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s
 par	par	PRE	MORPH=empty
 nostre	nostre	DETpos	PERS.=1|NOMB.=s|GENRE=m|CAS=r
 Signor	seignor	NOMcom	NOMB.=s|GENRE=m|CAS=r
-Jesu	Jesu	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Jesu	Jhesu	NOMpro	NOMB.=s|GENRE=m|CAS=r
 Crist	Crist	NOMpro	NOMB.=s|GENRE=m|CAS=r
 le	le	DETdef	NOMB.=s|GENRE=m|CAS=r
 fil	fil2	NOMcom	NOMB.=s|GENRE=m|CAS=r
@@ -819,7 +819,7 @@ atarjance	atarjance	NOMcom	NOMB.=s|GENRE=f|CAS=r
 se	se	CONsub	MORPH=empty
 je	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n
 t'	tu	PROper	PERS.=2|NOMB.=s|GENRE=m|CAS=r
-engendrai	engendrer	VERcjg	MODE=ind|TEMPS=psp|PERS.=1|NOMB.=s
+engendrai	engendrer1	VERcjg	MODE=ind|TEMPS=psp|PERS.=1|NOMB.=s
 .	.	PONfrt	MORPH=empty
 Tuit	tot	DETind	NOMB.=p|GENRE=m|CAS=n
 cil	cel	PROdem	NOMB.=p|GENRE=m|CAS=n
@@ -1129,7 +1129,7 @@ citoien	citëain	NOMcom	NOMB.=p|GENRE=m|CAS=n
 firent	faire	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=p
 arcevesqe	arcevesque	NOMcom	NOMB.=s|GENRE=m|CAS=r
 de	de	PRE	MORPH=empty
-Justinien	Justien	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Justinien	Justinien	NOMpro	NOMB.=s|GENRE=m|CAS=r
 et	et	CONcoo	MORPH=empty
 seinz	saint	ADJqua	NOMB.=s|GENRE=m|CAS=n|DEGRE=p
 Brices	Brice	NOMpro	NOMB.=s|GENRE=m|CAS=n
@@ -1225,7 +1225,7 @@ alez	aler	VERppe	NOMB.=s|GENRE=m|CAS=n
 il	il	PROper	PERS.=3|NOMB.=p|GENRE=m|CAS=n
 trestrent	traire	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=p
 a	a3	PRE	MORPH=empty
-Justien	Justien	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Justien	Justinien	NOMpro	NOMB.=s|GENRE=m|CAS=r
 lor	lor2	DETpos	PERS.=3|NOMB.=s|GENRE=m|CAS=r
 arcevesqe	arcevesque	NOMcom	NOMB.=s|GENRE=m|CAS=r
 et	et	CONcoo	MORPH=empty
@@ -1271,7 +1271,7 @@ desposeroient	despire	VERcjg	MODE=con|PERS.=3|NOMB.=p
 .	.	PONfrt	MORPH=empty
 Dont	dont	ADVgen	DEGRE=-
 issi	issir	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
-Justiens	Justien	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Justiens	Justinien	NOMpro	NOMB.=s|GENRE=m|CAS=n
 de	de	PRE	MORPH=empty
 la	le	DETdef	NOMB.=s|GENRE=f|CAS=r
 cité	cité	NOMcom	NOMB.=s|GENRE=f|CAS=r
@@ -1309,7 +1309,7 @@ sorent	savoir	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=p
 la	le	DETdef	NOMB.=s|GENRE=f|CAS=r
 novele	novele	NOMcom	NOMB.=s|GENRE=f|CAS=r
 de	de	PRE	MORPH=empty
-Justien	Justien	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Justien	Justinien	NOMpro	NOMB.=s|GENRE=m|CAS=r
 qi	que2	PROrel	NOMB.=s|GENRE=m|CAS=n
 mors	morir	VERppe	NOMB.=s|GENRE=m|CAS=n
 estoit	estre1	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=s
@@ -1529,7 +1529,7 @@ se	soi1	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=r
 rassist	rassëoir	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 en	en1	PRE	MORPH=empty
 sa	son4	DETpos	PERS.=3|NOMB.=s|GENRE=f|CAS=r
-chaaire	chaere	NOMcom	NOMB.=s|GENRE=f|CAS=r
+chaaire	chaiere	NOMcom	NOMB.=s|GENRE=f|CAS=r
 en	en1	PRE	MORPH=empty
 pes	pais	NOMcom	NOMB.=s|GENRE=f|CAS=r
 ,	,	PONfbl	MORPH=empty
@@ -1602,7 +1602,7 @@ arcevesqes	arcevesque	NOMcom	NOMB.=s|GENRE=m|CAS=n
 de	de	PRE	MORPH=empty
 Tors	Tours	NOMpro	NOMB.=s|GENRE=f|CAS=r
 seinz	saint	ADJqua	NOMB.=s|GENRE=m|CAS=n|DEGRE=p
-Eustochies	Eustache	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Eustochies	Eustaice	NOMpro	NOMB.=s|GENRE=m|CAS=n
 qi	que2	PROrel	NOMB.=s|GENRE=m|CAS=n
 mout	mout	ADVgen	DEGRE=s
 fu	estre1	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
@@ -1633,7 +1633,7 @@ l'	le	DETdef	NOMB.=s|GENRE=m|CAS=r
 onor	onor	NOMcom	NOMB.=s|GENRE=m|CAS=r
 nostre	nostre	DETpos	PERS.=1|NOMB.=s|GENRE=m|CAS=r
 Signor	seignor	NOMcom	NOMB.=s|GENRE=m|CAS=r
-Jesu	Jesu	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Jesu	Jhesu	NOMpro	NOMB.=s|GENRE=m|CAS=r
 Crist	Crist	NOMpro	NOMB.=s|GENRE=m|CAS=r
 de	de	PRE	MORPH=empty
 la	le	DETdef	NOMB.=s|GENRE=f|CAS=r

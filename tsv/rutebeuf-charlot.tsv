@@ -86,7 +86,7 @@ di	dire	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s
 ,	,	PONfbl	MORPH=empty
 qu'	que2	PROrel	NOMB.=s|GENRE=n|CAS=n
 à	a3	PRE	MORPH=empty
-Aviceinnes	Vincennes	NOMpro	NOMB.=s|GENRE=x|CAS=r
+Aviceinnes	Avicenne	NOMpro	NOMB.=s|GENRE=x|CAS=r
 Avint	avenir	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 ,	,	PONfbl	MORPH=empty
 n'	ne1	ADVneg	MORPH=empty
@@ -1186,9 +1186,7 @@ frere	frere	NOMcom	NOMB.=s|GENRE=m|CAS=r
 .	.	PONfrt	MORPH=empty
 Mout	mout	ADVgen	DEGRE=-
 s'	soi1	PROper	PERS.=3|NOMB.=p|GENRE=f|CAS=r
-entr	entre-	ADVgen	MORPH=empty
-'	'	PONfbl	MORPH=empty
-amoient	amer1	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=p
+entr'amoient	entr'amer	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=p
 ,	,	PONfbl	MORPH=empty
 ce	ce1	PROdem	NOMB.=s|GENRE=n|CAS=n
 me	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=i
@@ -1521,7 +1519,7 @@ estoit	estre1	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=s
 plus	plus	ADVgen	DEGRE=c
 fel	felon	ADJqua	NOMB.=s|GENRE=m|CAS=n|DEGRE=p
 qu'	que1	CONsub	MORPH=empty
-Erodes	Hérode	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Erodes	Herode	NOMpro	NOMB.=s|GENRE=m|CAS=n
 ,	,	PONfbl	MORPH=empty
 S'	soi1	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=r
 en	en2	PROadv	MORPH=empty
@@ -2826,7 +2824,7 @@ Et	et	CONcoo	MORPH=empty
 Freres	frere	NOMcom	NOMB.=s|GENRE=m|CAS=n
 Simons	Simon	NOMpro	NOMB.=s|GENRE=m|CAS=n
 toz	tot	ADVgen	NOMB.=s|GENRE=m|CAS=n
-adens	a3+dent2	ADVgen	DEGRE=-
+adens	adens	ADVgen	DEGRE=-
 Leis	lez	PRE	MORPH=empty
 la	le	DETdef	NOMB.=s|GENRE=f|CAS=r
 dame	dame	NOMcom	NOMB.=s|GENRE=f|CAS=r
@@ -3588,7 +3586,7 @@ preudomme	prodome	NOMcom	NOMB.=s|GENRE=m|CAS=r
 Qu'	que2	PROrel	NOMB.=s|GENRE=m|CAS=n
 à	a3	PRE	MORPH=empty
 Saint	saint	ADJqua	NOMB.=s|GENRE=m|CAS=r|DEGRE=p
-Ernoul	Arnoud	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Ernoul	Arnolt	NOMpro	NOMB.=s|GENRE=m|CAS=r
 doit	devoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 la	le	DETdef	NOMB.=s|GENRE=f|CAS=r
 chandoile	chandoile	NOMcom	NOMB.=s|GENRE=f|CAS=r
@@ -3641,7 +3639,7 @@ dame	dame	NOMcom	NOMB.=s|GENRE=f|CAS=r
 mesavint	mesavenir	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 Que	que4	CONcoo	MORPH=empty
 sire	seignor	NOMcom	NOMB.=s|GENRE=m|CAS=n
-Ernous	Arnoud	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Ernous	Arnolt	NOMpro	NOMB.=s|GENRE=m|CAS=n
 ses	son4	DETpos	PERS.=3|NOMB.=s|GENRE=m|CAS=n
 mariz	mari	NOMcom	NOMB.=s|GENRE=m|CAS=n
 vint	venir	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s

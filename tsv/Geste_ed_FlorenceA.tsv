@@ -542,7 +542,7 @@ ocis	ocire	VERppe	NOMB.=s|GENRE=m|CAS=n
 cors	cors1	NOMcom	NOMB.=s|GENRE=m|CAS=n
 soit	estre1	VERcjg	MODE=sub|TEMPS=pst|PERS.=3|NOMB.=s
 oniz	honir	VERppe	NOMB.=s|GENRE=m|CAS=n
-vestis	vestir	VERppe	NOMB.=x|GENRE=m|CAS=x
+vestis	vestir	VERppe	NOMB.=s|GENRE=m|CAS=n
 Certe	certes	ADVgen	DEGRE=-
 fu	estre1	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 Esmerez	Esmerez	NOMpro	NOMB.=s|GENRE=m|CAS=n
