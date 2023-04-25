@@ -39,6 +39,6 @@
             </applyTo>
         </replacement>
     </postprocessing>
-    <xi:include href="./corpora/no-morph.xml" parse="xml" />
-    <xi:include href="./corpora/morph.xml" parse="xml" />
+    <xi:include href="./corpora/without-morph.xml" parse="xml" />
+    <xi:include href="./corpora/with-morph.xml" parse="xml" />
 </config>

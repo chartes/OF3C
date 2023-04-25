@@ -1,1 +1,1 @@
-protogenie==0.0.4
+protogenie==0.0.7

@@ -56,5 +56,5 @@
         <disambiguation matchPattern="(DEGRE\=[\w-]+)\|?" new-column="DEGRE" source="morph" default="DEGRE=x" />
         <disambiguation matchPattern="(SPEC\=[\w-]+)\|?" new-column="SPEC" source="morph" default="SPEC=x" />
     </postprocessing>
-    <xi:include href="./corpora/morph.xml" parse="xml" />
+    <xi:include href="./corpora/with-morph.xml" parse="xml" />
 </config>

@@ -1,11 +1,12 @@
 <corpora>
     <corpus path="../tsv/LemmaPosMorph/PONfrt/*.tsv" column_marker="TAB">
-        <splitter name="regexp" matchPattern="PONfrt" source="POS"/><!-- TODO: set default splitter? -->
-        <splitter name="regexp" matchPattern="Ref\." source="lemma"/><!-- TODO: set default splitter? -->
+        <splitter name="regexp">
+            <option matchPattern="PONfrt" source="POS"/>
+            <option matchPattern="Ref\." source="lemma"/>
+        </splitter>
         <header type="default" />
     </corpus>
     <corpus path="../tsv/LemmaPosMorph/EmptyLine/*.tsv" column_marker="TAB">
-        <splitter name="regexp" matchPattern="PONfrt" source="POS"/>
         <splitter name="empty_line" />
         <header type="default" />
     </corpus>
