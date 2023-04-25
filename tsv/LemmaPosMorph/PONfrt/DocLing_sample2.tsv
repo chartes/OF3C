@@ -5173,7 +5173,7 @@ deffandre	defendre	VERinf	MORPH=empty
 garantir	garantir	VERinf	MORPH=empty
 et	et	CONcoo	MORPH=empty
 appaisier	apaisier	VERinf	MORPH=empty
-à -des	adès	ADVgen	DEGRE=-
+àdes	adès	ADVgen	DEGRE=-
 et	et	CONcoo	MORPH=empty
 en	en1	PRE	MORPH=empty
 touz	tot	DETind	NOMB.=p|GENRE=m|CAS=r
@@ -6112,7 +6112,7 @@ moubles	mueble	ADJqua	NOMB.=p|GENRE=m|CAS=r|DEGRE=p
 presans	present1	ADJqua	NOMB.=p|GENRE=m|CAS=r|DEGRE=p
 et	et	CONcoo	MORPH=empty
 à 	a3	PRE	MORPH=empty
--	-	PONfbl	
+-	-	PONfbl	MORPH=empty
 venir	venir	VERinf	MORPH=empty
 //.	//.	PONfbl	MORPH=empty
 à	a3	PRE	MORPH=empty
@@ -7256,7 +7256,7 @@ en	en1	PRE	MORPH=empty
 la	le	DETdef	NOMB.=s|GENRE=f|CAS=r
 -	-	PONfbl	MORPH=empty
 corte	cort1	NOMcom	NOMB.=s|GENRE=f|CAS=r
-Roiz ?	Roiz	NOMpro	NOMB.=s|GENRE=f|CAS=r
+Roiz	Roiz	NOMpro	NOMB.=s|GENRE=f|CAS=r
 desuz	desor	PRE	MORPH=empty
 la	le	DETdef	NOMB.=s|GENRE=f|CAS=r
 voie	voie	NOMcom	NOMB.=s|GENRE=f|CAS=r
@@ -7325,7 +7325,7 @@ si	son4	DETpos	PERS.=3|NOMB.=p|GENRE=m|CAS=n
 hoir	oir	NOMcom	NOMB.=p|GENRE=m|CAS=n
 /	/	PONfbl	MORPH=empty
 .I.	un	DETndf	NOMB.=s|GENRE=m|CAS=r
-bich ?	bichet	NOMcom	NOMB.=s|GENRE=m|CAS=r
+bich	bichet	NOMcom	NOMB.=s|GENRE=m|CAS=r
 ,	,	PONfbl	MORPH=empty
 Ranxes	Rances	NOMpro	NOMB.=s|GENRE=m|CAS=n
 li	le	DETdef	NOMB.=s|GENRE=m|CAS=n
@@ -7333,7 +7333,7 @@ fiz	fil2	NOMcom	NOMB.=s|GENRE=m|CAS=n
 Liebort	Liebort	NOMpro	NOMB.=s|GENRE=m|CAS=r
 /	/	PONfbl	MORPH=empty
 .I.	un	DETndf	NOMB.=s|GENRE=m|CAS=r
-bich ?	bichet	NOMcom	NOMB.=s|GENRE=m|CAS=r
+bich	bichet	NOMcom	NOMB.=s|GENRE=m|CAS=r
 ,//.	,//.	PONfbl	MORPH=empty
 li	le	DETdef	NOMB.=p|GENRE=m|CAS=n
 hoir	oir	NOMcom	NOMB.=p|GENRE=m|CAS=n
@@ -7343,7 +7343,7 @@ fil	fil2	NOMcom	NOMB.=s|GENRE=m|CAS=r
 Faudin	Faudin	NOMpro	NOMB.=s|GENRE=m|CAS=r
 /	/	PONfbl	MORPH=empty
 .I.	un	DETndf	NOMB.=s|GENRE=m|CAS=r
-bich ?	bichet	NOMcom	NOMB.=s|GENRE=m|CAS=r
+bich	bichet	NOMcom	NOMB.=s|GENRE=m|CAS=r
 ,	,	PONfbl	MORPH=empty
 Sernans	Sernan	NOMpro	NOMB.=s|GENRE=m|CAS=n
 li	le	DETdef	NOMB.=s|GENRE=m|CAS=n
@@ -7351,14 +7351,14 @@ fiz	fil2	NOMcom	NOMB.=s|GENRE=m|CAS=n
 Formei	Formei	NOMpro	NOMB.=s|GENRE=m|CAS=r
 /	/	PONfbl	MORPH=empty
 .I.	un	DETndf	NOMB.=s|GENRE=m|CAS=r
-bich ?	bichet	NOMcom	NOMB.=s|GENRE=m|CAS=r
+bich	bichet	NOMcom	NOMB.=s|GENRE=m|CAS=r
 ,	,	PONfbl	MORPH=empty
 Phelippes	Philippe	NOMpro	NOMB.=s|GENRE=m|CAS=n
 de	de	PRE	MORPH=empty
 Mezcrinez	Mécrinet	NOMpro	NOMB.=s|GENRE=x|CAS=r
 /	/	PONfbl	MORPH=empty
 .I.	un	DETndf	NOMB.=s|GENRE=m|CAS=r
-bich ?	bichet	NOMcom	NOMB.=s|GENRE=m|CAS=r
+bich	bichet	NOMcom	NOMB.=s|GENRE=m|CAS=r
 .//.	.//.	PONfrt	MORPH=empty
 Et	et	CONcoo	MORPH=empty
 ceste	cest	DETdem	NOMB.=s|GENRE=f|CAS=r
@@ -8010,7 +8010,7 @@ jusque	jusque	PRE	MORPH=empty
 la	le	DETdef	NOMB.=s|GENRE=f|CAS=r
 chaucié	chauciee	NOMcom	NOMB.=s|GENRE=f|CAS=r
 de	de	PRE	MORPH=empty
-le ?	le	DETdef	NOMB.=s|GENRE=m|CAS=r
+le	le	DETdef	NOMB.=s|GENRE=m|CAS=r
 davant	devant	ADVgen	DEGRE=-
 -	-	PONfbl	MORPH=empty
 dit	dire	VERppe	NOMB.=s|GENRE=m|CAS=r
@@ -8079,7 +8079,7 @@ jors	jor	NOMcom	NOMB.=p|GENRE=m|CAS=r
 toute	tot	DETind	NOMB.=s|GENRE=f|CAS=r
 nostre	nostre	DETpos	PERS.=1|NOMB.=s|GENRE=f|CAS=r
 partie	partie	NOMcom	NOMB.=s|GENRE=f|CAS=r
-entierement ?	entierement	ADVgen	DEGRE=-
+entierement	entierement	ADVgen	DEGRE=-
 molin	molin	NOMcom	NOMB.=s|GENRE=m|CAS=r
 de	de	PRE	MORPH=empty
 Leheimeis	Lahaymeix	NOMpro	NOMB.=s|GENRE=x|CAS=r
@@ -8249,7 +8249,7 @@ par	par	PRE	MORPH=empty
 fiés	fief	NOMcom	NOMB.=p|GENRE=m|CAS=r
 ne	ne2	CONcoo	MORPH=empty
 par	par	PRE	MORPH=empty
-arrier -fiés	arierefief	NOMcom	NOMB.=p|GENRE=m|CAS=r
+arrierfiés	arierefief	NOMcom	NOMB.=p|GENRE=m|CAS=r
 ,	,	PONfbl	MORPH=empty
 en	en1	PRE	MORPH=empty
 toutes	tot	DETind	NOMB.=p|GENRE=f|CAS=r
@@ -10794,7 +10794,7 @@ Fontenoy	Fontenay	NOMpro	NOMB.=s|GENRE=x|CAS=r
 ausi	aussi	ADVgen	DEGRE=-
 ,//.	,//.	PONfbl	MORPH=empty
 et	et	CONcoo	MORPH=empty
-qua -que	cantque	PROrel	NOMB.=s|GENRE=n|CAS=r
+quaque	cantque	PROrel	NOMB.=s|GENRE=n|CAS=r
 il	il	PROimp	PERS.=3|NOMB.=s|GENRE=m|CAS=n
 i	i2	PROadv	MORPH=empty
 -	-	PONfbl	MORPH=empty
@@ -11015,7 +11015,7 @@ peires	paire	NOMcom	NOMB.=s|GENRE=m|CAS=n
 mes	mon1	DETpos	PERS.=1|NOMB.=s|GENRE=m|CAS=n
 oncles	oncle	NOMcom	NOMB.=s|GENRE=m|CAS=n
 ,	,	PONfbl	MORPH=empty
-à -la	aler	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
+àla	aler	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 outremeir	outremer	ADVgen	DEGRE=-
 et	et	CONcoo	MORPH=empty
 li	le	DETdef	NOMB.=s|GENRE=m|CAS=n
@@ -11301,7 +11301,7 @@ Fontenoy	Fontenay	NOMpro	NOMB.=s|GENRE=x|CAS=r
 ausi	aussi	ADVgen	DEGRE=-
 ,//.	,//.	PONfbl	MORPH=empty
 et	et	CONcoo	MORPH=empty
-qua -que	cantque	PROrel	NOMB.=s|GENRE=n|CAS=r
+quaque	cantque	PROrel	NOMB.=s|GENRE=n|CAS=r
 il	il	PROimp	PERS.=3|NOMB.=s|GENRE=m|CAS=n
 i	i2	PROadv	MORPH=empty
 -	-	PONfbl	MORPH=empty
@@ -11857,7 +11857,7 @@ autres	autre	DETind	NOMB.=p|GENRE=f|CAS=r
 chozes	chose	NOMcom	NOMB.=p|GENRE=f|CAS=r
 ,	,	PONfbl	MORPH=empty
 et	et	CONcoo	MORPH=empty
-quan que	cantque	PROrel	NOMB.=s|GENRE=n|CAS=r
+quanque	cantque	PROrel	NOMB.=s|GENRE=n|CAS=r
 nos	nos1	PROper	PERS.=1|NOMB.=p|GENRE=m|CAS=n
 avons	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=p
 ailors	aillors	ADVgen	DEGRE=-
@@ -11895,7 +11895,7 @@ de	de	PRE	MORPH=empty
 Verdun	Verdun	NOMpro	NOMB.=s|GENRE=x|CAS=r
 devant	devant	ADVgen	DEGRE=-
 nommeis	nomer	VERppe	NOMB.=s|GENRE=m|CAS=r
-quan -que	cantque	PROrel	NOMB.=s|GENRE=n|CAS=r
+quanque	cantque	PROrel	NOMB.=s|GENRE=n|CAS=r
 nos	nos1	PROper	PERS.=1|NOMB.=p|GENRE=m|CAS=n
 avrons	avoir	VERcjg	MODE=ind|TEMPS=fut|PERS.=1|NOMB.=p
 et	et	CONcoo	MORPH=empty
@@ -24163,7 +24163,7 @@ dit	dire	VERppe	NOMB.=s|GENRE=m|CAS=n
 Regnaut	Renaut	NOMpro	NOMB.=s|GENRE=m|CAS=n
 Soudeien	Soudeien	NOMpro	NOMB.=s|GENRE=x|CAS=n
 par	par	PRE	MORPH=empty
-[REF:sey]	Ref.	OUT	MORPH=empty
+sey	soi1	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=i
 ,	,	PONfbl	MORPH=empty
 un	un	DETndf	NOMB.=s|GENRE=m|CAS=r
 sextier	sestier	NOMcom	NOMB.=s|GENRE=m|CAS=r
