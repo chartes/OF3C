@@ -205,7 +205,7 @@ po	poi	ADVgen	DEGRE=-
 n'	ne1	ADVneg	MORPH=empty
 est	estre1	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 forsannez	forsener	VERppe	NOMB.=s|GENRE=m|CAS=n
-Ogier	Ogier	NOMpro	NOMB.=s|GENRE=m|CAS=x
+Ogier	Ogier	NOMpro	NOMB.=s|GENRE=m|CAS=n
 «	«	PONpga	MORPH=empty
 Baron	baron	NOMcom	NOMB.=p|GENRE=m|CAS=n
 me	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=i

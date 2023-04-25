@@ -47,7 +47,7 @@ entramerent	entr'amer	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=p
 ,	,	PONfbl	MORPH=empty
 ce	ce1	PROdem	NOMB.=s|GENRE=n|CAS=r
 trovon	trover	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=p
-nos	nos1	PROper	PERS.=1|NOMB.=p|GENRE=n|CAS=n
+nos	nos1	PROper	PERS.=1|NOMB.=p|GENRE=m|CAS=n
 lisant	lire1	VERppa	NOMB.=x|GENRE=x|CAS=x
 ,	,	PONfbl	MORPH=empty
 ne	ne1	ADVneg	MORPH=empty
@@ -436,7 +436,7 @@ est	estre1	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 li	le	DETdef	NOMB.=s|GENRE=m|CAS=n
 quens	conte1	NOMcom	NOMB.=s|GENRE=m|CAS=n
 qui	qui	PROrel	NOMB.=s|GENRE=m|CAS=n
-olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=n
+olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=n
 a	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 non	nom	NOMcom	NOMB.=s|GENRE=m|CAS=r
 .	.	PONfrt	MORPH=empty
@@ -636,7 +636,7 @@ donra	doner	VERcjg	MODE=ind|TEMPS=fut|PERS.=3|NOMB.=s
 roussie	Russie	NOMpro	NOMB.=s|GENRE=f|CAS=r
 ,	,	PONfbl	MORPH=empty
 a	a3	PRE	MORPH=empty
-olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=r
+olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=r
 donra	doner	VERcjg	MODE=ind|TEMPS=fut|PERS.=3|NOMB.=s
 esclavonie	Esclavonie	NOMpro	NOMB.=s|GENRE=f|CAS=r
 ,	,	PONfbl	MORPH=empty
@@ -1274,7 +1274,7 @@ Karle	Charles	NOMpro	NOMB.=s|GENRE=m|CAS=n
 le	le	DETdef	NOMB.=s|GENRE=m|CAS=n
 rois	roi2	NOMcom	NOMB.=s|GENRE=m|CAS=n
 de	de	PRE	MORPH=empty
-saint	Saint	NOMpro	NOMB.=s|GENRE=m|CAS=r
+saint	saint	NOMpro	NOMB.=s|GENRE=m|CAS=r
 denis	Denis	NOMpro	NOMB.=s|GENRE=m|CAS=r
 :	:	PONfbl	MORPH=empty
 sarrasin	Sarrasin	NOMpro	NOMB.=s|GENRE=m|CAS=n
@@ -1588,7 +1588,7 @@ chante	chanter	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 l	le	DETdef	NOMB.=s|GENRE=m|CAS=n
 abe	abé1	NOMcom	NOMB.=s|GENRE=m|CAS=n
 de	de	PRE	MORPH=empty
-saint	Saint	NOMpro	NOMB.=s|GENRE=m|CAS=r
+saint	saint	NOMpro	NOMB.=s|GENRE=m|CAS=r
 omer	Omer	NOMpro	NOMB.=s|GENRE=m|CAS=r
 .	.	PONfrt	MORPH=empty
 .i.	un	DETndf	NOMB.=s|GENRE=m|CAS=r
@@ -1780,7 +1780,7 @@ moi	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=r
 maitenant	maintenant	ADVgen	DEGRE=-
 .	.	PONfrt	MORPH=empty
 dit	dire	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
-Olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=n
 :	:	PONfbl	MORPH=empty
 mout	mout	ADVgen	DEGRE=-
 parlez	parler	VERcjg	MODE=ind|TEMPS=pst|PERS.=2|NOMB.=p
@@ -2393,7 +2393,7 @@ vert	vert	ADJqua	NOMB.=s|GENRE=m|CAS=r|DEGRE=p
 lïoncel	lïoncel	NOMcom	NOMB.=s|GENRE=m|CAS=r
 ;	;	PONfbl	MORPH=empty
 entre	entre2	PRE	MORPH=empty
-ses	son4	DETpos	PERS.=3|NOMB.=p|GENRE=m|CAS=r|DEGRE=p
+ses	son4	DETpos	PERS.=3|NOMB.=s|GENRE=m|CAS=r
 piez	pié	NOMcom	NOMB.=p|GENRE=m|CAS=r
 portoit	porter	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=s
 .i.	un	DETndf	NOMB.=s|GENRE=m|CAS=r
@@ -4296,7 +4296,7 @@ biaus	bel1	ADJqua	NOMB.=s|GENRE=m|CAS=n|DEGRE=p
 niés	nevo	NOMcom	NOMB.=s|GENRE=m|CAS=n
 ,	,	PONfbl	MORPH=empty
 dit	dire	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
-il	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n|DEGRE=p
+il	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n
 ,	,	PONfbl	MORPH=empty
 com	come1	CONsub	MORPH=empty
 vos	vos	PROper	PERS.=2|NOMB.=p|GENRE=m|CAS=i
@@ -4462,7 +4462,7 @@ parrin	parrain	NOMcom	NOMB.=s|GENRE=m|CAS=n
 fu	estre1	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 Karle	Charles	NOMpro	NOMB.=s|GENRE=m|CAS=n
 de	de	PRE	MORPH=empty
-saint	Saint	NOMpro	NOMB.=s|GENRE=m|CAS=r
+saint	saint	NOMpro	NOMB.=s|GENRE=m|CAS=r
 denise	Denis	NOMpro	NOMB.=s|GENRE=m|CAS=r
 ,	,	PONfbl	MORPH=empty
 son	son4	DETpos	PERS.=3|NOMB.=s|GENRE=m|CAS=r
@@ -4916,7 +4916,7 @@ ne	ne2	CONcoo	MORPH=empty
 mes	mais1	ADVgen	DEGRE=-
 ogier	Ogier	NOMpro	NOMB.=s|GENRE=m|CAS=n
 et	et	CONcoo	MORPH=empty
-olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=n
+olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=n
 le	le	DETdef	NOMB.=s|GENRE=m|CAS=n
 ber	baron	NOMcom	NOMB.=s|GENRE=m|CAS=n
 .	.	PONfrt	MORPH=empty
@@ -5300,7 +5300,7 @@ c	que2	PROrel	NOMB.=s|GENRE=m|CAS=r
 on	on	PROind	NOMB.=s|GENRE=n|CAS=n
 claime	clamer	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 forest	Forest	NOMpro	NOMB.=s|GENRE=f|CAS=r
-grant	Grant	NOMpro	NOMB.=s|GENRE=f|CAS=r
+grant	grant	NOMpro	NOMB.=s|GENRE=f|CAS=r
 ,	,	PONfbl	MORPH=empty
 la	le	DETdef	NOMB.=s|GENRE=f|CAS=r
 noisse	noise	NOMcom	NOMB.=s|GENRE=f|CAS=r
@@ -5543,7 +5543,7 @@ garde	garder	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 s	si	ADVgen	DEGRE=-
 a	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 veü	vëoir	VERppe	NOMB.=s|GENRE=m|CAS=r
-olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=r
+olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=r
 qui	qui	PROrel	NOMB.=s|GENRE=m|CAS=n
 s	soi1	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=r
 en	en2	PROadv	MORPH=empty
@@ -5667,7 +5667,7 @@ liez	lié1	ADJqua	NOMB.=s|GENRE=m|CAS=n|DEGRE=p
 le	le	DETdef	NOMB.=s|GENRE=m|CAS=n
 prou	pro	ADJqua	NOMB.=s|GENRE=m|CAS=n|DEGRE=p
 conte	conte1	NOMcom	NOMB.=s|GENRE=m|CAS=n
-olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=n
+olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=n
 .	.	PONfrt	MORPH=empty
 estouz	Estout	NOMpro	NOMB.=s|GENRE=m|CAS=n
 de	de	PRE	MORPH=empty
@@ -5919,7 +5919,7 @@ meine	mener	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 com	come1	CONsub	MORPH=empty
 s	se	CONsub	MORPH=empty
 il	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n
-fust	estre1	VERcjg	MODE=sub|TEMPS=psp|PERS.=3|NOMB.=s
+fust	estre1	VERcjg	MODE=sub|TEMPS=ipf|PERS.=3|NOMB.=s
 forsenez	forsener	VERppe	NOMB.=s|GENRE=m|CAS=n
 .	.	PONfrt	MORPH=empty
 ysorez	Ysoré	NOMpro	NOMB.=s|GENRE=m|CAS=n
@@ -6147,7 +6147,7 @@ mot	mot	NOMcom	NOMB.=s|GENRE=m|CAS=r
 vienent	venir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p
 sarrasin	Sarrasin	NOMpro	NOMB.=p|GENRE=m|CAS=n
 et	et	CONcoo	MORPH=empty
-persant	Persant	NOMpro	NOMB.=p|GENRE=m|CAS=n
+persant	persant	NOMpro	NOMB.=p|GENRE=m|CAS=n
 ,	,	PONfbl	MORPH=empty
 n	ne1	ADVneg	MORPH=empty
 i	i2	PROadv	MORPH=empty
@@ -7356,7 +7356,7 @@ naimes	Naimes	NOMpro	NOMB.=s|GENRE=m|CAS=n
 li	le	DETdef	NOMB.=s|GENRE=m|CAS=n
 barbez	barbé	ADJqua	NOMB.=s|GENRE=m|CAS=n|DEGRE=p
 et	et	CONcoo	MORPH=empty
-olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=n
+olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=n
 et	et	CONcoo	MORPH=empty
 otes	Otinel	NOMpro	NOMB.=s|GENRE=m|CAS=n
 li	le	DETdef	NOMB.=s|GENRE=m|CAS=n
@@ -7669,7 +7669,7 @@ au	a3+le	PRE.DETdef	NOMB.=s|GENRE=m|CAS=r
 paien	paien	NOMcom	NOMB.=s|GENRE=m|CAS=r
 desfaez	desfäé	ADJqua	NOMB.=s|GENRE=m|CAS=r|DEGRE=p
 .	.	PONfrt	MORPH=empty
-Otinel	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Otinel	Otinel	NOMpro	NOMB.=s|GENRE=m|CAS=n
 saut	salir2	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 ,	,	PONfbl	MORPH=empty
 cele	cel	DETdem	NOMB.=s|GENRE=f|CAS=r
@@ -7915,7 +7915,7 @@ armes	arme	NOMcom	NOMB.=p|GENRE=f|CAS=r
 a	a3	PRE	MORPH=empty
 bandon	bandon	NOMcom	NOMB.=s|GENRE=m|CAS=r
 .	.	PONfrt	MORPH=empty
-Olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=n
 prent	prendre	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 le	le	DETdef	NOMB.=s|GENRE=m|CAS=r
 cortois	cortois	ADJqua	NOMB.=s|GENRE=m|CAS=r|DEGRE=p
@@ -8003,7 +8003,7 @@ uns	un	DETndf	NOMB.=p|GENRE=m|CAS=r
 esperons	esperon	NOMcom	NOMB.=p|GENRE=m|CAS=r
 li	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=i
 chauça	chaucier1	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
-olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=n
+olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=n
 et	et	CONcoo	MORPH=empty
 belissent	Belisent	NOMpro	NOMB.=s|GENRE=f|CAS=n
 si	si	ADVgen	DEGRE=-
@@ -9052,7 +9052,7 @@ trop	trop	ADVgen	DEGRE=-
 estoient	estre1	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=p
 sarrasin	Sarrasin	NOMpro	NOMB.=p|GENRE=m|CAS=n
 et	et	CONcoo	MORPH=empty
-persant	Persant	NOMpro	NOMB.=p|GENRE=m|CAS=n
+persant	persant	NOMpro	NOMB.=p|GENRE=m|CAS=n
 .	.	PONfrt	MORPH=empty
 par	par	PRE	MORPH=empty
 force	force2	NOMcom	NOMB.=s|GENRE=f|CAS=r
@@ -9254,7 +9254,7 @@ rollant	Rollant	NOMpro	NOMB.=s|GENRE=m|CAS=r
 le	le	DETdef	NOMB.=s|GENRE=m|CAS=r
 conte	conte1	NOMcom	NOMB.=s|GENRE=m|CAS=r
 et	et	CONcoo	MORPH=empty
-olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=r
+olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=r
 son	son4	DETpos	PERS.=3|NOMB.=s|GENRE=m|CAS=r
 dru	dru1	NOMcom	NOMB.=s|GENRE=m|CAS=r
 .	.	PONfrt	MORPH=empty
@@ -9469,7 +9469,7 @@ li	le	DETdef	NOMB.=s|GENRE=m|CAS=n
 quens	conte1	NOMcom	NOMB.=s|GENRE=m|CAS=n
 Rollant	Rollant	NOMpro	NOMB.=s|GENRE=m|CAS=n
 et	et	CONcoo	MORPH=empty
-olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=n
+olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=n
 le	le	DETdef	NOMB.=s|GENRE=m|CAS=n
 ber	baron	NOMcom	NOMB.=s|GENRE=m|CAS=n
 .	.	PONfrt	MORPH=empty
@@ -9546,7 +9546,7 @@ es	ez	ADVgen	DEGRE=-
 vos	vos	PROper	PERS.=2|NOMB.=p|GENRE=m|CAS=i
 garin	Garin	NOMpro	NOMB.=s|GENRE=m|CAS=n
 de	de	PRE	MORPH=empty
-saint	Saint	NOMpro	NOMB.=s|GENRE=m|CAS=r
+saint	saint	NOMpro	NOMB.=s|GENRE=m|CAS=r
 omer	Omer	NOMpro	NOMB.=s|GENRE=m|CAS=r
 ,	,	PONfbl	MORPH=empty
 fromont	Fromund	NOMpro	NOMB.=s|GENRE=m|CAS=n
@@ -9699,7 +9699,7 @@ por	por2	PRE	MORPH=empty
 ocirre	ocire	VERinf	MORPH=empty
 rollant	Rollant	NOMpro	NOMB.=s|GENRE=m|CAS=r
 Ou	o3	CONcoo	MORPH=empty
-olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=r
+olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=r
 ou	o3	CONcoo	MORPH=empty
 otinel	Otinel	NOMpro	NOMB.=s|GENRE=m|CAS=r
 le	le	DETdef	NOMB.=s|GENRE=m|CAS=r
@@ -10107,7 +10107,7 @@ amiraus	amiral	NOMcom	NOMB.=s|GENRE=m|CAS=n
 s	soi1	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=r
 ellesse	eslaissier	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 a	a3	PRE	MORPH=empty
-olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=r
+olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=r
 et	et	CONcoo	MORPH=empty
 li	le	DETdef	NOMB.=s|GENRE=m|CAS=n
 quens	conte1	NOMcom	NOMB.=s|GENRE=m|CAS=n
@@ -10929,7 +10929,7 @@ poil	poil	NOMcom	NOMB.=s|GENRE=m|CAS=r
 a	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 ferrant	ferrant	ADJqua	NOMB.=s|GENRE=m|CAS=r|DEGRE=p
 et	et	CONcoo	MORPH=empty
-olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=r
+olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=r
 ,	,	PONfbl	MORPH=empty
 Otinel	Otinel	NOMpro	NOMB.=s|GENRE=m|CAS=r
 et	et	CONcoo	MORPH=empty
@@ -11019,7 +11019,7 @@ son	son4	DETpos	PERS.=3|NOMB.=s|GENRE=m|CAS=n
 nevou	nevo	NOMcom	NOMB.=s|GENRE=m|CAS=n
 Rollant	Rollant	NOMpro	NOMB.=s|GENRE=m|CAS=n
 et	et	CONcoo	MORPH=empty
-oliver	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=n
+oliver	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=n
 qui	qui	PROrel	NOMB.=s|GENRE=m|CAS=n
 tant	tant	ADVgen	DEGRE=-
 est	estre1	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
@@ -11443,7 +11443,7 @@ devan	devant	PRE	MORPH=empty
 lui	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=i
 fuiant	fuir	VERppa	NOMB.=x|GENRE=x|CAS=x
 .	.	PONfrt	MORPH=empty
-Olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=r
 trove	trover	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 et	et	CONcoo	MORPH=empty
 turpin	Turpin	NOMpro	NOMB.=s|GENRE=m|CAS=r
@@ -12512,7 +12512,7 @@ conte	conte1	NOMcom	NOMB.=s|GENRE=m|CAS=r
 et	et	CONcoo	MORPH=empty
 le	le	DETdef	NOMB.=s|GENRE=m|CAS=r
 proz	pro	ADJqua	NOMB.=s|GENRE=m|CAS=r|DEGRE=p
-olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=r
+olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=r
 et	et	CONcoo	MORPH=empty
 otinel	Otinel	NOMpro	NOMB.=s|GENRE=m|CAS=r
 le	le	DETdef	NOMB.=s|GENRE=m|CAS=r
@@ -13554,7 +13554,7 @@ son	son4	DETpos	PERS.=3|NOMB.=s|GENRE=m|CAS=r
 nevou	nevo	NOMcom	NOMB.=s|GENRE=m|CAS=r
 mandez	mander	VERppe	NOMB.=s|GENRE=m|CAS=r
 et	et	CONcoo	MORPH=empty
-olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=r
+olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=r
 li	le	DETdef	NOMB.=s|GENRE=m|CAS=r
 preuz	pro	NOMcom	NOMB.=s|GENRE=m|CAS=r
 et	et	CONcoo	MORPH=empty

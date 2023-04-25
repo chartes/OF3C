@@ -24,7 +24,7 @@ volentiers	volentiers	ADVgen	DEGRE=-
 n'	ne1	ADVneg	MORPH=empty
 entendie	entendre	VERcjg	MODE=sub|TEMPS=pst|PERS.=3|NOMB.=s
 et	et	CONcoo	MORPH=empty
-oïe	oïr	VERcjg	MODE=sub|TEMPS=pst|PERS.=3|NOMB.=s
+oïe	öir	VERcjg	MODE=sub|TEMPS=pst|PERS.=3|NOMB.=s
 ceus	cel	PROdem	NOMB.=p|GENRE=m|CAS=r
 qi	que2	PROrel	NOMB.=p|GENRE=m|CAS=n
 racontent	reconter	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p
@@ -208,7 +208,7 @@ nostre	nostre	DETpos	PERS.=1|NOMB.=s|GENRE=m|CAS=n
 Sires	seignor	NOMcom	NOMB.=s|GENRE=m|CAS=n
 ne	ne1	ADVneg	MORPH=empty
 l'	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=r
-aornast	aorner	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=s
+aornast	aorner1	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=s
 de	de	PRE	MORPH=empty
 totes	tot	DETind	NOMB.=p|GENRE=f|CAS=r
 bones	bon	ADJqua	NOMB.=p|GENRE=f|CAS=r|DEGRE=p
@@ -222,7 +222,7 @@ science	scïence	NOMcom	NOMB.=s|GENRE=f|CAS=r
 Defors	defors	ADVgen	DEGRE=-
 aparoient	aparoir	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=p
 ses	son4	DETpos	PERS.=3|NOMB.=p|GENRE=f|CAS=r
-bones	bon	ADJqua	NOMB.=p|GENRE=f|CAS=n|DGRE=p
+bones	bon	ADJqua	NOMB.=p|GENRE=f|CAS=r|DEGRE=p
 oevres	uevre	NOMcom	NOMB.=p|GENRE=f|CAS=r
 par	par	PRE	MORPH=empty
 ce	ce1	PROdem	NOMB.=s|GENRE=n|CAS=r
@@ -282,7 +282,7 @@ Qant	cant1	CONsub	MORPH=empty
 li	le	DETdef	NOMB.=s|GENRE=m|CAS=n
 seinz	saint	ADJqua	NOMB.=s|GENRE=m|CAS=n|DEGRE=p
 enfes	enfant	NOMcom	NOMB.=s|GENRE=m|CAS=n
-oï	oïr	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
+oï	öir	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 la	le	DETdef	NOMB.=s|GENRE=f|CAS=r
 voiz	voiz	NOMcom	NOMB.=s|GENRE=f|CAS=r
 del	de+le	PRE.DETdef	NOMB.=s|GENRE=m|CAS=r
@@ -602,7 +602,7 @@ gueriz	gerir	VERppe	NOMB.=s|GENRE=m|CAS=n
 .	.	PONfrt	MORPH=empty
 Par	par	PRE	MORPH=empty
 un	un	DETndf	NOMB.=s|GENRE=m|CAS=r
-diemence	dïemanche	NOMcom	NOMB.=s|GENRE=m|CAS=r
+diemence	dïemaine	NOMcom	NOMB.=s|GENRE=m|CAS=r
 aprés	après	PRE	MORPH=empty
 ce	ce1	PROdem	NOMB.=s|GENRE=n|CAS=r
 avint	avenir	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
@@ -1181,7 +1181,7 @@ Qant	cant1	CONsub	MORPH=empty
 li	le	DETdef	NOMB.=s|GENRE=m|CAS=n
 seinz	saint	ADJqua	NOMB.=s|GENRE=m|CAS=n|DEGRE=p
 hom	ome	NOMcom	NOMB.=s|GENRE=m|CAS=n
-oï	oïr	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
+oï	öir	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 ce	ce1	PROdem	NOMB.=s|GENRE=n|CAS=r
 ,	,	PONfbl	MORPH=empty
 si	si	ADVgen	DEGRE=-
@@ -1406,7 +1406,7 @@ li	le	DETdef	NOMB.=s|GENRE=m|CAS=n
 seinz	saint	ADJqua	NOMB.=s|GENRE=m|CAS=n|DEGRE=p
 hom	ome	NOMcom	NOMB.=s|GENRE=m|CAS=n
 l'	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=r
-oï	oïr	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
+oï	öir	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 ,	,	PONfbl	MORPH=empty
 il	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n
 covoita	covoitier	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
@@ -1516,7 +1516,7 @@ Et	et	CONcoo	MORPH=empty
 qant	cant1	CONsub	MORPH=empty
 seinz	saint	ADJqua	NOMB.=s|GENRE=m|CAS=n|DEGRE=p
 Gilles	Gile	NOMpro	NOMB.=s|GENRE=m|CAS=n
-oï	oïr	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
+oï	öir	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 le	le	DETdef	NOMB.=s|GENRE=m|CAS=r
 renon	renom	NOMcom	NOMB.=s|GENRE=m|CAS=r
 de	de	PRE	MORPH=empty
@@ -1586,7 +1586,7 @@ le	le	DETdef	NOMB.=s|GENRE=m|CAS=r
 mengier	mangier	VERinf	NOMB.=x|GENRE=x|CAS=x
 ,	,	PONfbl	MORPH=empty
 si	si	ADVgen	DEGRE=-
-oï	oïr	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
+oï	öir	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 li	le	DETdef	NOMB.=s|GENRE=m|CAS=n
 seinz	saint	ADJqua	NOMB.=s|GENRE=m|CAS=n|DEGRE=p
 hom	ome	NOMcom	NOMB.=s|GENRE=m|CAS=n
@@ -1772,7 +1772,7 @@ par	par	PRE	MORPH=empty
 son	son4	DETpos	PERS.=3|NOMB.=s|GENRE=m|CAS=r
 arcediacre	arcediacne	NOMcom	NOMB.=s|GENRE=m|CAS=r
 qi	que2	PROrel	NOMB.=s|GENRE=m|CAS=n
-Aurelius	Anatolius	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Aurelius	Aurelius	NOMpro	NOMB.=s|GENRE=m|CAS=n
 avoit	avoir	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=s
 non	nom	NOMcom	NOMB.=s|GENRE=m|CAS=r
 q'	que4	CONsub	MORPH=empty
@@ -1868,7 +1868,7 @@ com	come1	CONsub	MORPH=empty
 il	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n
 aloit	aler	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=s
 ce	ce1	PROdem	NOMB.=s|GENRE=n|CAS=r
-qerant	querre	VERppa	NOMB.=s|GENRE=x|CAS=x
+qerant	querre	VERppa	NOMB.=x|GENRE=x|CAS=x
 tos	tot	ADVgen	DEGRE=-
 seus	sol1	ADJqua	NOMB.=s|GENRE=m|CAS=n|DEGRE=p
 ,	,	PONfbl	MORPH=empty
@@ -1883,7 +1883,7 @@ un	un	DETndf	NOMB.=s|GENRE=m|CAS=r
 seint	saint	ADJqua	NOMB.=s|GENRE=m|CAS=r|DEGRE=p
 home	ome	NOMcom	NOMB.=s|GENRE=m|CAS=r
 qi	que2	PROrel	NOMB.=s|GENRE=m|CAS=n
-Veredemius	veredemius	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Veredemius	Veredemius	NOMpro	NOMB.=s|GENRE=m|CAS=n
 avoit	avoir	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=s
 non	nom	NOMcom	NOMB.=s|GENRE=m|CAS=r
 por	por2	PRE	MORPH=empty
@@ -2097,7 +2097,7 @@ Un	un	DETndf	NOMB.=s|GENRE=m|CAS=r
 jor	jor	NOMcom	NOMB.=s|GENRE=m|CAS=r
 avint	avenir	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 qe	que4	CONsub	MORPH=empty
-Veredemus	veredemius	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Veredemus	Veredemius	NOMpro	NOMB.=s|GENRE=m|CAS=n
 estoit	estre1	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=s
 departiz	departir	VERppe	NOMB.=s|GENRE=m|CAS=n
 de	de	PRE	MORPH=empty
@@ -2149,7 +2149,7 @@ respondi	respondre1	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 q'	que4	CONsub	MORPH=empty
 il	il	PROper	PERS.=3|NOMB.=p|GENRE=m|CAS=n
 atendissent	atendre	VERcjg	MODE=sub|TEMPS=ipf|PERS.=3|NOMB.=p
-Veredemium	veredemius	NOMpro	NOMB.=p|GENRE=m|CAS=n
+Veredemium	Veredemius	NOMpro	NOMB.=p|GENRE=m|CAS=n
 tant	tant	ADVgen	DEGRE=-
 q'	que4	CONsub	MORPH=empty
 il	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n
@@ -2219,12 +2219,12 @@ nostre	nostre	DETpos	PERS.=1|NOMB.=s|GENRE=f|CAS=r
 terre	terre	NOMcom	NOMB.=s|GENRE=f|CAS=r
 et	et	CONcoo	MORPH=empty
 qi	que2	PROrel	NOMB.=s|GENRE=m|CAS=n
-la	là	ADVgen	NOMB.=s|DEGRE=-
+la	là	ADVgen	DEGRE=-
 feïs	faire	VERcjg	MODE=ind|TEMPS=psp|PERS.=2|NOMB.=s
 de	de	PRE	MORPH=empty
 pluiseurs	plusor	DETind	NOMB.=p|GENRE=f|CAS=r
 biens	bien2	NOMcom	NOMB.=p|GENRE=m|CAS=r
-plenteive	plenteïf	ADJqua	NOMB.=s|GENRE=f|CAS=r|DEGRE=p
+plenteive	plentëif	ADJqua	NOMB.=s|GENRE=f|CAS=r|DEGRE=p
 ,	,	PONfbl	MORPH=empty
 puez	pöoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=2|NOMB.=s
 bien	bien1	ADVgen	DEGRE=p
@@ -2339,7 +2339,7 @@ il	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n
 tout	tot	ADVgen	DEGRE=-
 coiement	coiement	ADVgen	DEGRE=-
 de	de	PRE	MORPH=empty
-Veredemium	veredemius	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Veredemium	Veredemius	NOMpro	NOMB.=s|GENRE=m|CAS=r
 son	son4	DETpos	PERS.=3|NOMB.=s|GENRE=m|CAS=r
 compaignon	compagnon	NOMcom	NOMB.=s|GENRE=m|CAS=r
 ,	,	PONfbl	MORPH=empty
@@ -2448,7 +2448,7 @@ totes	tot	DETind	NOMB.=p|GENRE=f|CAS=r
 choses	chose	NOMcom	NOMB.=p|GENRE=f|CAS=r
 q'	que2	PROrel	NOMB.=p|GENRE=f|CAS=r
 il	il	PROimp	PERS.=0|NOMB.=s|GENRE=n|CAS=n
-covenist	covenir	VERcjg	MODE=sub|TEMPS=ipf|PERS.=0|NOMB.=s
+covenist	covenir	VERcjg	MODE=sub|TEMPS=ipf|PERS.=3|NOMB.=s
 a	a3	PRE	MORPH=empty
 cors	cors1	NOMcom	NOMB.=s|GENRE=m|CAS=r
 d'	de	PRE	MORPH=empty
@@ -2640,7 +2640,7 @@ home	ome	NOMcom	NOMB.=s|GENRE=m|CAS=r
 Qant	cant1	CONsub	MORPH=empty
 il	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n
 l'	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=r
-oï	oïr	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
+oï	öir	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 muire	muire1	VERinf	NOMB.=x|GENRE=x|CAS=x
 ,	,	PONfbl	MORPH=empty
 il	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n
@@ -2666,7 +2666,7 @@ issi	issir	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 fors	fors1	ADVgen	DEGRE=-
 ,	,	PONfbl	MORPH=empty
 si	si	ADVgen	DEGRE=-
-oï	oïr	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
+oï	öir	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 les	le	DETdef	NOMB.=p|GENRE=m|CAS=r
 chiens	chien	NOMcom	NOMB.=p|GENRE=m|CAS=r
 et	et	CONcoo	MORPH=empty
@@ -3422,7 +3422,7 @@ et	et	CONcoo	MORPH=empty
 li	le	DETdef	NOMB.=p|GENRE=m|CAS=n
 evesqes	evesque	NOMcom	NOMB.=p|GENRE=m|CAS=n
 l'	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=r
-oïrent	oïr	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=p
+oïrent	öir	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=p
 ,	,	PONfbl	MORPH=empty
 il	il	PROper	PERS.=3|NOMB.=p|GENRE=m|CAS=n
 s'	soi1	PROper	PERS.=3|NOMB.=p|GENRE=m|CAS=r
@@ -3686,7 +3686,7 @@ en	en1	PRE	MORPH=empty
 l'	le	DETdef	NOMB.=s|GENRE=f|CAS=r
 oneur	onor	NOMcom	NOMB.=s|GENRE=m|CAS=r
 seint	saint	ADJqua	NOMB.=s|GENRE=m|CAS=r|DEGRE=p
-Priu	Prius	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Priu	Priu	NOMpro	NOMB.=s|GENRE=m|CAS=r
 le	le	DETdef	NOMB.=s|GENRE=m|CAS=r
 martyr	martir	NOMcom	NOMB.=s|GENRE=m|CAS=r
 .	.	PONfrt	MORPH=empty
@@ -4032,7 +4032,7 @@ Qant	cant1	CONsub	MORPH=empty
 li	le	DETdef	NOMB.=s|GENRE=m|CAS=n
 seinz	saint	ADJqua	NOMB.=s|GENRE=m|CAS=n|DEGRE=p
 hom	ome	NOMcom	NOMB.=s|GENRE=m|CAS=n
-oï	oïr	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
+oï	öir	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 les	le	DETdef	NOMB.=p|GENRE=m|CAS=r
 messages	message2	NOMcom	NOMB.=p|GENRE=m|CAS=r
 qe	que4	CONsub	MORPH=empty
@@ -4190,7 +4190,7 @@ li	le	DETdef	NOMB.=s|GENRE=m|CAS=n
 serz	serf	NOMcom	NOMB.=s|GENRE=m|CAS=n
 nostre	nostre	DETpos	PERS.=1|NOMB.=s|GENRE=m|CAS=r
 Signor	seignor	NOMcom	NOMB.=s|GENRE=m|CAS=r
-oï	oïr	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
+oï	öir	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 einsi	ainsi	ADVgen	DEGRE=-
 parler	parler	VERinf	NOMB.=x|GENRE=x|CAS=x
 le	le	DETdef	NOMB.=s|GENRE=m|CAS=r
@@ -4416,7 +4416,7 @@ dire	dire	VERinf	NOMB.=x|GENRE=x|CAS=x
 Qant	cant1	CONsub	MORPH=empty
 vint	venir	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 au	a3+le	PRE.DETdef	NOMB.=s|GENRE=m|CAS=r
-diemence	dïemanche	NOMcom	NOMB.=s|GENRE=m|CAS=r
+diemence	dïemaine	NOMcom	NOMB.=s|GENRE=m|CAS=r
 et	et	CONcoo	MORPH=empty
 il	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n
 chantoit	chanter	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=s
@@ -4436,7 +4436,7 @@ com	come1	CONsub	MORPH=empty
 il	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n
 estoit	estre1	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=s
 el	en1+le	PRE.DETdef	NOMB.=s|GENRE=m|CAS=r
-canon	canon	NOMcom	NOMB.=s|GENRE=m|CAS=r
+canon	canon2	NOMcom	NOMB.=s|GENRE=m|CAS=r
 ,	,	PONfbl	MORPH=empty
 li	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=i
 aparut	aparoir	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
@@ -4680,7 +4680,7 @@ ot	avoir	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 esté	estre1	VERppe	NOMB.=s|GENRE=m|CAS=n
 ne	ne2	CONcoo	MORPH=empty
 sei	savoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s
-combien	combien	ADVgen	NOMB.=s
+combien	combien	ADVgen	MORPH=empty
 de	de	PRE	MORPH=empty
 tens	tens	NOMcom	NOMB.=s|GENRE=m|CAS=r
 ,	,	PONfbl	MORPH=empty
@@ -4695,7 +4695,7 @@ abeïe	abeie	NOMcom	NOMB.=s|GENRE=f|CAS=n
 seroit	estre1	VERcjg	MODE=con|PERS.=3|NOMB.=s
 destruite	destruire	VERppe	NOMB.=s|GENRE=f|CAS=n
 par	par	PRE	MORPH=empty
-maus	mal	ADJqua	NOMB.=p|GENRE=m|CAS=r|DEGRE=p
+maus	mal2	ADJqua	NOMB.=p|GENRE=m|CAS=r|DEGRE=p
 homes	ome	NOMcom	NOMB.=p|GENRE=m|CAS=r
 qi	que2	PROrel	NOMB.=p|GENRE=m|CAS=n
 vendroient	veintre	VERcjg	MODE=con|PERS.=3|NOMB.=p
@@ -4796,7 +4796,7 @@ apostoiles	apostoile	NOMcom	NOMB.=s|GENRE=m|CAS=n
 .	.	PONfrt	MORPH=empty
 huis	uis	NOMcom	NOMB.=p|GENRE=m|CAS=r
 de	de	PRE	MORPH=empty
-cyprés	cyprès	NOMcom	NOMB.=s|GENRE=m|CAS=r
+cyprés	ciprès	NOMcom	NOMB.=s|GENRE=m|CAS=r
 ou	où	PROrel	NOMB.=p|GENRE=m|CAS=r
 les	le	DETdef	NOMB.=p|GENRE=f|CAS=n
 .	.	PONfrt	MORPH=empty
@@ -4911,7 +4911,7 @@ demora	demorer	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 .	.	PONfrt	MORPH=empty
 jorz	jor	NOMcom	NOMB.=p|GENRE=m|CAS=r
 a	a3	PRE	MORPH=empty
-Cabinone	Cabinone	NOMpro	NOMB.=s|GENRE=f|CAS=r
+Cabinone	Cavaillon	NOMpro	NOMB.=s|GENRE=f|CAS=r
 .	.	PONfrt	MORPH=empty
 La	là	ADVgen	DEGRE=-
 rendi	rendre	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
@@ -4956,7 +4956,7 @@ li	le	DETdef	NOMB.=s|GENRE=m|CAS=n
 seinz	saint	ADJqua	NOMB.=s|GENRE=m|CAS=n|DEGRE=p
 hom	ome	NOMcom	NOMB.=s|GENRE=m|CAS=n
 l'	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=r
-oï	oïr	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
+oï	öir	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 ,	,	PONfbl	MORPH=empty
 si	si	ADVgen	DEGRE=-
 en	en2	PROadv	MORPH=empty
@@ -5013,7 +5013,7 @@ abeïe	abeie	NOMcom	NOMB.=s|GENRE=f|CAS=r
 et	et	CONcoo	MORPH=empty
 metre	metre2	VERinf	NOMB.=x|GENRE=x|CAS=x
 as	a3+le	PRE.DETdef	NOMB.=p|GENRE=m|CAS=r
-huisseüres	uisseüre	NOMcom	NOMB.=p|GENRE=m|CAS=r
+huisseüres	uissëure	NOMcom	NOMB.=p|GENRE=m|CAS=r
 del	de+le	PRE.DETdef	NOMB.=s|GENRE=m|CAS=r
 mostier	mostier	NOMcom	NOMB.=s|GENRE=m|CAS=r
 por	por2	PRE	MORPH=empty
@@ -5057,7 +5057,7 @@ mout	mout	ADVgen	DEGRE=p
 bien	bien1	ADVgen	DEGRE=p
 confermees	confermer	VERppe	NOMB.=s|GENRE=f|CAS=r
 et	et	CONcoo	MORPH=empty
-ordenees	ordoner	VERppe	NOMB.=p|GENRE=f|CAS=r
+ordenees	ordener	VERppe	NOMB.=p|GENRE=f|CAS=r
 ,	,	PONfbl	MORPH=empty
 nostre	nostre	DETpos	PERS.=1|NOMB.=s|GENRE=m|CAS=n
 Sires	seignor	NOMcom	NOMB.=s|GENRE=m|CAS=n
@@ -5111,7 +5111,7 @@ si	si	ADVgen	DEGRE=-
 avint	avenir	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 qe	que4	CONsub	MORPH=empty
 le	le	DETdef	NOMB.=s|GENRE=m|CAS=r
-diemence	dïemanche	NOMcom	NOMB.=s|GENRE=m|CAS=r
+diemence	dïemaine	NOMcom	NOMB.=s|GENRE=m|CAS=r
 a	a3	PRE	MORPH=empty
 mienuit	mïenuit	NOMcom	NOMB.=s|GENRE=m|CAS=r
 se	soi1	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=r
@@ -5162,7 +5162,7 @@ qi	que2	PROrel	NOMB.=p|GENRE=m|CAS=n
 distrent	dire	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=p
 q'	que4	CONsub	MORPH=empty
 il	il	PROper	PERS.=3|NOMB.=p|GENRE=m|CAS=n
-oïrent	oïr	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=p
+oïrent	öir	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=p
 les	le	DETdef	NOMB.=p|GENRE=f|CAS=r
 compaignies	compagnie	NOMcom	NOMB.=p|GENRE=f|CAS=r
 des	de+le	PRE.DETdef	NOMB.=p|GENRE=m|CAS=r

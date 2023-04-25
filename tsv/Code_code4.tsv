@@ -28363,8 +28363,7 @@ nessance	naissance	NOMcom	NOMB.=s|GENRE=f|CAS=r
 et	et	CONcoo	MORPH=empty
 si	si	ADVgen	DEGRE=-
 senbloit	sembler	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=s
-qu	que4	CONsub	MORPH=empty
-'	:	PONfbl	MORPH=empty
+qu'	que4	CONsub	MORPH=empty
 il	il	PROimp	PERS.=3|NOMB.=s|GENRE=m|CAS=n
 eust	avoir	VERcjg	MODE=sub|TEMPS=ipf|PERS.=3|NOMB.=s
 passé	passer1	VERppe	NOMB.=s|GENRE=m|CAS=r

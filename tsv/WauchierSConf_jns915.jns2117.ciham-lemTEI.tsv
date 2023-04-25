@@ -172,7 +172,7 @@ movoir	movoir	VERinf	NOMB.=x|GENRE=x|CAS=x
 por	por2	PRE	MORPH=empty
 aler	aler	VERinf	NOMB.=x|GENRE=x|CAS=x
 a	a3	PRE	MORPH=empty
-Nerbone	Narbone	NOMpro	NOMB.=s|GENRE=f|CAS=r
+Nerbone	Narbonne	NOMpro	NOMB.=s|GENRE=f|CAS=r
 .	.	PONfrt	MORPH=empty
 En	en1	PRE	MORPH=empty
 cele	cel	DETdem	NOMB.=s|GENRE=f|CAS=r
@@ -406,7 +406,7 @@ quels	quel1	DETint	NOMB.=p|GENRE=f|CAS=r
 vertus	vertu	NOMcom	NOMB.=p|GENRE=f|CAS=r
 nostre	nostre	ADJpos	PERS.=1|NOMB.=s|GENRE=m|CAS=n
 Sires	seignor	NOMcom	NOMB.=s|GENRE=m|CAS=n
-Jesu	Jesu	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Jesu	Jhesu	NOMpro	NOMB.=s|GENRE=m|CAS=n
 Criz	Crist	NOMpro	NOMB.=s|GENRE=m|CAS=n
 i	i2	PROadv	MORPH=empty
 fet	faire	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
@@ -632,7 +632,7 @@ creatures	crïature	NOMcom	NOMB.=p|GENRE=f|CAS=r
 .	.	PONfrt	MORPH=empty
 Et	et	CONcoo	MORPH=empty
 qant	cant1	CONsub	MORPH=empty
-il	il	PROimp	PERS.=0|NOMB.=s|GENRE=m|CAS=n
+il	il	PROimp	PERS.=0|NOMB.=s|GENRE=n|CAS=n
 me	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=i
 sovient	sovenir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 de	de	PRE	MORPH=empty
@@ -1078,7 +1078,7 @@ arbres	arbre	NOMcom	NOMB.=p|GENRE=m|CAS=r
 ne	ne2	CONcoo	MORPH=empty
 blez	blé	NOMcom	NOMB.=p|GENRE=m|CAS=r
 qi	que2	PROrel	NOMB.=p|GENRE=m|CAS=n
-semé	semer	VERppe	NOMB.=p|GENRE=m|CAS=n
+semé	semer2	VERppe	NOMB.=p|GENRE=m|CAS=n
 i	i2	PROadv	MORPH=empty
 fussent	estre1	VERcjg	MODE=sub|TEMPS=ipf|PERS.=3|NOMB.=p
 qe	que4	CONsub	MORPH=empty
@@ -1231,7 +1231,7 @@ deguerpi	deguerpir	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 sa	son4	DETpos	PERS.=3|NOMB.=s|GENRE=f|CAS=r
 contree	contree	NOMcom	NOMB.=s|GENRE=f|CAS=r
 por	por2	PRE	MORPH=empty
-Cesar	César	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Cesar	Cesar	NOMpro	NOMB.=s|GENRE=m|CAS=r
 qi	que2	PROrel	NOMB.=s|GENRE=m|CAS=n
 voloit	voloir	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=s
 a	a3	PRE	MORPH=empty
@@ -1911,9 +1911,9 @@ ancres	ancre	NOMcom	NOMB.=p|GENRE=f|CAS=r
 si	si	ADVgen	DEGRE=-
 drecierent	drecier	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=p
 lor	lor2	DETpos	PERS.=3|NOMB.=p|GENRE=f|CAS=r
-voiles	voile	NOMcom	NOMB.=p|GENRE=f|CAS=r
+voiles	voile1	NOMcom	NOMB.=p|GENRE=f|CAS=r
 es	en1+le	PRE.DETdef	NOMB.=p|GENRE=m|CAS=r
-mas	mal	NOMcom	NOMB.=p|GENRE=m|CAS=r
+mas	mat	NOMcom	NOMB.=p|GENRE=m|CAS=r
 .	.	PONfrt	MORPH=empty
 Li	le	DETdef	NOMB.=s|GENRE=m|CAS=n
 venz	vent	NOMcom	NOMB.=s|GENRE=m|CAS=n
@@ -2311,7 +2311,7 @@ Nil	Nil	NOMpro	NOMB.=s|GENRE=m|CAS=r
 ,	,	PONfbl	MORPH=empty
 si	si	ADVgen	DEGRE=-
 a	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
-pluisors	pluisor	DETind	NOMB.=s|GENRE=f|CAS=r
+pluisors	plusor	DETind	NOMB.=s|GENRE=f|CAS=r
 abeïes	abeie	NOMcom	NOMB.=p|GENRE=f|CAS=r
 .	.	PONfrt	MORPH=empty
 Tele	tel	PROind	NOMB.=s|GENRE=f|CAS=n
@@ -4349,7 +4349,7 @@ Signor	seignor	NOMcom	NOMB.=s|GENRE=m|CAS=r
 q'	que4	CONsub	MORPH=empty
 il	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n
 li	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=i
-rendist	rendre	VERcjg	MODE=sub|TEMPS=psp|PERS.=3|NOMB.=s
+rendist	rendre	VERcjg	MODE=sub|TEMPS=ipf|S.=3|NOMB.=s
 ,	,	PONfbl	MORPH=empty
 s'	se	CONsub	MORPH=empty
 a	a3	PRE	MORPH=empty
@@ -4507,7 +4507,7 @@ qe	que4	CONsub	MORPH=empty
 ne	ne1	ADVneg	MORPH=empty
 samble	sembler	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 chose	chose	NOMcom	NOMB.=s|GENRE=f|CAS=r
-mal	mal	ADVgen	DEGRE=p
+mal	mal1	ADVgen	DEGRE=p
 creable	crëable	ADJqua	NOMB.=s|GENRE=f|CAS=r|DEGRE=p
 qe	que2	PROrel	NOMB.=s|GENRE=f|CAS=r
 je	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n
@@ -5321,7 +5321,7 @@ autres	autre	PROind	NOMB.=p|GENRE=f|CAS=r
 tant	tant	ADVgen	DEGRE=-
 qe	que4	CONsub	MORPH=empty
 grant	grant	ADJqua	NOMB.=p|GENRE=m|CAS=n|DEGRE=p
-mal	mal	NOMcom	NOMB.=p|GENRE=m|CAS=n
+mal	mal2	NOMcom	NOMB.=p|GENRE=m|CAS=n
 l'	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=r
 em	en2	PROadv	MORPH=empty
 pristrent	prendre	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=p
@@ -5771,7 +5771,7 @@ humeine	umain	ADJqua	NOMB.=s|GENRE=f|CAS=r|DEGRE=p
 creature	crïature	NOMcom	NOMB.=s|GENRE=f|CAS=r
 .	.	PONfrt	MORPH=empty
 Celui	cel	PROdem	NOMB.=s|GENRE=m|CAS=r
-quis	querre	VERconj	MODE=ind|TEMPS=psp|PERS.=1|NOMB.=s
+quis	querre	VERcjg	MODE=ind|TEMPS=psp|PERS.=1|NOMB.=s
 je	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n
 mout	mout	ADVgen	DEGRE=p
 longuement	longement	ADVgen	DEGRE=-
@@ -6496,7 +6496,7 @@ n'	ne1	ADVneg	MORPH=empty
 ot	avoir	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 nul	nul	DETind	NOMB.=s|GENRE=m|CAS=r
 autre	autre	ADJind	NOMB.=s|GENRE=m|CAS=r
-mal	mal	NOMcom	NOMB.=s|GENRE=m|CAS=r
+mal	mal2	NOMcom	NOMB.=s|GENRE=m|CAS=r
 qe	que4	CONsub	MORPH=empty
 se	se	CONsub	MORPH=empty
 il	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n
@@ -6644,7 +6644,7 @@ mout	mout	ADVgen	DEGRE=s
 volontiers	volentiers	ADVgen	DEGRE=-
 et	et	CONcoo	MORPH=empty
 sanz	sans	PRE	MORPH=empty
-male	mal	ADJqua	NOMB.=s|GENRE=f|CAS=r|DEGRE=p
+male	mal1	ADJqua	NOMB.=s|GENRE=f|CAS=r|DEGRE=p
 pensee	pensee	NOMcom	NOMB.=s|GENRE=f|CAS=r
 et	et	CONcoo	MORPH=empty
 qu'	que4	CONsub	MORPH=empty
@@ -7273,7 +7273,7 @@ ermitage	ermitage	NOMcom	NOMB.=s|GENRE=m|CAS=r
 .	.	PONfrt	MORPH=empty
 Et	et	CONcoo	MORPH=empty
 tuit	tot	PROind	NOMB.=p|GENRE=m|CAS=n
-li	il	PROper	PERS.=3|NOMB.=n|GENRE=m|CAS=i
+li	il	PROper	PERS.=3|NOMB.=p|GENRE=m|CAS=i
 conmencierent	comencier	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=p
 molt	mout	ADVgen	DEGRE=s
 durement	durement	ADVgen	DEGRE=-
@@ -7290,7 +7290,7 @@ autres	autre	PROind	NOMB.=p|GENRE=m|CAS=r
 .	.	PONfrt	MORPH=empty
 Mes	mais1	CONcoo	MORPH=empty
 la	le	DETdef	NOMB.=s|GENRE=f|CAS=n
-male	mal	ADJqua	NOMB.=s|GENRE=f|CAS=n|DEGRE=p
+male	mal1	ADJqua	NOMB.=s|GENRE=f|CAS=n|DEGRE=p
 pensee	pensee	NOMcom	NOMB.=s|GENRE=f|CAS=n
 qi	que2	PROrel	NOMB.=s|GENRE=f|CAS=n
 li	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=i
@@ -7796,7 +7796,7 @@ prestres	prestre	NOMcom	NOMB.=s|GENRE=m|CAS=n
 qi	que2	PROrel	NOMB.=s|GENRE=m|CAS=n
 avoit	avoir	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=s
 non	nom	NOMcom	NOMB.=s|GENRE=m|CAS=r
-Cyrenenses	Cyrenenses	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Cyrenenses	Cyrene	NOMpro	NOMB.=s|GENRE=m|CAS=r
 ,	,	PONfbl	MORPH=empty
 mes	mais1	CONcoo	MORPH=empty
 il	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n
@@ -8253,7 +8253,7 @@ ce	ce1	PROdem	NOMB.=s|GENRE=n|CAS=n
 ,	,	PONfbl	MORPH=empty
 qi	que2	PROrel	NOMB.=p|GENRE=m|CAS=n
 si	si	ADVgen	DEGRE=-
-mal	mal	ADVgen	DEGRE=-
+mal	mal1	ADVgen	DEGRE=-
 droituriers	droiturier2	ADJqua	NOMB.=s|GENRE=m|CAS=n|DEGRE=p
 seroit	estre1	VERcjg	MODE=con|PERS.=3|NOMB.=s
 qi	que2	PROrel	NOMB.=s|GENRE=m|CAS=n
@@ -8408,9 +8408,9 @@ les	le	DETdef	NOMB.=p|GENRE=f|CAS=r
 flambes	flambe	NOMcom	NOMB.=p|GENRE=f|CAS=r
 ne	ne1	ADVneg	MORPH=empty
 firent	faire	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=p
-mal	mal	ADVgen	DEGRE=-
+mal	mal1	ADVgen	DEGRE=-
 al	a3+le	PRE.DETdef	NOMB.=s|GENRE=m|CAS=r
-egyptien	egyptien	NOMcom	NOMB.=s|GENRE=m|CAS=r
+egyptien	egipcien 	NOMcom	NOMB.=s|GENRE=m|CAS=r
 qi	que2	PROrel	NOMB.=s|GENRE=m|CAS=n
 jut	jesir	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 en	en1	PRE	MORPH=empty
@@ -8500,7 +8500,7 @@ vesteüre	vestëure	NOMcom	NOMB.=s|GENRE=f|CAS=r
 et	et	CONcoo	MORPH=empty
 se	se	CONsub	MORPH=empty
 tu	tu	PROper	PERS.=2|NOMB.=s|GENRE=m|CAS=n
-paroles	paroler	VERcjg	MODE=ind|TEMPS=pst|PERS.=2|NOMB.=s
+paroles	parler	VERcjg	MODE=ind|TEMPS=pst|PERS.=2|NOMB.=s
 de	de	PRE	MORPH=empty
 celui	cel	PROdem	NOMB.=s|GENRE=m|CAS=i
 qui	que2	PROrel	NOMB.=s|GENRE=m|CAS=n
@@ -8585,7 +8585,7 @@ et	et	CONcoo	MORPH=empty
 dist	dire	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 :	:	PONfbl	MORPH=empty
 Tu	tu	PROper	PERS.=2|NOMB.=s|GENRE=m|CAS=n
-paroles	paroler	VERcjg	MODE=ind|TEMPS=pst|PERS.=2|NOMB.=s
+paroles	parler	VERcjg	MODE=ind|TEMPS=pst|PERS.=2|NOMB.=s
 ausint	aussi	ADVgen	DEGRE=-
 a	a3	PRE	MORPH=empty
 moi	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=i
@@ -8657,7 +8657,7 @@ tote	tot	DETind	NOMB.=s|GENRE=f|CAS=r
 la	le	DETdef	NOMB.=s|GENRE=f|CAS=n
 contree	contree	NOMcom	NOMB.=s|GENRE=f|CAS=r
 de	de	PRE	MORPH=empty
-Ethyope	Ethyopie	NOMpro	NOMB.=s|GENRE=f|CAS=r
+Ethyope	Etiopie	NOMpro	NOMB.=s|GENRE=f|CAS=r
 et	et	CONcoo	MORPH=empty
 Inde	inde	NOMpro	NOMB.=s|GENRE=f|CAS=r
 ,	,	PONfbl	MORPH=empty
@@ -8776,7 +8776,7 @@ lor	lor2	DETpos	PERS.=3|NOMB.=p|GENRE=m|CAS=r
 vices	vice2	NOMcom	NOMB.=p|GENRE=m|CAS=r
 et	et	CONcoo	MORPH=empty
 lor	lor2	DETpos	PERS.=3|NOMB.=p|GENRE=f|CAS=r
-males	male1	NOMcom	NOMB.=p|GENRE=f|CAS=r
+males	mal1	NOMcom	NOMB.=p|GENRE=f|CAS=r
 oevres	uevre	NOMcom	NOMB.=p|GENRE=f|CAS=r
 .	.	PONfrt	MORPH=empty
 Encore	encore	ADVgen	DEGRE=-
@@ -9205,7 +9205,7 @@ Galle	Gallus	NOMpro	NOMB.=s|GENRE=m|CAS=n
 ,	,	PONfbl	MORPH=empty
 di	dire	VERcjg	MODE=imp|PERS.=2|NOMB.=s
 et	et	CONcoo	MORPH=empty
-parole	paroler	VERcjg	MODE=imp|PERS.=2|NOMB.=s
+parole	parler	VERcjg	MODE=imp|PERS.=2|NOMB.=s
 seürement	sëurement	ADVgen	DEGRE=-
 ,	,	PONfbl	MORPH=empty
 car	car	CONcoo	MORPH=empty
@@ -10580,7 +10580,7 @@ venim	venin	NOMcom	NOMB.=s|GENRE=m|CAS=r
 et	et	CONcoo	MORPH=empty
 de	de	PRE	MORPH=empty
 l'	le	DETdef	NOMB.=s|GENRE=f|CAS=r
-enfleüre	enfleüre	NOMcom	NOMB.=s|GENRE=f|CAS=r
+enfleüre	enflëure	NOMcom	NOMB.=s|GENRE=f|CAS=r
 .	.	PONfrt	MORPH=empty
 Et	et	CONcoo	MORPH=empty
 nos	nos1	PROper	PERS.=1|NOMB.=p|GENRE=m|CAS=n
@@ -10792,7 +10792,7 @@ seoient	sëoir	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=p
 les	il	PROper	PERS.=3|NOMB.=p|GENRE=m|CAS=r
 tindrent	tenir1	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=p
 a	a3	PRE	MORPH=empty
-males	mal	ADJqua	NOMB.=p|GENRE=f|CAS=r|DEGRE=p
+males	mal1	ADJqua	NOMB.=p|GENRE=f|CAS=r|DEGRE=p
 peines	peine	NOMcom	NOMB.=p|GENRE=f|CAS=r
 ,	,	PONfbl	MORPH=empty
 et	et	CONcoo	MORPH=empty
@@ -10942,7 +10942,7 @@ bestes	beste	NOMcom	NOMB.=p|GENRE=f|CAS=r
 si	si	ADVgen	DEGRE=-
 s'	soi1	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=r
 en	en2	PROadv	MORPH=empty
-cuidierent	cuidier1	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.ps
+cuidierent	cuidier1	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=p
 aler	aler	VERinf	NOMB.=x|GENRE=x|CAS=x
 ,	,	PONfbl	MORPH=empty
 mes	mais1	CONcoo	MORPH=empty
@@ -11831,7 +11831,7 @@ estoit	estre1	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=s
 autres	autre	ADJind	NOMB.=s|GENRE=m|CAS=n
 dex	dieu	NOMcom	NOMB.=s|GENRE=m|CAS=n
 qe	que4	CONsub	MORPH=empty
-Jesu	Jesu	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Jesu	Jhesu	NOMpro	NOMB.=s|GENRE=m|CAS=n
 Criz	Crist	NOMpro	NOMB.=s|GENRE=m|CAS=n
 .	.	PONfrt	MORPH=empty
 Et	et	CONcoo	MORPH=empty
@@ -12673,7 +12673,7 @@ en	en1	PRE	MORPH=empty
 la	le	DETdef	NOMB.=s|GENRE=f|CAS=r
 marche	marche2	NOMcom	NOMB.=s|GENRE=f|CAS=r
 de	de	PRE	MORPH=empty
-Toreine	Toraine	NOMpro	NOMB.=s|GENRE=f|CAS=r
+Toreine	Touraine	NOMpro	NOMB.=s|GENRE=f|CAS=r
 qi	que2	PROrel	NOMB.=s|GENRE=m|CAS=n
 Claudiomas	Claudiomas	NOMpro	NOMB.=s|GENRE=m|CAS=n
 avoit	avoir	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=s
@@ -12847,7 +12847,7 @@ et	et	CONcoo	MORPH=empty
 delivrés	delivrer	VERppe	NOMB.=s|GENRE=m|CAS=n
 de	de	PRE	MORPH=empty
 la	le	DETdef	NOMB.=s|GENRE=f|CAS=r
-male	mal	ADJqua	NOMB.=s|GENRE=f|CAS=r|DEGRE=p
+male	mal1	ADJqua	NOMB.=s|GENRE=f|CAS=r|DEGRE=p
 aventure	aventure	NOMcom	NOMB.=s|GENRE=f|CAS=r
 .	.	PONfrt	MORPH=empty
 Aprés	après	PRE	MORPH=empty
@@ -12896,7 +12896,7 @@ a	a3	PRE	MORPH=empty
 ses	son4	DETpos	PERS.=3|NOMB.=p|GENRE=f|CAS=r
 cornes	corner	NOMcom	NOMB.=p|GENRE=f|CAS=r
 et	et	CONcoo	MORPH=empty
-cruelment	crüelement	ADVgen	DEGRE=-
+cruelment	crüelment	ADVgen	DEGRE=-
 bleciez	blecier	VERppe	NOMB.=p|GENRE=f|CAS=r
 et	et	CONcoo	MORPH=empty
 ele	il	PROper	PERS.=3|NOMB.=s|GENRE=f|CAS=n
@@ -13605,7 +13605,7 @@ car	car	CONcoo	MORPH=empty
 il	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n
 estoit	estre1	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=s
 chevaliers	chevalier	NOMcom	NOMB.=s|GENRE=m|CAS=n
-Jesu	Jesu	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Jesu	Jhesu	NOMpro	NOMB.=s|GENRE=m|CAS=r
 Crist	Crist	NOMpro	NOMB.=s|GENRE=m|CAS=r
 et	et	CONcoo	MORPH=empty
 ele	il	PROper	PERS.=3|NOMB.=s|GENRE=f|CAS=n
@@ -14829,7 +14829,7 @@ vos	vos	PROper	PERS.=2|NOMB.=p|GENRE=m|CAS=i
 dirai	dire	VERcjg	MODE=ind|TEMPS=fut|PERS.=1|NOMB.=s
 choses	chose	NOMcom	NOMB.=p|GENRE=f|CAS=r
 qi	que2	PROrel	NOMB.=p|GENRE=m|CAS=n
-mal	mal	ADVgen	DEGRE=p
+mal	mal1	ADVgen	DEGRE=p
 creables	crëable	ADJqua	NOMB.=p|GENRE=f|CAS=n|DEGRE=p
 sambleront	sembler	VERcjg	MODE=ind|TEMPS=fut|PERS.=3|NOMB.=p
 ,	,	PONfbl	MORPH=empty
@@ -15018,7 +15018,7 @@ se	se	CONsub	MORPH=empty
 pluseurs	plusor	DETind	NOMB.=p|GENRE=f|CAS=n
 genz	gent1	NOMcom	NOMB.=p|GENRE=f|CAS=n
 sont	estre1	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p
-mal	mal	ADVgen	DEGRE=-
+mal	mal1	ADVgen	DEGRE=-
 creables	crëable	ADJqua	NOMB.=p|GENRE=f|CAS=n|DEGRE=p
 des	de+le	PRE.DETdef	NOMB.=p|GENRE=f|CAS=r
 seintes	saint	ADJqua	NOMB.=p|GENRE=f|CAS=r|DEGRE=p
@@ -15257,7 +15257,7 @@ et	et	CONcoo	MORPH=empty
 aprisses	aprendre	VERppe	NOMB.=p|GENRE=f|CAS=r
 .	.	PONfrt	MORPH=empty
 Or	or4	ADVgen	DEGRE=-
-parole	paroler	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
+parole	parler	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 Severus	Severus	NOMpro	NOMB.=s|GENRE=m|CAS=n
 et	et	CONcoo	MORPH=empty
 si	si	ADVgen	DEGRE=-
@@ -15499,7 +15499,7 @@ nous	nos1	PROper	PERS.=1|NOMB.=p|GENRE=m|CAS=i
 Si	si	ADVgen	DEGRE=-
 com	come1	CONsub	MORPH=empty
 je	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n
-parloie	paroler	VERcjg	MODE=ind|TEMPS=ipf|PERS.=1|NOMB.=s
+parloie	parler	VERcjg	MODE=ind|TEMPS=ipf|PERS.=1|NOMB.=s
 einsi	ainsi	ADVgen	DEGRE=-
 a	a3	PRE	MORPH=empty
 Gallum	Gallus	NOMpro	NOMB.=s|GENRE=m|CAS=r
@@ -16162,7 +16162,7 @@ de	de	PRE	MORPH=empty
 voire	voirre	NOMcom	NOMB.=s|GENRE=m|CAS=r
 por	por2	PRE	MORPH=empty
 beneïr	benëir	VERinf	NOMB.=x|GENRE=x|CAS=x
-aveuc	aveuc	PRE	MORPH=empty
+aveuc	avuec	PRE	MORPH=empty
 les	le	DETdef	NOMB.=p|GENRE=m|CAS=r
 malades	malade	NOMcom	NOMB.=p|GENRE=m|CAS=r
 ,	,	PONfbl	MORPH=empty
@@ -16473,7 +16473,7 @@ fist	faire	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 celui	cel	PROdem	NOMB.=s|GENRE=m|CAS=n
 qu'	que2	PROrel	NOMB.=s|GENRE=m|CAS=r
 il	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n
-atieus	atel	PROind	NOMB.=p|GENRE=m|CAS=r
+atieus	tel	PROind	NOMB.=p|GENRE=m|CAS=r
 ci	ci	ADVgen	DEGRE=-
 dedenz	dedenz	ADVgen	DEGRE=-
 cui	que2	PROrel	NOMB.=s|GENRE=m|CAS=i
@@ -16847,7 +16847,7 @@ la	le	DETdef	NOMB.=s|GENRE=f|CAS=r
 porte	porte1	NOMcom	NOMB.=s|GENRE=f|CAS=r
 ne	ne2	CONcoo	MORPH=empty
 ne	ne1	ADVneg	MORPH=empty
-porroient	pöoir	VERcjg	MODE=cond|PERS.=3|NOMB.=p
+porroient	pöoir	VERcjg	MODE=con|PERS.=3|NOMB.=p
 croire	croire	VERinf	NOMB.=x|GENRE=x|CAS=x
 qe	que4	CONsub	MORPH=empty
 nus	nul	DETind	NOMB.=s|GENRE=m|CAS=n
@@ -16910,7 +16910,7 @@ si	si	ADVgen	DEGRE=-
 com	come1	CONsub	MORPH=empty
 li	le	DETdef	NOMB.=p|GENRE=m|CAS=n
 pluiseur	plusor	PROind	NOMB.=p|GENRE=m|CAS=n
-feroient	faire	VERcjg	MODE=cond|PERS.=3|NOMB.=p
+feroient	faire	VERcjg	MODE=con|PERS.=3|NOMB.=p
 encore	encore	ADVgen	DEGRE=-
 qi	que2	PROrel	NOMB.=p|GENRE=m|CAS=n
 pereceus	pereços	ADJqua	NOMB.=p|GENRE=m|CAS=n|DEGRE=p
@@ -17217,7 +17217,7 @@ a	a3	PRE	MORPH=empty
 cels	cel	PROdem	NOMB.=p|GENRE=m|CAS=r
 qi	que2	PROrel	NOMB.=p|GENRE=m|CAS=n
 sont	estre1	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p
-mal	mal	ADVgen	DEGRE=-
+mal	mal1	ADVgen	DEGRE=-
 creable	crëable	ADJqua	NOMB.=p|GENRE=m|CAS=n|DEGRE=p
 parler	parler	VERinf	NOMB.=x|GENRE=x|CAS=x
 par	par	PRE	MORPH=empty
@@ -17724,7 +17724,7 @@ les	le	DETdef	NOMB.=p|GENRE=m|CAS=r
 blez	blé	NOMcom	NOMB.=p|GENRE=m|CAS=r
 et	et	CONcoo	MORPH=empty
 les	le	DETdef	NOMB.=p|GENRE=m|CAS=r
-avaines	avoine	NOMcom	NOMB.=p|GENRE=f|CAS=r
+avaines	aveine	NOMcom	NOMB.=p|GENRE=f|CAS=r
 et	et	CONcoo	MORPH=empty
 toz	tot	DETind	NOMB.=p|GENRE=m|CAS=r
 les	le	DETdef	NOMB.=p|GENRE=m|CAS=r
@@ -17748,7 +17748,7 @@ soffert	sofrir	VERppe	NOMB.=s|GENRE=m|CAS=r
 en	en2	PROadv	MORPH=empty
 avoient	avoir	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=p
 meins	maint	DETind	NOMB.=p|GENRE=m|CAS=r
-maus	mal	NOMcom	NOMB.=p|GENRE=m|CAS=r
+maus	mal2	NOMcom	NOMB.=p|GENRE=m|CAS=r
 et	et	CONcoo	MORPH=empty
 meintes	maint	DETind	NOMB.=p|GENRE=f|CAS=r
 paines	peine	NOMcom	NOMB.=p|GENRE=f|CAS=n
@@ -17842,7 +17842,7 @@ ce	ce1	PROdem	NOMB.=s|GENRE=n|CAS=r
 que	que4	CONsub	MORPH=empty
 l'	le	OUT	MORPH=empty
 en	on	PROind	NOMB.=s|GENRE=n|CAS=n
-cuidast	cuidier1	VERcjg	MODE=sub|TEMPS=psp|PERS.=3|NOMB.=s
+cuidast	cuidier1	VERcjg	MODE=sub|TEMPS=ipf|PERS.=3|NOMB.=s
 qe	que4	CONsub	MORPH=empty
 cest	cest	DETdem	NOMB.=s|GENRE=m|CAS=n
 don	don	NOMcom	NOMB.=s|GENRE=m|CAS=n
@@ -18615,7 +18615,7 @@ qi	que2	PROrel	NOMB.=s|GENRE=m|CAS=n
 n'	ne1	ADVneg	MORPH=empty
 est	estre1	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 mie	mie	ADVneg	MORPH=empty
-granment	granement	ADVgen	DEGRE=-
+granment	granment	ADVgen	DEGRE=-
 dessamblables	dessemblable	ADJqua	NOMB.=s|GENRE=m|CAS=n|DEGRE=p
 a	a3	PRE	MORPH=empty
 cestui	cest	PROdem	NOMB.=s|GENRE=m|CAS=i
@@ -18629,7 +18629,7 @@ prestres	prestre	NOMcom	NOMB.=s|GENRE=m|CAS=n
 qi	que2	PROrel	NOMB.=s|GENRE=m|CAS=n
 ci	ci	ADVgen	DEGRE=-
 est	estre1	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
-empresent	empresent	ADJqua	NOMB.=s|GENRE=m|CAS=n|DEGRE=p
+empresent	present	ADJqua	NOMB.=s|GENRE=m|CAS=n|DEGRE=p
 .	.	PONfrt	MORPH=empty
 Une	un	DETndf	NOMB.=s|GENRE=f|CAS=r
 coulombe	colombe2	NOMcom	NOMB.=s|GENRE=f|CAS=r
@@ -19281,7 +19281,7 @@ tenz	tens	NOMcom	NOMB.=s|GENRE=m|CAS=r
 Ytace	Ytace	NOMpro	NOMB.=s|GENRE=m|CAS=r
 evesqe	evesque	NOMcom	NOMB.=s|GENRE=m|CAS=r
 de	de	PRE	MORPH=empty
-Trieves	Trieves	NOMpro	NOMB.=s|GENRE=f|CAS=r
+Trieves	Treves	NOMpro	NOMB.=s|GENRE=f|CAS=r
 aprés	après	PRE	MORPH=empty
 la	le	DETdef	NOMB.=s|GENRE=f|CAS=r
 mort	mort	NOMcom	NOMB.=s|GENRE=f|CAS=r
@@ -19641,7 +19641,7 @@ qe	que4	CONsub	MORPH=empty
 par	par	PRE	MORPH=empty
 pes	pais	NOMcom	NOMB.=s|GENRE=f|CAS=r
 i	i2	PROadv	MORPH=empty
-voudroit	voloir	VERcjg	MODE=cond|PERS.=3|NOMB.=s
+voudroit	voloir	VERcjg	MODE=con|PERS.=3|NOMB.=s
 il	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n
 venir	venir	VERinf	NOMB.=x|GENRE=x|CAS=x
 .	.	PONfrt	MORPH=empty
@@ -20017,7 +20017,7 @@ chose	chose	NOMcom	NOMB.=s|GENRE=f|CAS=r
 porroit	pöoir	VERcjg	MODE=con|PERS.=3|NOMB.=s
 faire	faire	VERinf	NOMB.=x|GENRE=x|CAS=x
 a	a3	PRE	MORPH=empty
-mal	mal	ADVgen	DEGRE=-
+mal	mal1	ADVgen	DEGRE=-
 torner	torner	VERinf	NOMB.=x|GENRE=x|CAS=x
 a	a3	PRE	MORPH=empty
 cest	cest	DETdem	NOMB.=s|GENRE=m|CAS=r
@@ -21660,7 +21660,7 @@ sa	son4	DETpos	PERS.=3|NOMB.=s|GENRE=f|CAS=r
 pensee	pensee	NOMcom	NOMB.=s|GENRE=f|CAS=r
 :	:	PONfbl	MORPH=empty
 Se	se	CONsub	MORPH=empty
-Jesu	Jesu	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Jesu	Jhesu	NOMpro	NOMB.=s|GENRE=m|CAS=n
 Criz	Crist	NOMpro	NOMB.=s|GENRE=m|CAS=n
 sosfri	sofrir	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 qe	que4	CONsub	MORPH=empty
@@ -21673,7 +21673,7 @@ et	et	CONcoo	MORPH=empty
 je	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n
 por	por2	PRE	MORPH=empty
 qoi	que3	PROint	NOMB.=s|GENRE=m|CAS=r
-Briscon	Brice	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Briscon	Brice	NomPro	NOMB.=s|GENRE=m|CAS=r
 ne	ne1	ADVneg	MORPH=empty
 sosferroie	sofrir	VERcjg	MODE=con|PERS.=1|NOMB.=s
 ?	?	PONfrt	MORPH=empty
@@ -21687,7 +21687,7 @@ dist	dire	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 Mout	mout	ADVgen	DEGRE=-
 fu	estre1	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 cil	cel	PROdem	NOMB.=s|GENRE=m|CAS=n
-maus	mal	ADJqua	NOMB.=s|GENRE=m|CAS=n|DEGRE=p
+maus	mal1	ADJqua	NOMB.=s|GENRE=m|CAS=n|DEGRE=p
 hom	ome	NOMcom	NOMB.=s|GENRE=m|CAS=n
 qi	que2	PROrel	NOMB.=s|GENRE=m|CAS=n
 par	par	PRE	MORPH=empty
@@ -22013,7 +22013,7 @@ Lombardie	Lombardie	NOMpro	NOMB.=s|GENRE=f|CAS=r
 et	et	CONcoo	MORPH=empty
 par	par	PRE	MORPH=empty
 tote	tot	DETind	NOMB.=s|GENRE=f|CAS=r
-Puille	Puille	NOMpro	NOMB.=s|GENRE=f|CAS=r
+Puille	Pouille	NOMpro	NOMB.=s|GENRE=f|CAS=r
 et	et	CONcoo	MORPH=empty
 par	par	PRE	MORPH=empty
 tote	tot	DETind	NOMB.=s|GENRE=f|CAS=r
@@ -22147,7 +22147,7 @@ apostre	apostle	NOMcom	NOMB.=s|GENRE=m|CAS=r
 qi	que2	PROrel	NOMB.=s|GENRE=m|CAS=n
 la	là	ADVgen	DEGRE=-
 preescha	prëechier	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
-Jesu	Jesu	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Jesu	Jhesu	NOMpro	NOMB.=s|GENRE=m|CAS=r
 Crist	Crist	NOMpro	NOMB.=s|GENRE=m|CAS=r
 ,	,	PONfbl	MORPH=empty
 ne	ne1	ADVneg	MORPH=empty

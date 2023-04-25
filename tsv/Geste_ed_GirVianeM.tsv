@@ -394,7 +394,7 @@ le	le	DETdef	NOMB.=s|GENRE=m|CAS=r
 Rosne	Rosne	NOMpro	NOMB.=s|GENRE=m|CAS=r
 et	et	CONcoo	MORPH=empty
 le	le	DETdef	NOMB.=s|GENRE=m|CAS=r
-Rin	Rin	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Rin	Rhin	NOMpro	NOMB.=s|GENRE=m|CAS=r
 qi	qui	PROrel	NOMB.=s|GENRE=m|CAS=n
 est	estre1	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 lez	lé	ADJqua	NOMB.=s|GENRE=m|CAS=n|DEGRE=p
@@ -619,7 +619,7 @@ poier	paiier	VERinf	MORPH=empty
 .	.	PONfrt	MORPH=empty
 »	»	PONpdr	MORPH=empty
 Dist	dire	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
-Olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=n
 :	:	PONfbl	MORPH=empty
 «	«	PONpga	MORPH=empty
 De	de	PRE	MORPH=empty
@@ -694,7 +694,7 @@ les	le	DETdef	NOMB.=p|GENRE=f|CAS=r
 resnes	resne2	NOMcom	NOMB.=p|GENRE=f|CAS=r
 vet	aler	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 sesir	saisir	VERinf	MORPH=empty
-Olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=r
 ,	,	PONfbl	MORPH=empty
 Cortoisement	cortoisement	ADVgen	DEGRE=p
 le	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=r
@@ -725,7 +725,7 @@ l'	le	DETdef	NOMB.=s|GENRE=m|CAS=n
 en	on	PROind	NOMB.=s|GENRE=n|CAS=n
 m'	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=r
 apele	apeler	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
-Olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=r
 ;	;	PONfbl	MORPH=empty
 «	«	PONpga	MORPH=empty
 Nez	naistre	VERppe	NOMB.=s|GENRE=m|CAS=n
@@ -777,7 +777,7 @@ folonie	felonie	NOMcom	NOMB.=s|GENRE=f|CAS=r
 .	.	PONfrt	MORPH=empty
 »	»	PONpdr	MORPH=empty
 Qant	cant1	CONsub	MORPH=empty
-Olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=n
 oï	öir	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 parler	parler	VERinf	MORPH=empty
 Rollant	Rollant	NOMpro	NOMB.=s|GENRE=m|CAS=r
@@ -903,7 +903,7 @@ besant	besant	NOMcom	NOMB.=s|GENRE=m|CAS=r
 .	.	PONfrt	MORPH=empty
 »	»	PONpdr	MORPH=empty
 Dit	dire	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
-Olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=n
 :	:	PONfbl	MORPH=empty
 «	«	PONpga	MORPH=empty
 Or	or4	ADVgen	DEGRE=-
@@ -973,7 +973,7 @@ sanbles	sembler	VERcjg	MODE=ind|TEMPS=pst|PERS.=2|NOMB.=s
 Qant	cant1	CONsub	MORPH=empty
 Rollant	Rollant	NOMpro	NOMB.=s|GENRE=m|CAS=n
 ot	öir	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
-Olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=r
 si	si	ADVgen	DEGRE=-
 parler	parler	VERinf	MORPH=empty
 ,	,	PONfbl	MORPH=empty
@@ -1061,7 +1061,7 @@ volentez	volenté	NOMcom	NOMB.=p|GENRE=f|CAS=r
 .	.	PONfrt	MORPH=empty
 »	»	PONpdr	MORPH=empty
 Dist	dire	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
-Olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=n
 :	:	PONfbl	MORPH=empty
 «	«	PONpga	MORPH=empty
 Volentiers	volentiers	ADVgen	DEGRE=-
@@ -1220,7 +1220,7 @@ sire	seignor	NOMcom	NOMB.=s|GENRE=m|CAS=n
 »	»	PONpdr	MORPH=empty
 ,	,	PONfbl	MORPH=empty
 dit	dire	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
-Olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=n
 ,	,	PONfbl	MORPH=empty
 «	«	PONpga	MORPH=empty
 Car	car	CONcoo	MORPH=empty
@@ -1575,7 +1575,7 @@ contreres	contraire1	NOMcom	NOMB.=p|GENRE=m|CAS=r
 et	et	CONcoo	MORPH=empty
 fiertez	fierté	NOMcom	NOMB.=p|GENRE=f|CAS=r
 ,	,	PONfbl	MORPH=empty
-Olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=r
 et	et	CONcoo	MORPH=empty
 li	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=r
 furent	estre1	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=p
@@ -1603,7 +1603,7 @@ grant	grant	ADJqua	NOMB.=s|GENRE=f|CAS=n|DEGRE=p
 folie	folie2	NOMcom	NOMB.=s|GENRE=f|CAS=n
 .	.	PONfrt	MORPH=empty
 «	«	PONpga	MORPH=empty
-Olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=n
 ,	,	PONfbl	MORPH=empty
 va	aler	VERcjg	MODE=imp|PERS.=2|NOMB.=s
 !	!	PONfrt	MORPH=empty
@@ -1642,7 +1642,7 @@ plevie	plevir	VERppe	NOMB.=s|GENRE=m|CAS=r
 ?	?	PONfrt	MORPH=empty
 »	»	PONpdr	MORPH=empty
 Dist	dire	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
-Olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=n
 :	:	PONfbl	MORPH=empty
 «	«	PONpga	MORPH=empty
 Nel	ne1+il	ADVneg.PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=r
@@ -1759,7 +1759,7 @@ barnaje	barnage	NOMcom	NOMB.=s|GENRE=m|CAS=r
 .	.	PONfrt	MORPH=empty
 «	«	PONpga	MORPH=empty
 Sire	seignor	NOMcom	NOMB.=s|GENRE=m|CAS=n
-Olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=n
 »	»	PONpdr	MORPH=empty
 ,	,	PONfbl	MORPH=empty
 dit	dire	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
@@ -1870,7 +1870,7 @@ adurez	aduré	ADJqua	NOMB.=s|GENRE=m|CAS=n|DEGRE=p
 ,	,	PONfbl	MORPH=empty
 «	«	PONpga	MORPH=empty
 Et	et	CONcoo	MORPH=empty
-Olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=n
 est	estre1	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 chevalier	chevalier	NOMcom	NOMB.=s|GENRE=m|CAS=n
 menbrez	membré2	ADJqua	NOMB.=s|GENRE=m|CAS=n|DEGRE=p
@@ -1897,7 +1897,7 @@ parlé	parler	VERppe	NOMB.=s|GENRE=m|CAS=r
 .	.	PONfrt	MORPH=empty
 »	»	PONpdr	MORPH=empty
 Dit	dire	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
-Olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=n
 :	:	PONfbl	MORPH=empty
 «	«	PONpga	MORPH=empty
 Tot	tot	DETind	NOMB.=s|GENRE=m|CAS=r
@@ -2113,7 +2113,7 @@ le	le	DETdef	NOMB.=s|GENRE=m|CAS=r
 barné	barné	NOMcom	NOMB.=s|GENRE=m|CAS=r
 ,	,	PONfbl	MORPH=empty
 Vers	vers2	PRE	MORPH=empty
-Olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=r
 qi	qui	PROrel	NOMB.=s|GENRE=m|CAS=n
 est	estre1	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 vassax	vassal	NOMcom	NOMB.=s|GENRE=m|CAS=n

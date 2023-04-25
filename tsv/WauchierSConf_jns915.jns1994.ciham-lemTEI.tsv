@@ -654,7 +654,7 @@ Nostre	nostre	DETpos	PERS.=1|NOMB.=s|GENRE=m|CAS=n
 Sires	seignor	NOMcom	NOMB.=s|GENRE=m|CAS=n
 te	tu	PROper	PERS.=2|NOMB.=s|GENRE=m|CAS=r
 puisse	pöoir	VERcjg	MODE=sub|TEMPS=pst|PERS.=3|NOMB.=s
-esforcier	esforcier	VERinf	NOMB.=x|GENRE=x|CAS=x
+esforcier	esforcier1	VERinf	NOMB.=x|GENRE=x|CAS=x
 de	de	PRE	MORPH=empty
 fere	faire	VERinf	NOMB.=x|GENRE=x|CAS=x
 les	le	DETdef	NOMB.=p|GENRE=f|CAS=r
@@ -2686,7 +2686,7 @@ or	or1	NOMcom	NOMB.=s|GENRE=m|CAS=r
 et	et	CONcoo	MORPH=empty
 la	le	DETdef	NOMB.=s|GENRE=f|CAS=r
 ceinture	ceinture	NOMcom	NOMB.=s|GENRE=f|CAS=r
-envolepee	enveloper	VERppe	NOMB.=s|GENRE=f|CAS=r
+envolepee	envoleper	VERppe	NOMB.=s|GENRE=f|CAS=r
 en	en1	PRE	MORPH=empty
 une	un	DETndf	NOMB.=s|GENRE=f|CAS=r
 piece	piece	NOMcom	NOMB.=s|GENRE=f|CAS=r
@@ -2758,7 +2758,7 @@ la	le	DETdef	NOMB.=s|GENRE=f|CAS=r
 chose	chose	NOMcom	NOMB.=s|GENRE=f|CAS=r
 tresq'	tresque1	ADVgen	DEGRE=-
 au	a3+le	PRE.DETdef	NOMB.=s|GENRE=m|CAS=r
-diemence	dïemanche	NOMcom	NOMB.=s|GENRE=m|CAS=r
+diemence	dïemaine	NOMcom	NOMB.=s|GENRE=m|CAS=r
 qe	que2	PROrel	NOMB.=s|GENRE=m|CAS=r
 li	le	DETdef	NOMB.=s|GENRE=m|CAS=n
 apostoiles	apostoile	NOMcom	NOMB.=s|GENRE=m|CAS=n
@@ -3312,7 +3312,7 @@ se	soi1	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=r
 fesoit	faire	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=s
 acomenier	acomunier	VERinf	NOMB.=x|GENRE=x|CAS=x
 chascun	chascun	DETind	NOMB.=s|GENRE=m|CAS=r
-diemence	dïemanche	NOMcom	NOMB.=s|GENRE=m|CAS=r
+diemence	dïemaine	NOMcom	NOMB.=s|GENRE=m|CAS=r
 ne	ne2	CONcoo	MORPH=empty
 ne	ne1	ADVneg	MORPH=empty
 mengoit	mangier	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=s
@@ -4507,7 +4507,7 @@ qe	que4	CONsub	MORPH=empty
 li	le	DETdef	NOMB.=s|GENRE=m|CAS=n
 pueples	pueple	NOMcom	NOMB.=s|GENRE=m|CAS=n
 entendist	entendre	VERcjg	MODE=sub|TEMPS=ipf|PERS.=3|NOMB.=s
-au	a3+il	PRE.PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=r
+au	a3+le	PRE.PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=r
 reçoivre	recevoir	VERinf	NOMB.=x|GENRE=x|CAS=x
 et	et	CONcoo	MORPH=empty
 la	le	DETdef	NOMB.=s|GENRE=f|CAS=n

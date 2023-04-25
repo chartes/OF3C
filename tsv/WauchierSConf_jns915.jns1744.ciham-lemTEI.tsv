@@ -537,7 +537,7 @@ tresq'	tresque1	ADVgen	DEGRE=-
 au	a3+le	PRE.DETdef	NOMB.=s|GENRE=m|CAS=r
 tens	tens	NOMcom	NOMB.=s|GENRE=m|CAS=r
 des	de+le	PRE.DETdef	NOMB.=p|GENRE=m|CAS=r
-Longuebarz	lombart	NOMcom	NOMB.=p|GENRE=m|CAS=r
+Longuebarz	Lombart	NOMcom	NOMB.=p|GENRE=m|CAS=r
 qui	que2	PROrel	NOMB.=p|GENRE=m|CAS=n
 la	le	DETdef	NOMB.=s|GENRE=f|CAS=r
 terre	terre	NOMcom	NOMB.=s|GENRE=f|CAS=r
@@ -7995,7 +7995,7 @@ destruite	destruire	VERppe	NOMB.=s|GENRE=f|CAS=n
 aprés	après	ADVgen	DEGRE=-
 par	par	PRE	MORPH=empty
 les	le	DETdef	NOMB.=p|GENRE=m|CAS=r
-Longuebars	lombart	NOMcom	NOMB.=p|GENRE=m|CAS=r
+Longuebars	Lombart	NOMcom	NOMB.=p|GENRE=m|CAS=r
 ,	,	PONfbl	MORPH=empty
 si	si	ADVgen	DEGRE=-
 com	come1	CONsub	MORPH=empty
@@ -8018,7 +8018,7 @@ parole	parole	NOMcom	NOMB.=s|GENRE=f|CAS=r
 ,	,	PONfbl	MORPH=empty
 entrerent	entrer	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=p
 li	le	DETdef	NOMB.=p|GENRE=m|CAS=n
-Longuebarz	lombart	NOMcom	NOMB.=p|GENRE=m|CAS=n
+Longuebarz	Lombart	NOMcom	NOMB.=p|GENRE=m|CAS=n
 dedenz	dedenz	PRE	MORPH=empty
 l'	le	DETdef	NOMB.=s|GENRE=f|CAS=r
 abeïe	abeie	NOMcom	NOMB.=s|GENRE=f|CAS=r
@@ -11681,7 +11681,7 @@ deseure	desor	ADVgen	DEGRE=-
 aussint	aussi	ADVgen	DEGRE=-
 com	come1	CONsub	MORPH=empty
 s'	se	CONsub	MORPH=empty
-il	il	PROimp	PERS.=O|NOMB.=s|GENRE=n|CAS=n
+il	il	PROimp	PERS.=0|NOMB.=s|GENRE=n|CAS=n
 i	i2	PROadv	MORPH=empty
 eüst	avoir	VERcjg	MODE=sub|TEMPS=ipf|PERS.=3|NOMB.=s
 aucune	aucun	DETind	NOMB.=s|GENRE=f|CAS=r
@@ -11691,7 +11691,7 @@ Si	si	ADVgen	DEGRE=-
 com	come1	CONsub	MORPH=empty
 seinz	saint	ADJqua	NOMB.=s|GENRE=m|CAS=n|DEGRE=p
 Beneoiz	Beneoit	NOMpro	NOMB.=s|GENRE=m|CAS=n
-oroit	orer	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=s
+oroit	orer2	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=s
 ,	,	PONfbl	MORPH=empty
 il	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n
 resgarda	regarder	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
@@ -11700,7 +11700,7 @@ si	si	ADVgen	DEGRE=-
 vit	vëoir	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 qe	que4	CONsub	MORPH=empty
 li	le	DETdef	NOMB.=s|GENRE=m|CAS=n
-estoupaus	estoupail	NOMcom	NOMB.=s|GENRE=m|CAS=n
+estoupaus	estopail	NOMcom	NOMB.=s|GENRE=m|CAS=n
 del	de+le	PRE.DETdef	NOMB.=s|GENRE=m|CAS=r
 toniel	tonel	NOMcom	NOMB.=s|GENRE=m|CAS=r
 coumença	comencier	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s

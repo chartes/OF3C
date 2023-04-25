@@ -94,7 +94,7 @@ Rollant	Rollant	NOMpro	NOMB.=s|GENRE=m|CAS=r
 son	son4	DETpos	PERS.=3|NOMB.=s|GENRE=m|CAS=r
 neveu	nevo	NOMcom	NOMB.=s|GENRE=m|CAS=r
 ,	,	PONfbl	MORPH=empty
-Olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=r
 le	le	DETdef	NOMB.=s|GENRE=m|CAS=r
 sené	sené2	ADJqua	NOMB.=s|GENRE=m|CAS=r|DEGRE=p
 ,	,	PONfbl	MORPH=empty
@@ -340,7 +340,7 @@ Rolant	Rollant	NOMpro	NOMB.=s|GENRE=m|CAS=r
 sun	son4	DETpos	PERS.=3|NOMB.=s|GENRE=m|CAS=r
 nevou	nevo	NOMcom	NOMB.=s|GENRE=m|CAS=r
 e	et	CONcoo	MORPH=empty
-Oliver	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Oliver	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=r
 le	le	DETdef	NOMB.=s|GENRE=m|CAS=r
 sené	sené2	ADJqua	NOMB.=s|GENRE=m|CAS=r|DEGRE=p
 ,	,	PONfbl	MORPH=empty
@@ -686,7 +686,7 @@ Rollans	Rollant	NOMpro	NOMB.=s|GENRE=m|CAS=n
 et	et	CONcoo	MORPH=empty
 li	le	DETdef	NOMB.=s|GENRE=m|CAS=n
 cuens	conte1	NOMcom	NOMB.=s|GENRE=m|CAS=n
-Oliviers	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Oliviers	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=n
 ,	,	PONfbl	MORPH=empty
 «	«	PONpga	MORPH=empty
 Et	et	CONcoo	MORPH=empty
@@ -2837,7 +2837,7 @@ le	le	DETdef	NOMB.=s|GENRE=m|CAS=n
 fiz	fil2	NOMcom	NOMB.=s|GENRE=m|CAS=n
 al	a3+le	PRE.DETdef	NOMB.=s|GENRE=m|CAS=r
 duc	duc2	NOMcom	NOMB.=s|GENRE=m|CAS=r
-Odon	Ode	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Odon	Odes	NOMpro	NOMB.=s|GENRE=m|CAS=r
 ,	,	PONfbl	MORPH=empty
 E	et	CONcoo	MORPH=empty
 Gefrei	Gefrei	NOMpro	NOMB.=s|GENRE=m|CAS=n
@@ -4692,7 +4692,7 @@ connois	conoistre	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s
 bien	bien1	ADVgen	DEGRE=p
 Rollant	Rollant	NOMpro	NOMB.=s|GENRE=m|CAS=r
 et	et	CONcoo	MORPH=empty
-Olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=r
 son	son4	DETpos	PERS.=3|NOMB.=s|GENRE=m|CAS=r
 per	per	NOMcom	NOMB.=s|GENRE=m|CAS=r
 ,	,	PONfbl	MORPH=empty
@@ -4733,7 +4733,7 @@ Tierri	Thierri	NOMpro	NOMB.=s|GENRE=m|CAS=r
 d'	de	PRE	MORPH=empty
 Ardane	Ardenne	NOMpro	NOMB.=s|GENRE=f|CAS=r
 et	et	CONcoo	MORPH=empty
-Oede	Ode	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Oede	Odes	NOMpro	NOMB.=s|GENRE=m|CAS=r
 le	le	DETdef	NOMB.=s|GENRE=m|CAS=r
 barbé	barbé	ADJqua	NOMB.=s|GENRE=m|CAS=r|DEGRE=p
 ,	,	PONfbl	MORPH=empty
@@ -7960,7 +7960,7 @@ venés	venir	VERcjg	MODE=imp|PERS.=2|NOMB.=p
 Estout	Estout	NOMpro	NOMB.=s|GENRE=m|CAS=r
 le	le	DETdef	NOMB.=s|GENRE=m|CAS=r
 fil	fil2	NOMcom	NOMB.=s|GENRE=m|CAS=r
-Oedon	Ode	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Oedon	Odes	NOMpro	NOMB.=s|GENRE=m|CAS=r
 ,	,	PONfbl	MORPH=empty
 Turpin	Turpin	NOMpro	NOMB.=s|GENRE=m|CAS=r
 et	et	CONcoo	MORPH=empty
@@ -7979,7 +7979,7 @@ Jofroi	Gefrei	NOMpro	NOMB.=s|GENRE=m|CAS=r
 l'	le	DETdef	NOMB.=s|GENRE=m|CAS=r
 angevin	Angevin	NOMpro	NOMB.=s|GENRE=m|CAS=r
 et	et	CONcoo	MORPH=empty
-Hue	Ode	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Hue	Odes	NOMpro	NOMB.=s|GENRE=m|CAS=r
 le	le	DETdef	NOMB.=s|GENRE=m|CAS=r
 sené	sené2	ADJqua	NOMB.=s|GENRE=m|CAS=r|DEGRE=p
 ,	,	PONfbl	MORPH=empty
@@ -8541,7 +8541,7 @@ Estous	Estout	NOMpro	NOMB.=s|GENRE=m|CAS=n
 ,	,	PONfbl	MORPH=empty
 li	le	DETdef	NOMB.=s|GENRE=m|CAS=n
 fils	fil2	NOMcom	NOMB.=s|GENRE=m|CAS=n
-Odon	Ode	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Odon	Odes	NOMpro	NOMB.=s|GENRE=m|CAS=r
 ,	,	PONfbl	MORPH=empty
 Berart	Berart	NOMpro	NOMB.=s|GENRE=m|CAS=n
 de	de	PRE	MORPH=empty
@@ -8998,7 +8998,7 @@ timonier	timonier	NOMcom	NOMB.=s|GENRE=m|CAS=r
 Estout	Estout	NOMpro	NOMB.=s|GENRE=m|CAS=n
 le	le	DETdef	NOMB.=s|GENRE=m|CAS=n
 fil	fil2	NOMcom	NOMB.=s|GENRE=m|CAS=n
-Odon	Ode	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Odon	Odes	NOMpro	NOMB.=s|GENRE=m|CAS=r
 ,	,	PONfbl	MORPH=empty
 Berart	Berart	NOMpro	NOMB.=s|GENRE=m|CAS=n
 de	de	PRE	MORPH=empty
@@ -9039,7 +9039,7 @@ choisi	choisir	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 mie	mie	ADVneg	MORPH=empty
 Rollant	Rollant	NOMpro	NOMB.=s|GENRE=m|CAS=r
 ne	ne2	CONcoo	MORPH=empty
-Olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=r
 ,	,	PONfbl	MORPH=empty
 Ains	ainz	ADVgen	DEGRE=-
 erent	estre1	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=p
@@ -10374,7 +10374,7 @@ aé	aé	NOMcom	NOMB.=s|GENRE=m|CAS=r
 »	»	PONpdr	MORPH=empty
 LI	le	DETdef	NOMB.=s|GENRE=m|CAS=n
 dus	duc2	NOMcom	NOMB.=s|GENRE=m|CAS=n
-Oedes	Ode	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Oedes	Odes	NOMpro	NOMB.=s|GENRE=m|CAS=n
 de	de	PRE	MORPH=empty
 Lengres	Lengres	NOMpro	NOMB.=s|GENRE=f|CAS=r
 ot	avoir	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
@@ -10483,7 +10483,7 @@ don	don	NOMcom	NOMB.=s|GENRE=m|CAS=r
 »	»	PONpdr	MORPH=empty
 Et	et	CONcoo	MORPH=empty
 dist	dire	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
-Huedes	Ode	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Huedes	Odes	NOMpro	NOMB.=s|GENRE=m|CAS=n
 de	de	PRE	MORPH=empty
 Lengres	Lengres	NOMpro	NOMB.=s|GENRE=f|CAS=r
 :	:	PONfbl	MORPH=empty
@@ -10619,7 +10619,7 @@ menton	menton	NOMcom	NOMB.=s|GENRE=m|CAS=r
 »	»	PONpdr	MORPH=empty
 Et	et	CONcoo	MORPH=empty
 dist	dire	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
-Oedes	Ode	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Oedes	Odes	NOMpro	NOMB.=s|GENRE=m|CAS=n
 de	de	PRE	MORPH=empty
 Lengres	Lengres	NOMpro	NOMB.=s|GENRE=f|CAS=r
 :	:	PONfbl	MORPH=empty
@@ -12149,7 +12149,7 @@ es	ez	ADVgen	DEGRE=-
 vos	vos	PROper	PERS.=2|NOMB.=p|GENRE=m|CAS=r
 Rollant	Rollant	NOMpro	NOMB.=s|GENRE=m|CAS=r
 et	et	CONcoo	MORPH=empty
-Olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=r
 son	son4	DETpos	PERS.=3|NOMB.=s|GENRE=m|CAS=n
 per	per	NOMcom	NOMB.=s|GENRE=m|CAS=n
 ,	,	PONfbl	MORPH=empty
@@ -12381,7 +12381,7 @@ nez	nés	NOMcom	NOMB.=s|GENRE=m|CAS=r
 Sire	seignor	NOMcom	NOMB.=s|GENRE=m|CAS=n
 ,	,	PONfbl	MORPH=empty
 dist	dire	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
-Olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=n
 ,	,	PONfbl	MORPH=empty
 mult	mout	ADVgen	DEGRE=-
 grant	grant	ADJqua	NOMB.=s|GENRE=m|CAS=r|DEGRE=p
@@ -12583,7 +12583,7 @@ crois	croiz	NOMcom	NOMB.=s|GENRE=f|CAS=r
 fu	estre1	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 penés	pener	VERppe	NOMB.=s|GENRE=m|CAS=n
 !	!	PONfrt	MORPH=empty
-Olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=r
 de	de	PRE	MORPH=empty
 Viane	Vianne	NOMpro	NOMB.=s|GENRE=f|CAS=r
 a	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
@@ -12593,7 +12593,7 @@ apelé	apeler	VERppe	NOMB.=s|GENRE=m|CAS=r
 :	:	PONfbl	MORPH=empty
 Guenes	Ganelon	NOMpro	NOMB.=s|GENRE=m|CAS=n
 veit	vëoir	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
-Olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=r
 ,	,	PONfbl	MORPH=empty
 si	si	ADVgen	DEGRE=-
 l'	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=r
@@ -12794,7 +12794,7 @@ a	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 regardé	regarder	VERppe	NOMB.=s|GENRE=m|CAS=r
 Rollant	Rollant	NOMpro	NOMB.=s|GENRE=m|CAS=r
 et	et	CONcoo	MORPH=empty
-Olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=r
 .	.	PONfrt	MORPH=empty
 Et	et	CONcoo	MORPH=empty
 s'	si	ADVgen	DEGRE=-
@@ -13353,7 +13353,7 @@ ou	o3	CONcoo	MORPH=empty
 le	le	DETdef	NOMB.=s|GENRE=m|CAS=n
 bon	bon	ADJqua	NOMB.=s|GENRE=m|CAS=n|DEGRE=p
 duc	duc2	NOMcom	NOMB.=s|GENRE=m|CAS=n
-Odon	Ode	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Odon	Odes	NOMpro	NOMB.=s|GENRE=m|CAS=n
 .	.	PONfrt	MORPH=empty
 «	«	PONpga	MORPH=empty
 Mais	mais1	CONcoo	MORPH=empty
@@ -13519,7 +13519,7 @@ Naimon	Naimes	NOMpro	NOMB.=s|GENRE=m|CAS=r
 ,	,	PONfbl	MORPH=empty
 Rollant	Rollant	NOMpro	NOMB.=s|GENRE=m|CAS=r
 et	et	CONcoo	MORPH=empty
-Olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=r
 ,	,	PONfbl	MORPH=empty
 l'	le	DETdef	NOMB.=s|GENRE=m|CAS=r
 emperéor	emperëor	NOMcom	NOMB.=s|GENRE=m|CAS=r
@@ -13891,7 +13891,7 @@ volenté	volenté	NOMcom	NOMB.=s|GENRE=f|CAS=r
 »	»	PONpdr	MORPH=empty
 Le	le	DETdef	NOMB.=s|GENRE=m|CAS=r
 duc	duc2	NOMcom	NOMB.=s|GENRE=m|CAS=r
-Hue	Ode	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Hue	Odes	NOMpro	NOMB.=s|GENRE=m|CAS=r
 de	de	PRE	MORPH=empty
 Lengres	Lengres	NOMpro	NOMB.=s|GENRE=m|CAS=r
 a	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
@@ -14166,7 +14166,7 @@ forment	forment2	ADVgen	DEGRE=-
 à	a3	PRE	MORPH=empty
 proisier	prisier	VERinf	MORPH=empty
 ;	;	PONfbl	MORPH=empty
-Odon	Ode	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Odon	Odes	NOMpro	NOMB.=s|GENRE=m|CAS=r
 en	en2	PROadv	MORPH=empty
 apela	apeler	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 et	et	CONcoo	MORPH=empty
@@ -14235,7 +14235,7 @@ monta	monter	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 meintenant	maintenant	ADVgen	DEGRE=-
 Rollans	Rollant	NOMpro	NOMB.=s|GENRE=m|CAS=n
 et	et	CONcoo	MORPH=empty
-Olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=n
 ,	,	PONfbl	MORPH=empty
 Et	et	CONcoo	MORPH=empty
 tuit	tot	DETind	NOMB.=p|GENRE=m|CAS=n
@@ -14361,7 +14361,7 @@ Estous	Estout	NOMpro	NOMB.=s|GENRE=m|CAS=n
 ,	,	PONfbl	MORPH=empty
 li	le	DETdef	NOMB.=s|GENRE=m|CAS=n
 fils	fil2	NOMcom	NOMB.=s|GENRE=m|CAS=n
-Odon	Ode	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Odon	Odes	NOMpro	NOMB.=s|GENRE=m|CAS=r
 ,	,	PONfbl	MORPH=empty
 Berart	Berart	NOMpro	NOMB.=s|GENRE=m|CAS=n
 de	de	PRE	MORPH=empty
@@ -14641,7 +14641,7 @@ Aude	Aude	NOMpro	NOMB.=s|GENRE=f|CAS=n
 ,	,	PONfbl	MORPH=empty
 la	le	DETdef	NOMB.=s|GENRE=f|CAS=n
 soreur	seror	NOMcom	NOMB.=s|GENRE=f|CAS=n
-Olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=r
 .	.	PONfrt	MORPH=empty
 »	»	PONpdr	MORPH=empty
 Quant	cant1	CONsub	MORPH=empty
@@ -14822,7 +14822,7 @@ plorent	plorer	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p
 andui	ambedos	ADJcar	NOMB.=p|GENRE=m|CAS=n
 Rollant	Rollant	NOMpro	NOMB.=s|GENRE=m|CAS=n
 et	et	CONcoo	MORPH=empty
-Olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=n
 .	.	PONfrt	MORPH=empty
 L'	le	DETdef	NOMB.=s|GENRE=m|CAS=n
 emperere	emperëor	NOMcom	NOMB.=s|GENRE=m|CAS=n
@@ -18955,7 +18955,7 @@ Auberi	Auberi	NOMpro	NOMB.=s|GENRE=m|CAS=n
 le	le	DETdef	NOMB.=s|GENRE=m|CAS=r
 Borgoing	Borguignon	NOMpro	NOMB.=s|GENRE=m|CAS=r
 et	et	CONcoo	MORPH=empty
-Hue	Ode	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Hue	Odes	NOMpro	NOMB.=s|GENRE=m|CAS=r
 le	le	DETdef	NOMB.=s|GENRE=m|CAS=r
 menbré	membré2	ADJqua	NOMB.=s|GENRE=m|CAS=r|DEGRE=p
 .	.	PONfrt	MORPH=empty
@@ -21178,7 +21178,7 @@ de	de	PRE	MORPH=empty
 mort	mort	NOMcom	NOMB.=s|GENRE=f|CAS=r
 Rollant	Rollant	NOMpro	NOMB.=s|GENRE=m|CAS=r
 et	et	CONcoo	MORPH=empty
-Olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=r
 «	«	PONpga	MORPH=empty
 Et	et	CONcoo	MORPH=empty
 Sanson	Sanses	NOMpro	NOMB.=s|GENRE=m|CAS=r
@@ -21422,7 +21422,7 @@ Sanson	Sanses	NOMpro	NOMB.=s|GENRE=m|CAS=r
 «	«	PONpga	MORPH=empty
 Rollant	Rollant	NOMpro	NOMB.=s|GENRE=m|CAS=r
 et	et	CONcoo	MORPH=empty
-Olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=r
 ,	,	PONfbl	MORPH=empty
 le	le	DETdef	NOMB.=s|GENRE=m|CAS=r
 barnage	barnage	NOMcom	NOMB.=s|GENRE=m|CAS=r
@@ -21618,7 +21618,7 @@ ESTOUS	Estout	NOMpro	NOMB.=s|GENRE=m|CAS=n
 ,	,	PONfbl	MORPH=empty
 li	le	DETdef	NOMB.=s|GENRE=m|CAS=n
 fils	fil2	NOMcom	NOMB.=s|GENRE=m|CAS=n
-Oedon	Ode	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Oedon	Odes	NOMpro	NOMB.=s|GENRE=m|CAS=r
 ,	,	PONfbl	MORPH=empty
 n'	ne1	ADVneg	MORPH=empty
 i	i2	PROadv	MORPH=empty
@@ -22354,7 +22354,7 @@ Estous	Estout	NOMpro	NOMB.=s|GENRE=m|CAS=n
 ,	,	PONfbl	MORPH=empty
 li	le	DETdef	NOMB.=s|GENRE=m|CAS=n
 fils	fil2	NOMcom	NOMB.=s|GENRE=m|CAS=n
-Oedon	Ode	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Oedon	Odes	NOMpro	NOMB.=s|GENRE=m|CAS=r
 ,	,	PONfbl	MORPH=empty
 n'	ne1	ADVneg	MORPH=empty
 a	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
@@ -24381,7 +24381,7 @@ Estous	Estout	NOMpro	NOMB.=s|GENRE=m|CAS=n
 ,	,	PONfbl	MORPH=empty
 li	le	DETdef	NOMB.=s|GENRE=m|CAS=n
 fils	fil2	NOMcom	NOMB.=s|GENRE=m|CAS=n
-Odon	Ode	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Odon	Odes	NOMpro	NOMB.=s|GENRE=m|CAS=r
 ,	,	PONfbl	MORPH=empty
 en	en2	PROadv	MORPH=empty
 est	estre1	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
@@ -37097,7 +37097,7 @@ Estous	Estout	NOMpro	NOMB.=s|GENRE=m|CAS=n
 ,	,	PONfbl	MORPH=empty
 li	le	DETdef	NOMB.=s|GENRE=m|CAS=n
 fils	fil2	NOMcom	NOMB.=s|GENRE=m|CAS=n
-Oedon	Ode	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Oedon	Odes	NOMpro	NOMB.=s|GENRE=m|CAS=r
 ,	,	PONfbl	MORPH=empty
 à	a3	PRE	MORPH=empty
 Escorfaut	Escorfaus	NOMpro	NOMB.=s|GENRE=m|CAS=r
@@ -39072,7 +39072,7 @@ Estout	Estout	NOMpro	NOMB.=s|GENRE=m|CAS=r
 ,	,	PONfbl	MORPH=empty
 le	le	DETdef	NOMB.=s|GENRE=m|CAS=r
 fil	fil2	NOMcom	NOMB.=s|GENRE=m|CAS=r
-Odon	Ode	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Odon	Odes	NOMpro	NOMB.=s|GENRE=m|CAS=r
 ,	,	PONfbl	MORPH=empty
 Berart	Berart	NOMpro	NOMB.=s|GENRE=m|CAS=r
 de	de	PRE	MORPH=empty
@@ -41327,7 +41327,7 @@ antra	entrer	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 .	.	PONfrt	MORPH=empty
 Rollant	Rollant	NOMpro	NOMB.=s|GENRE=m|CAS=r
 et	et	CONcoo	MORPH=empty
-Olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=r
 en	en1	PRE	MORPH=empty
 sa	son4	DETpos	PERS.=3|NOMB.=s|GENRE=f|CAS=r
 voie	voie	NOMcom	NOMB.=s|GENRE=f|CAS=r
@@ -41523,7 +41523,7 @@ escorcera	escorchier	VERcjg	MODE=ind|TEMPS=fut|PERS.=3|NOMB.=s
 «	«	PONpga	MORPH=empty
 Rollant	Rollant	NOMpro	NOMB.=s|GENRE=m|CAS=r
 et	et	CONcoo	MORPH=empty
-Olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=r
 les	le	DETdef	NOMB.=p|GENRE=f|CAS=r
 testes	teste	NOMcom	NOMB.=p|GENRE=f|CAS=r
 tranchera	trenchier1	VERcjg	MODE=ind|TEMPS=fut|PERS.=3|NOMB.=s
@@ -41565,7 +41565,7 @@ enclina	encliner	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 ;	;	PONfbl	MORPH=empty
 Rollant	Rollant	NOMpro	NOMB.=s|GENRE=m|CAS=n
 et	et	CONcoo	MORPH=empty
-Olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=n
 forment	forment2	ADVgen	DEGRE=-
 en	en2	PROadv	MORPH=empty
 sospira	sospirer	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
@@ -42517,7 +42517,7 @@ atenir	atenir	VERinf	MORPH=empty
 .	.	PONfrt	MORPH=empty
 Rollans	Rollant	NOMpro	NOMB.=s|GENRE=m|CAS=n
 et	et	CONcoo	MORPH=empty
-Olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=n
 et	et	CONcoo	MORPH=empty
 Ogiers	Ogier	NOMpro	NOMB.=s|GENRE=m|CAS=n
 li	le	DETdef	NOMB.=s|GENRE=m|CAS=n
@@ -42690,7 +42690,7 @@ gieu	jeu	NOMcom	NOMB.=s|GENRE=m|CAS=r
 ne	ne2	CONcoo	MORPH=empty
 deport	deport	NOMcom	NOMB.=s|GENRE=m|CAS=r
 .	.	PONfrt	MORPH=empty
-Olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=r
 va	aler	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 devant	devant	ADVgen	DEGRE=-
 et	et	CONcoo	MORPH=empty
@@ -43756,7 +43756,7 @@ Tierri	Thierri	NOMpro	NOMB.=s|GENRE=m|CAS=r
 et	et	CONcoo	MORPH=empty
 Estous	Estout	NOMpro	NOMB.=s|GENRE=m|CAS=n
 à	a3	PRE	MORPH=empty
-Oedon	Ode	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Oedon	Odes	NOMpro	NOMB.=s|GENRE=m|CAS=r
 .	.	PONfrt	MORPH=empty
 Bertrans	Bertrant	NOMpro	NOMB.=s|GENRE=m|CAS=n
 ,	,	PONfbl	MORPH=empty
@@ -43969,7 +43969,7 @@ aduré	aduré	ADJqua	NOMB.=s|GENRE=m|CAS=n|DEGRE=p
 ,	,	PONfbl	MORPH=empty
 Li	le	DETdef	NOMB.=s|GENRE=m|CAS=n
 dus	duc2	NOMcom	NOMB.=s|GENRE=m|CAS=n
-Oedes	Ode	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Oedes	Odes	NOMpro	NOMB.=s|GENRE=m|CAS=n
 de	de	PRE	MORPH=empty
 Langres	Lengres	NOMpro	NOMB.=s|GENRE=m|CAS=r
 ,	,	PONfbl	MORPH=empty
@@ -45055,7 +45055,7 @@ conréez	conrëer	VERppe	NOMB.=s|GENRE=m|CAS=n
 .	.	PONfrt	MORPH=empty
 Rollant	Rollant	NOMpro	NOMB.=s|GENRE=m|CAS=r
 et	et	CONcoo	MORPH=empty
-Olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=r
 a	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 devant	devant	PRE	MORPH=empty
 lui	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=i
@@ -45354,7 +45354,7 @@ meillor	meillor	ADJqua	NOMB.=p|GENRE=m|CAS=n|DEGRE=s
 .	.	PONfrt	MORPH=empty
 Rollans	Rollant	NOMpro	NOMB.=s|GENRE=m|CAS=n
 et	et	CONcoo	MORPH=empty
-Olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=n
+Olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=n
 se	soi1	PROper	PERS.=3|NOMB.=p|GENRE=m|CAS=r
 sont	estre1	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p
 mis	metre2	VERppe	NOMB.=p|GENRE=m|CAS=n
@@ -46220,7 +46220,7 @@ mercier	mercïer	VERinf	MORPH=empty
 .	.	PONfrt	MORPH=empty
 Rollans	Rollant	NOMpro	NOMB.=s|GENRE=m|CAS=n
 et	et	CONcoo	MORPH=empty
-Olivier	Oliver	NOMpro	NOMB.=s|GENRE=m|CAS=r
+Olivier	Olivier	NOMpro	NOMB.=s|GENRE=m|CAS=r
 pensent	penser	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p
 de	de	PRE	MORPH=empty
 decouper	decoper	VERinf	MORPH=empty

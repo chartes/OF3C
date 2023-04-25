@@ -3311,7 +3311,6 @@ veraie	verai	ADJqua	NOMB.=s|GENRE=f|CAS=r|DEGRE=p
 creance	crëance	NOMcom	NOMB.=s|GENRE=f|CAS=r
 avoient	avoir	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=p
 .	.	PONfrt	MORPH=empty
-﻿	﻿	PONfbl	MORPH=empty
 D'	de	PRE	MORPH=empty
 un	un	DETndf	NOMB.=s|GENRE=m|CAS=r
 autre	autre	ADJind	NOMB.=s|GENRE=m|CAS=r
@@ -8952,7 +8951,7 @@ tout	tot	ADVgen	DEGRE=-
 adés	adès	ADVgen	DEGRE=-
 ardoit	ardre	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=s
 le	le	DETdef	NOMB.=s|GENRE=m|CAS=r
-diemence	dïemanche	NOMcom	NOMB.=s|GENRE=m|CAS=r
+diemence	dïemaine	NOMcom	NOMB.=s|GENRE=m|CAS=r
 ,	,	PONfbl	MORPH=empty
 si	si	ADVgen	DEGRE=-
 li	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=i
@@ -18265,7 +18264,7 @@ eus	il	PROper	PERS.=3|NOMB.=p|GENRE=m|CAS=i
 l'	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=r
 avoient	avoir	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=p
 si	si	ADVgen	DEGRE=-
-violé	vïoler	VERppe	NOMB.=s|GENRE=m|CAS=r
+violé	vïoler2	VERppe	NOMB.=s|GENRE=m|CAS=r
 de	de	PRE	MORPH=empty
 tant	tant	ADVgen	DEGRE=-
 q'	que4	CONsub	MORPH=empty
@@ -19267,7 +19266,7 @@ en	en1	PRE	MORPH=empty
 un	un	DETndf	NOMB.=s|GENRE=m|CAS=r
 jor	jor	NOMcom	NOMB.=s|GENRE=m|CAS=r
 de	de	PRE	MORPH=empty
-diemence	dïemanche	NOMcom	NOMB.=s|GENRE=m|CAS=r
+diemence	dïemaine	NOMcom	NOMB.=s|GENRE=m|CAS=r
 au	a3+le	PRE.DETdef	NOMB.=s|GENRE=m|CAS=r
 vespre	vespre	NOMcom	NOMB.=s|GENRE=m|CAS=r
 .	.	PONfrt	MORPH=empty
@@ -19631,7 +19630,7 @@ cel	cel	DETdem	NOMB.=s|GENRE=m|CAS=r
 tens	tens	NOMcom	NOMB.=s|GENRE=m|CAS=r
 meïsmes	mëisme	ADJind	NOMB.=s|GENRE=m|CAS=r
 del	de+le	PRE.DETdef	NOMB.=s|GENRE=m|CAS=r
-diemence	dïemanche	NOMcom	NOMB.=s|GENRE=m|CAS=r
+diemence	dïemaine	NOMcom	NOMB.=s|GENRE=m|CAS=r
 q'	que4	CONsub	MORPH=empty
 il	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n
 vint	venir	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
@@ -22930,7 +22929,7 @@ mis	metre2	VERppe	NOMB.=s|GENRE=n|CAS=r
 si	si	ADVgen	DEGRE=-
 grant	grant	ADJqua	NOMB.=s|GENRE=f|CAS=r|DEGRE=p
 paine	peine	NOMcom	NOMB.=s|GENRE=f|CAS=r
-au	a3+il	PRE.PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=r
+au	a3+le	PRE.PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=r
 priier	priier	VERinf	NOMB.=x|GENRE=x|CAS=x
 qe	que4	CONsub	MORPH=empty
 nos	nos1	PROper	PERS.=1|NOMB.=p|GENRE=m|CAS=n
@@ -22958,7 +22957,7 @@ nostre	nostre	ADJpos	PERS.=1|NOMB.=s|GENRE=f|CAS=r
 vie	vie1	NOMcom	NOMB.=s|GENRE=f|CAS=r
 et	et	CONcoo	MORPH=empty
 aprés	après	PRE	MORPH=empty
-nos	nos	DETpos	PERS.=1|NOMB.=p|GENRE=m|CAS=r
+nos	nos1	DETpos	PERS.=1|NOMB.=p|GENRE=m|CAS=r
 decés	decès	NOMcom	NOMB.=p|GENRE=m|CAS=r
 eüsses	avoir	VERcjg	MODE=sub|TEMPS=ipf|PERS.=2|NOMB.=s
 nos	nostre	DETpos	PERS.=1|NOMB.=p|GENRE=f|CAS=r

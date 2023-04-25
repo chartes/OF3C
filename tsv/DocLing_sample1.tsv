@@ -41,7 +41,7 @@ lib	livre3	NOMcom	NOMB.=p|GENRE=f|CAS=r
 de	de	PRE	MORPH=empty
 -	-	PONfbl	MORPH=empty
 par	parisis	NOMcom	NOMB.=s|GENRE=m|CAS=r
-.//,	,	PONfbl	MORPH=empty
+.//,	.//,	PONfbl	MORPH=empty
 lesques	le+quel1	DETrel	NOMB.=p|GENRE=m|CAS=r
 deniers	denier	NOMcom	NOMB.=p|GENRE=m|CAS=r
 ,	,	PONfbl	MORPH=empty
@@ -448,7 +448,7 @@ mil	mil1	ADJcar	NOMB.=p|GENRE=m|CAS=r
 et	et	CONcoo	MORPH=empty
 .	.	PONfrt	MORPH=empty
 LVII	57	ADJcar	NOMB.=p|GENRE=m|CAS=r
-.//,	,	PONfbl	MORPH=empty
+.//,	.//,	PONfbl	MORPH=empty
 el	en1+le	PRE.DETdef	MORPH=empty+NOMB.=s|GENRE=m|CAS=r
 mois	mois2	NOMcom	NOMB.=s|GENRE=m|CAS=r
 de	de	PRE	MORPH=empty
@@ -735,7 +735,7 @@ Signeur	seignor	NOMpro	NOMB.=s|GENRE=m|CAS=r
 mil	mil1	ADJcar	NOMB.=p|GENRE=m|CAS=r
 .CC.	200	ADJcar	NOMB.=p|GENRE=m|CAS=r
 LXII	62	ADJcar	NOMB.=p|GENRE=m|CAS=r
-.//,	,	PONfbl	MORPH=empty
+.//,	.//,	PONfbl	MORPH=empty
 el	en1+le	PRE.DETdef	MORPH=empty+NOMB.=s|GENRE=m|CAS=r
 mois	mois2	NOMcom	NOMB.=s|GENRE=m|CAS=r
 de	de	PRE	MORPH=empty
@@ -1208,7 +1208,7 @@ Signeur	seignor	NOMpro	NOMB.=s|GENRE=m|CAS=r
 mil	mil1	ADJcar	NOMB.=p|GENRE=m|CAS=r
 .CC.	200	ADJcar	NOMB.=p|GENRE=m|CAS=r
 LXIIII	64	ADJcar	NOMB.=p|GENRE=m|CAS=r
-.//,	,	PONfbl	MORPH=empty
+.//,	.//,	PONfbl	MORPH=empty
 el	en1+le	PRE.DETdef	MORPH=empty+NOMB.=s|GENRE=m|CAS=r
 mois	mois2	NOMcom	NOMB.=s|GENRE=m|CAS=r
 de	de	PRE	MORPH=empty
@@ -1661,7 +1661,7 @@ les	le	DETdef	NOMB.=p|GENRE=m|CAS=r
 Cartriers	chartrier2	NOMcom	NOMB.=p|GENRE=m|CAS=r
 .XX.	20	DETcar	NOMB.=p|GENRE=x|CAS=r
 s	sou	NOMcom	NOMB.=p|GENRE=m|CAS=r
-.//,	,	PONfbl	MORPH=empty
+.//,	.//,	PONfbl	MORPH=empty
 al	a3+le	PRE.DETdef	MORPH=empty+NOMB.=s|GENRE=f|CAS=r
 -	-	PONfbl	MORPH=empty
 oevre	uevre	NOMcom	NOMB.=s|GENRE=f|CAS=r
@@ -1671,7 +1671,7 @@ dou	de+le	PRE.DETdef	MORPH=empty+NOMB.=s|GENRE=m|CAS=r
 Tenple	temple3	NOMcom	NOMB.=s|GENRE=m|CAS=r
 .V.	5	DETcar	NOMB.=s|GENRE=x|CAS=r
 s	sou	NOMcom	NOMB.=p|GENRE=m|CAS=r
-.//,	,	PONfbl	MORPH=empty
+.//,	.//,	PONfbl	MORPH=empty
 al	a3+le	PRE.DETdef	MORPH=empty+NOMB.=s|GENRE=f|CAS=r
 -	-	PONfbl	MORPH=empty
 abie	abeie	NOMcom	NOMB.=s|GENRE=f|CAS=r
@@ -1690,21 +1690,21 @@ sen	son4	DETpos	PERS.=3|NOMB.=s|GENRE=m|CAS=r
 parrocien	paroissiien	NOMcom	NOMB.=s|GENRE=m|CAS=r
 .X.	10	DETcar	NOMB.=p|GENRE=x|CAS=r
 s	sou	NOMcom	NOMB.=p|GENRE=m|CAS=r
-.//,	,	PONfbl	MORPH=empty
+.//,	.//,	PONfbl	MORPH=empty
 a	a3	PRE	MORPH=empty
 -	-	PONfbl	MORPH=empty
 sen	son4	DETpos	PERS.=3|NOMB.=s|GENRE=m|CAS=r
 capelain	chapelain	NOMcom	NOMB.=s|GENRE=m|CAS=r
 .III.	3	DETcar	NOMB.=p|GENRE=x|CAS=r
 s	sou	NOMcom	NOMB.=p|GENRE=m|CAS=r
-.//,	,	PONfbl	MORPH=empty
+.//,	.//,	PONfbl	MORPH=empty
 a	a3	PRE	MORPH=empty
 -	-	PONfbl	MORPH=empty
 sen	son4	DETpos	PERS.=3|NOMB.=s|GENRE=m|CAS=r
 clerc	clerc	NOMcom	NOMB.=s|GENRE=m|CAS=r
 .XII.	12	DETcar	NOMB.=p|GENRE=x|CAS=r
 d	denier	NOMcom	NOMB.=p|GENRE=m|CAS=r
-.//,	,	PONfbl	MORPH=empty
+.//,	.//,	PONfbl	MORPH=empty
 a	a3	PRE	MORPH=empty
 -	-	PONfbl	MORPH=empty
 Sarrain	Sarain	NOMpro	NOMB.=s|GENRE=m|CAS=r
@@ -1774,7 +1774,7 @@ le	le	DETdef	NOMB.=s|GENRE=f|CAS=r
 Traille	Treille	NOMpro	NOMB.=s|GENRE=f|CAS=r
 .V.	5	DETcar	NOMB.=s|GENRE=x|CAS=r
 s	sou	NOMcom	NOMB.=p|GENRE=m|CAS=r
-.//,	,	PONfbl	MORPH=empty
+.//,	.//,	PONfbl	MORPH=empty
 a	a3	PRE	MORPH=empty
 -	-	PONfbl	MORPH=empty
 Benoitien	Benoitien	NOMpro	NOMB.=s|GENRE=m|CAS=r
@@ -1880,21 +1880,21 @@ a	a3	PRE	MORPH=empty
 Santain	Santain	NOMpro	NOMB.=s|GENRE=x|CAS=r
 .XX.	20	DETcar	NOMB.=p|GENRE=x|CAS=r
 s	sou	NOMcom	NOMB.=s|GENRE=m|CAS=r
-.//,	,	PONfbl	MORPH=empty
+.//,	.//,	PONfbl	MORPH=empty
 a	a3	PRE	MORPH=empty
 Mehaut	Mehaut	NOMpro	NOMB.=s|GENRE=f|CAS=r
 le	le	DETdef	NOMB.=s|GENRE=f|CAS=r
 Bateresse	Bateresse	NOMpro	NOMB.=s|GENRE=f|CAS=r
 .V.	5	DETcar	NOMB.=s|GENRE=x|CAS=r
 s	sou	NOMcom	NOMB.=p|GENRE=m|CAS=r
-.//,	,	PONfbl	MORPH=empty
+.//,	.//,	PONfbl	MORPH=empty
 a	a3	PRE	MORPH=empty
 Marien	Marien	NOMpro	NOMB.=s|GENRE=f|CAS=r
 le	le	DETdef	NOMB.=s|GENRE=f|CAS=r
 Lione	Lione	NOMpro	NOMB.=s|GENRE=f|CAS=r
 .L.	50	DETcar	NOMB.=p|GENRE=x|CAS=r
 s	sou	NOMcom	NOMB.=p|GENRE=m|CAS=r
-.//,	,	PONfbl	MORPH=empty
+.//,	.//,	PONfbl	MORPH=empty
 a	a3	PRE	MORPH=empty
 Helotain	Hélotain	NOMpro	NOMB.=s|GENRE=m|CAS=r
 d'	de	PRE	MORPH=empty
@@ -1925,7 +1925,7 @@ s	sou	NOMcom	NOMB.=p|GENRE=m|CAS=r
 .	.	PONfrt	MORPH=empty
 de	de	PRE	MORPH=empty
 par	parisis	NOMcom	NOMB.=s|GENRE=m|CAS=r
-.//,	,	PONfbl	MORPH=empty
+.//,	.//,	PONfbl	MORPH=empty
 pau	poi	ADVgen	DEGRE=-
 plus	plus	ADVgen	DEGRE=-
 pau	poi	ADVgen	DEGRE=-
@@ -1997,14 +1997,14 @@ de	de	PRE	MORPH=empty
 Mons	Mons	NOMpro	NOMB.=s|GENRE=x|CAS=r
 .X.	10	DETcar	NOMB.=p|GENRE=x|CAS=r
 s	sou	NOMcom	NOMB.=p|GENRE=m|CAS=r
-.//,	,	PONfbl	MORPH=empty
+.//,	.//,	PONfbl	MORPH=empty
 au	a3+le	PRE.DETdef	MORPH=empty+NOMB.=s|GENRE=m|CAS=r
 beghinage	beguinage	NOMcom	NOMB.=s|GENRE=m|CAS=r
 de	de	PRE	MORPH=empty
 Niviele	Nivelles	NOMpro	NOMB.=s|GENRE=x|CAS=r
 .X.	10	DETcar	NOMB.=p|GENRE=x|CAS=r
 s	sou	NOMcom	NOMB.=p|GENRE=m|CAS=r
-.//,	,	PONfbl	MORPH=empty
+.//,	.//,	PONfbl	MORPH=empty
 as	a3+le	PRE.DETdef	MORPH=empty+NOMB.=p|GENRE=f|CAS=r
 poures	povre	ADJqua	NOMB.=p|GENRE=f|CAS=r|DEGRE=p
 beghines	beguine	NOMcom	NOMB.=p|GENRE=f|CAS=r
@@ -2015,7 +2015,7 @@ a	a3	PRE	MORPH=empty
 Canbrai	Cambrai	NOMpro	NOMB.=s|GENRE=x|CAS=r
 .X.	10	DETcar	NOMB.=p|GENRE=x|CAS=r
 s	sou	NOMcom	NOMB.=p|GENRE=m|CAS=r
-.//,	,	PONfbl	MORPH=empty
+.//,	.//,	PONfbl	MORPH=empty
 as	a3+le	PRE.DETdef	MORPH=empty+NOMB.=p|GENRE=f|CAS=r
 beghines	beguine	NOMcom	NOMB.=p|GENRE=f|CAS=r
 dou	de+le	PRE.DETdef	MORPH=empty+NOMB.=s|GENRE=m|CAS=r
@@ -2038,7 +2038,7 @@ de	de	PRE	MORPH=empty
 Valenciennes	Valenciennes	NOMpro	NOMB.=p|GENRE=m|CAS=r
 .X.	10	DETcar	NOMB.=p|GENRE=x|CAS=r
 s	sou	NOMcom	NOMB.=p|GENRE=m|CAS=r
-.//,	,	PONfbl	MORPH=empty
+.//,	.//,	PONfbl	MORPH=empty
 a	a3	PRE	MORPH=empty
 Mehaut	Mehaut	NOMpro	NOMB.=s|GENRE=f|CAS=r
 le	le	DETdef	NOMB.=s|GENRE=f|CAS=r
@@ -2537,7 +2537,7 @@ Incarnation	incarnacïon	NOMcom	NOMB.=s|GENRE=f|CAS=r
 .M.CC.	1200	ADJcar	NOMB.=p|GENRE=m|CAS=r
 et	et	CONcoo	MORPH=empty
 .LXX	70	ADJcar	NOMB.=p|GENRE=m|CAS=r
-.//,	.	PONfrt	MORPH=empty
+.//,	.//,	PONfrt	MORPH=empty
 el	en1+le	PRE.DETdef	MORPH=empty+NOMB.=s|GENRE=m|CAS=r
 mois	mois2	NOMcom	NOMB.=s|GENRE=m|CAS=r
 de	de	PRE	MORPH=empty
@@ -2717,7 +2717,7 @@ Incarnacion	incarnacïon	NOMcom	NOMB.=s|GENRE=f|CAS=r
 et	et	CONcoo	MORPH=empty
 .	.	PONfrt	MORPH=empty
 LXX	70	ADJcar	NOMB.=p|GENRE=m|CAS=r
-.//,	.	PONfrt	MORPH=empty
+.//,	.//,	PONfrt	MORPH=empty
 el	en1+le	PRE.DETdef	MORPH=empty+NOMB.=s|GENRE=m|CAS=r
 mois	mois2	NOMcom	NOMB.=s|GENRE=m|CAS=r
 de	de	PRE	MORPH=empty
@@ -11800,7 +11800,7 @@ grace	grace	NOMcom	NOMB.=s|GENRE=f|CAS=r
 et	et	CONcoo	MORPH=empty
 .	.	PONfrt	MORPH=empty
 LXX	70	ADJcar	NOMB.=p|GENRE=m|CAS=r
-.//,	.	PONfrt	MORPH=empty
+.//,	.//,	PONfrt	MORPH=empty
 ou	en1+le	PRE.DETdef	MORPH=empty+NOMB.=s|GENRE=m|CAS=r
 mois	mois2	NOMcom	NOMB.=s|GENRE=m|CAS=r
 d'	de	PRE	MORPH=empty
@@ -12710,7 +12710,7 @@ Monterie	Montheries	NOMpro	NOMB.=s|GENRE=f|CAS=r
 xii	12	DETcar	NOMB.=p|GENRE=x|CAS=r
 .	.	PONfrt	MORPH=empty
 d	denier	NOMcom	NOMB.=p|GENRE=m|CAS=r
-.//,	.	PONfrt	MORPH=empty
+.//,	.//,	PONfrt	MORPH=empty
 les	le	DETdef	NOMB.=p|GENRE=m|CAS=r
 quex	quel1	DETrel	NOMB.=p|GENRE=m|CAS=r
 deniers	denier	NOMcom	NOMB.=p|GENRE=m|CAS=r
@@ -12752,7 +12752,7 @@ Gillancort	Gillancourt	NOMpro	NOMB.=s|GENRE=x|CAS=r
 ,	,	PONfbl	MORPH=empty
 .xii.	12	DETcar	NOMB.=p|GENRE=x|CAS=r
 d	denier	NOMcom	NOMB.=p|GENRE=m|CAS=r
-.//;	.	PONfrt	MORPH=empty
+.//;	.//;	PONfrt	MORPH=empty
 ses	si+il	ADVgen.PROper	MORPH=empty+PERS.=3|NOMB.=p|GENRE=m|CAS=r
 panra	prendre	VERcjg	MODE=ind|TEMPS=fut|PERS.=3|NOMB.=s
 à	a3	PRE	MORPH=empty
@@ -13123,7 +13123,7 @@ ait	avoir	VERcjg	MODE=sub|TEMPS=pst|PERS.=3|NOMB.=s
 ii	2	DETcar	NOMB.=p|GENRE=x|CAS=r
 .	.	PONfrt	MORPH=empty
 s	sou	NOMcom	NOMB.=p|GENRE=m|CAS=r
-.//;	.	PONfrt	MORPH=empty
+.//;	.//;	PONfrt	MORPH=empty
 et	et	CONcoo	MORPH=empty
 se	se	CONsub	MORPH=empty
 il	il	PROper	PERS.=3|NOMB.=p|GENRE=m|CAS=n
@@ -13161,7 +13161,7 @@ chascun	chascun	PROind	NOMB.=s|GENRE=m|CAS=r
 xii	12	DETcar	NOMB.=p|GENRE=x|CAS=r
 .	.	PONfrt	MORPH=empty
 d	denier	NOMcom	NOMB.=p|GENRE=m|CAS=r
-.//,	.	PONfrt	MORPH=empty
+.//,	.//,	PONfrt	MORPH=empty
 por	por2	PRE	MORPH=empty
 lire	lire1	VERinf	MORPH=empty
 sautiers	sautier2	NOMcom	NOMB.=s|GENRE=m|CAS=r
@@ -13195,7 +13195,7 @@ chascun	chascun	PROind	NOMB.=s|GENRE=m|CAS=r
 xii	12	DETcar	NOMB.=p|GENRE=x|CAS=r
 .	.	PONfrt	MORPH=empty
 d	denier	NOMcom	NOMB.=p|GENRE=m|CAS=r
-.//;	.	PONfrt	MORPH=empty
+.//;	.//;	PONfrt	MORPH=empty
 et	et	CONcoo	MORPH=empty
 s'	se	CONsub	MORPH=empty
 il	il	PROimp	PERS.=3|NOMB.=s|GENRE=m|CAS=n
@@ -13854,7 +13854,7 @@ Hanri	Henri	NOMpro	NOMB.=s|GENRE=m|CAS=r
 .	.	PONfrt	MORPH=empty
 par	par	PRE	MORPH=empty
 non	nom	NOMcom	NOMB.=s|GENRE=m|CAS=r
-,//;	,	PONfbl	MORPH=empty
+,//;	,//;	PONfbl	MORPH=empty
 ai	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s
 dené	doner	VERppe	NOMB.=s|GENRE=m|CAS=r
 ,	,	PONfbl	MORPH=empty
@@ -13922,7 +13922,7 @@ XX	20	DETcar	NOMB.=p|GENRE=m|CAS=r
 /	/	PONfbl	MORPH=empty
 .	.	PONfrt	MORPH=empty
 arpanz	arpent	NOMcom	NOMB.=p|GENRE=m|CAS=r
-.//.	.	PONfrt	MORPH=empty
+.//.	.//.	PONfrt	MORPH=empty
 /	/	PONfbl	MORPH=empty
 ;	;	PONfbl	MORPH=empty
 Ceste	cest	DETdem	NOMB.=s|GENRE=f|CAS=r
@@ -13942,12 +13942,12 @@ avancemant	avancement	NOMcom	NOMB.=s|GENRE=m|CAS=r
 de	de	PRE	MORPH=empty
 la	le	DETdef	NOMB.=s|GENRE=f|CAS=r
 Maison	maison	NOMcom	NOMB.=s|GENRE=f|CAS=r
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 le	le	DETdef	NOMB.=s|GENRE=m|CAS=r
 bois	bois	NOMcom	NOMB.=s|GENRE=m|CAS=r
 afruiteroient	afruitier	VERcjg	MODE=con|PERS.=3|NOMB.=p
 aprei	après	ADVgen	DEGRE=-
-.//.	.	PONfrt	MORPH=empty
+.//.	.//.	PONfrt	MORPH=empty
 Et	et	CONcoo	MORPH=empty
 por	por2	PRE	MORPH=empty
 ce	ce1	PROdem	NOMB.=s|GENRE=n|CAS=r
@@ -13961,7 +13961,7 @@ ancesoors	ancessor	NOMcom	NOMB.=p|GENRE=m|CAS=r
 et	et	CONcoo	MORPH=empty
 de	de	PRE	MORPH=empty
 moi	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=r
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 et	et	CONcoo	MORPH=empty
 je	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n
 et	et	CONcoo	MORPH=empty
@@ -13973,7 +13973,7 @@ sauver	sauver	VERinf	MORPH=empty
 et	et	CONcoo	MORPH=empty
 warantir	garantir	VERinf	MORPH=empty
 fermemant	fermement	ADVgen	DEGRE=-
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 la	le	DETdef	NOMB.=s|GENRE=f|CAS=n
 Maisons	maison	NOMcom	NOMB.=s|GENRE=f|CAS=n
 an	en2	PROadv	MORPH=empty
@@ -13988,7 +13988,7 @@ serjant	serjant	NOMcom	NOMB.=s|GENRE=m|CAS=r
 ,	,	PONfbl	MORPH=empty
 chascun	chascun	DETind	NOMB.=s|GENRE=m|CAS=r
 an	an	NOMcom	NOMB.=s|GENRE=m|CAS=r
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 /	/	PONfbl	MORPH=empty
 .	.	PONfrt	MORPH=empty
 V	5	DETcar	NOMB.=p|GENRE=x|CAS=r
@@ -14002,7 +14002,7 @@ communs	comun	ADJqua	NOMB.=p|GENRE=m|CAS=r|DEGRE=p
 de	de	PRE	MORPH=empty
 Champainne	Champagne	NOMpro	NOMB.=s|GENRE=f|CAS=r
 deniers	denier	NOMcom	NOMB.=p|GENRE=m|CAS=r
-.//.	.	PONfrt	MORPH=empty
+.//.	.//.	PONfrt	MORPH=empty
 Cist	cest	DETdem	NOMB.=s|GENRE=m|CAS=n
 cens	cens	NOMcom	NOMB.=s|GENRE=m|CAS=n
 sera	estre1	VERcjg	MODE=ind|TEMPS=fut|PERS.=3|NOMB.=s
@@ -14077,7 +14077,7 @@ la	le	DETdef	NOMB.=s|GENRE=f|CAS=r
 misericorde	misericorde	NOMcom	NOMB.=s|GENRE=f|CAS=r
 Jhesu	Jésus	NOMpro	NOMB.=s|GENRE=m|CAS=r
 Crist	crist	NOMpro	NOMB.=s|GENRE=m|CAS=r
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 je	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n
 -	-	PONfbl	MORPH=empty
 voil	voloir	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s
@@ -14108,7 +14108,7 @@ chapelain	chapelain	NOMcom	NOMB.=s|GENRE=m|CAS=r
 ,	,	PONfbl	MORPH=empty
 soit	estre1	VERcjg	MODE=sub|TEMPS=pst|PERS.=3|NOMB.=s
 randuz	rendre	VERppe	NOMB.=s|GENRE=m|CAS=n
-.//.	.	PONfrt	MORPH=empty
+.//.	.//.	PONfrt	MORPH=empty
 Ce	ce1	PROdem	NOMB.=s|GENRE=n|CAS=n
 est	estre1	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 une	un	DETndf	NOMB.=s|GENRE=f|CAS=n
@@ -14136,7 +14136,7 @@ jor	jor	NOMcom	NOMB.=s|GENRE=m|CAS=r
 an	en1	PRE	MORPH=empty
 la	le	DETdef	NOMB.=s|GENRE=f|CAS=r
 semainne	semaine	NOMcom	NOMB.=s|GENRE=f|CAS=r
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 por	por2	PRE	MORPH=empty
 moi	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=r
 /	/	PONfbl	MORPH=empty
@@ -14150,13 +14150,13 @@ fame	feme	NOMcom	NOMB.=s|GENRE=f|CAS=r
 /	/	PONfbl	MORPH=empty
 .	.	PONfrt	MORPH=empty
 Aalait	Aleth	NOMpro	NOMB.=s|GENRE=f|CAS=r
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 et	et	CONcoo	MORPH=empty
 por	por2	PRE	MORPH=empty
 toz	tot	DETind	NOMB.=p|GENRE=m|CAS=r
 mes	mon1	DETpos	PERS.=1|NOMB.=p|GENRE=m|CAS=r
 anfanz	enfant	NOMcom	NOMB.=p|GENRE=m|CAS=r
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 et	et	CONcoo	MORPH=empty
 por	por2	PRE	MORPH=empty
 les	le	DETdef	NOMB.=p|GENRE=m|CAS=r
@@ -14173,7 +14173,7 @@ Saint	saint	ADJqua	NOMB.=s|GENRE=m|CAS=n|DEGRE=p
 Espirs	esperit	NOMcom	NOMB.=s|GENRE=m|CAS=n
 puisse	pöoir	VERcjg	MODE=sub|TEMPS=pst|PERS.=3|NOMB.=s
 conforter	conforter	VERinf	MORPH=empty
-.//.	.	PONfrt	MORPH=empty
+.//.	.//.	PONfrt	MORPH=empty
 Aprés	après	PRE	MORPH=empty
 mon	mon1	DETpos	PERS.=1|NOMB.=s|GENRE=m|CAS=r
 decés	decès	NOMcom	NOMB.=s|GENRE=m|CAS=r
@@ -14186,7 +14186,7 @@ la	le	DETdef	NOMB.=s|GENRE=f|CAS=r
 messe	messe	NOMcom	NOMB.=s|GENRE=f|CAS=r
 des	de+le	PRE.DETdef	MORPH=empty+NOMB.=p|GENRE=m|CAS=r
 morz	mort2	NOMcom	NOMB.=p|GENRE=m|CAS=r
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 et	et	CONcoo	MORPH=empty
 doit	devoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 -	-	PONfbl	MORPH=empty
@@ -14232,7 +14232,7 @@ de	de	PRE	MORPH=empty
 la	le	DETdef	NOMB.=s|GENRE=f|CAS=r
 -	-	PONfbl	MORPH=empty
 Maison	maison	NOMcom	NOMB.=s|GENRE=f|CAS=r
-.//.	.	PONfrt	MORPH=empty
+.//.	.//.	PONfrt	MORPH=empty
 Cist	cest	DETdem	NOMB.=s|GENRE=m|CAS=n
 secors	secors	NOMcom	NOMB.=s|GENRE=m|CAS=n
 à	a3	PRE	MORPH=empty
@@ -14258,7 +14258,7 @@ de	de	PRE	MORPH=empty
 la	le	DETdef	NOMB.=s|GENRE=f|CAS=r
 -	-	PONfbl	MORPH=empty
 Maison	maison	NOMcom	NOMB.=s|GENRE=f|CAS=r
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 et	et	CONcoo	MORPH=empty
 nos	nos1	PROper	PERS.=1|NOMB.=p|GENRE=m|CAS=i
 otroierent	otroiier	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=p
@@ -14278,7 +14278,7 @@ la	le	DETdef	NOMB.=s|GENRE=f|CAS=r
 Maison	maison	NOMcom	NOMB.=s|GENRE=f|CAS=r
 ,	,	PONfbl	MORPH=empty
 perdurablemant	pardurablement	ADVgen	DEGRE=-
-.//.	.	PONfrt	MORPH=empty
+.//.	.//.	PONfrt	MORPH=empty
 Et	et	CONcoo	MORPH=empty
 por	por2	PRE	MORPH=empty
 ce	ce1	PROdem	NOMB.=s|GENRE=n|CAS=r
@@ -14299,7 +14299,7 @@ recogneüe	reconoistre	VERppe	NOMB.=s|GENRE=f|CAS=n
 .	.	PONfrt	MORPH=empty
 et	et	CONcoo	MORPH=empty
 sauvee	sauver	VERppe	NOMB.=s|GENRE=f|CAS=n
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 je	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n
 ,	,	PONfbl	MORPH=empty
 par	par	PRE	MORPH=empty
@@ -14334,9 +14334,9 @@ et	et	CONcoo	MORPH=empty
 /	/	PONfbl	MORPH=empty
 .	.	PONfrt	MORPH=empty
 Hanri	Henri	NOMpro	NOMB.=s|GENRE=m|CAS=r
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 chevaliers	chevalier	NOMcom	NOMB.=p|GENRE=m|CAS=r
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 ai	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s
 saelee	sëeler	VERppe	NOMB.=s|GENRE=f|CAS=r
 ceste	cest	DETdem	NOMB.=s|GENRE=f|CAS=r
@@ -14345,7 +14345,7 @@ de	de	PRE	MORPH=empty
 mon	mon1	DETpos	PERS.=1|NOMB.=s|GENRE=m|CAS=r
 prope	propre	ADJqua	NOMB.=s|GENRE=m|CAS=r|DEGRE=p
 sael	sëel2	NOMcom	NOMB.=s|GENRE=m|CAS=r
-.//.	.	PONfrt	MORPH=empty
+.//.	.//.	PONfrt	MORPH=empty
 Ceste	cest	DETdem	NOMB.=s|GENRE=f|CAS=n
 almone	aumosne	NOMcom	NOMB.=s|GENRE=f|CAS=n
 fu	estre1	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
@@ -14465,7 +14465,7 @@ deus	deus	ADJcar	NOMB.=p|GENRE=x|CAS=r
 viles	vile	NOMcom	NOMB.=p|GENRE=f|CAS=r
 estoient	estre1	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=p
 moies	mien	ADJpos	PERS.=1|NOMB.=p|GENRE=m|CAS=n
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 et	et	CONcoo	MORPH=empty
 que	que4	CONsub	MORPH=empty
 je	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n
@@ -14484,7 +14484,7 @@ et	et	CONcoo	MORPH=empty
 an	en1	PRE	MORPH=empty
 mes	mon1	DETpos	PERS.=1|NOMB.=p|GENRE=f|CAS=r
 chevauchiés	chevauchiee	NOMcom	NOMB.=p|GENRE=f|CAS=r
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 et	et	CONcoo	MORPH=empty
 que	que4	CONsub	MORPH=empty
 je	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n
@@ -14502,7 +14502,7 @@ lb.	livre3	NOMcom	NOMB.=p|GENRE=f|CAS=r
 ou	o3	CONcoo	MORPH=empty
 de	de	PRE	MORPH=empty
 diz	dis1	PROcar	NOMB.=p|GENRE=m|CAS=r
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 ou	o3	CONcoo	MORPH=empty
 de	de	PRE	MORPH=empty
 plus	plus	ADVgen	DEGRE=-
@@ -14513,7 +14513,7 @@ mains	moins	ADVgen	DEGRE=-
 à	a3	PRE	MORPH=empty
 ma	mon1	DETpos	PERS.=1|NOMB.=s|GENRE=f|CAS=r
 volentei	volenté	NOMcom	NOMB.=s|GENRE=f|CAS=r
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 et	et	CONcoo	MORPH=empty
 que	que4	CONsub	MORPH=empty
 je	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n
@@ -14535,14 +14535,14 @@ et	et	CONcoo	MORPH=empty
 por	por2	PRE	MORPH=empty
 ma	mon1	DETpos	PERS.=1|NOMB.=s|GENRE=f|CAS=r
 gent	gent1	NOMcom	NOMB.=s|GENRE=f|CAS=r
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 fuerre	fuerre1	NOMcom	NOMB.=s|GENRE=m|CAS=r
 et	et	CONcoo	MORPH=empty
 avainne	aveine	NOMcom	NOMB.=s|GENRE=f|CAS=r
 por	por2	PRE	MORPH=empty
 mes	mon1	DETpos	PERS.=1|NOMB.=p|GENRE=m|CAS=r
 chevaus	cheval	NOMcom	NOMB.=p|GENRE=m|CAS=r
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 et	et	CONcoo	MORPH=empty
 cossins	coissin	NOMcom	NOMB.=s|GENRE=m|CAS=r
 por	por2	PRE	MORPH=empty
@@ -14599,7 +14599,7 @@ laienz	laienz	ADVgen	DEGRE=-
 por	por2	PRE	MORPH=empty
 mon	mon1	DETpos	PERS.=1|NOMB.=s|GENRE=m|CAS=r
 us	us	NOMcom	NOMB.=s|GENRE=m|CAS=r
-.//.	.	PONfrt	MORPH=empty
+.//.	.//.	PONfrt	MORPH=empty
 Et	et	CONcoo	MORPH=empty
 encontre	encontre1	ADVgen	DEGRE=-
 ,	,	PONfbl	MORPH=empty
@@ -14634,7 +14634,7 @@ quanque	cantque	PROrel	NOMB.=s|GENRE=n|CAS=r
 je	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n
 i	i2	PROadv	MORPH=empty
 clammoie	clamer	VERcjg	MODE=ind|TEMPS=ipf|PERS.=1|NOMB.=s
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 ainz	ainz	ADVgen	DEGRE=-
 erent	estre1	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=p
 ces	ce2	DETdem	NOMB.=p|GENRE=f|CAS=n
@@ -14655,7 +14655,7 @@ et	et	CONcoo	MORPH=empty
 tote	tot	DETind	NOMB.=s|GENRE=f|CAS=n
 la	le	DETdef	NOMB.=s|GENRE=f|CAS=n
 signorie	seignorie	NOMcom	NOMB.=s|GENRE=f|CAS=n
-.//.	.	PONfrt	MORPH=empty
+.//.	.//.	PONfrt	MORPH=empty
 A	a3	PRE	MORPH=empty
 la	le	DETdef	NOMB.=s|GENRE=f|CAS=r
 fin	fin1	NOMcom	NOMB.=s|GENRE=f|CAS=r
@@ -14704,7 +14704,7 @@ Milon	Milon	NOMpro	NOMB.=s|GENRE=m|CAS=r
 de	de	PRE	MORPH=empty
 Cernon	Cernon	NOMpro	NOMB.=s|GENRE=m|CAS=r
 chevalier	chevalier	NOMcom	NOMB.=s|GENRE=m|CAS=r
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 qui	qui	PROrel	NOMB.=p|GENRE=m|CAS=n
 anquerront	enquerre	VERcjg	MODE=ind|TEMPS=fut|PERS.=3|NOMB.=p
 quel	quel1	DETrel	NOMB.=s|GENRE=f|CAS=r
@@ -14722,7 +14722,7 @@ point	point	ADVgen	DEGRE=-
 an	en2	PROadv	MORPH=empty
 i	i2	PROadv	MORPH=empty
 avoie	avoir	VERcjg	MODE=ind|TEMPS=ipf|PERS.=1|NOMB.=s
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 et	et	CONcoo	MORPH=empty
 quel	quel1	DETrel	NOMB.=s|GENRE=f|CAS=r
 droiture	droiture	NOMcom	NOMB.=s|GENRE=f|CAS=r
@@ -14738,7 +14738,7 @@ point	point	ADVgen	DEGRE=-
 an	en2	PROadv	MORPH=empty
 i	i2	PROadv	MORPH=empty
 avoient	avoir	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=p
-.//.	.	PONfrt	MORPH=empty
+.//.	.//.	PONfrt	MORPH=empty
 Et	et	CONcoo	MORPH=empty
 je	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n
 fiançai	fïancier1	VERcjg	MODE=ind|TEMPS=psp|PERS.=1|NOMB.=s
@@ -14769,7 +14769,7 @@ les	le	DETdef	NOMB.=p|GENRE=f|CAS=r
 devant	devant	ADVgen	DEGRE=-
 dites	dire	VERppe	NOMB.=p|GENRE=f|CAS=n
 quereles	querele	NOMcom	NOMB.=p|GENRE=f|CAS=r
-.//.	.	PONfrt	MORPH=empty
+.//.	.//.	PONfrt	MORPH=empty
 Et	et	CONcoo	MORPH=empty
 quant	cant1	CONsub	MORPH=empty
 cil	cel	DETdem	NOMB.=p|GENRE=m|CAS=n
@@ -14795,7 +14795,7 @@ le	le	DETdef	NOMB.=s|GENRE=m|CAS=r
 covent	covent2	NOMcom	NOMB.=s|GENRE=m|CAS=r
 lor	lor2	DETpos	PERS.=3|NOMB.=s|GENRE=m|CAS=r
 dit	dit	NOMcom	NOMB.=s|GENRE=m|CAS=r
-.//.	.	PONfrt	MORPH=empty
+.//.	.//.	PONfrt	MORPH=empty
 Et	et	CONcoo	MORPH=empty
 distrent	dire	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=p
 que	que4	CONsub	MORPH=empty
@@ -14848,7 +14848,7 @@ avoie	avoir	VERcjg	MODE=ind|TEMPS=ipf|PERS.=1|NOMB.=s
 eü	avoir	VERppe	NOMB.=s|GENRE=n|CAS=r
 par	par	PRE	MORPH=empty
 force	force2	NOMcom	NOMB.=s|GENRE=f|CAS=r
-.//.	.	PONfrt	MORPH=empty
+.//.	.//.	PONfrt	MORPH=empty
 Et	et	CONcoo	MORPH=empty
 je	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n
 ,	,	PONfbl	MORPH=empty
@@ -14865,7 +14865,7 @@ donee	doner	VERppe	NOMB.=s|GENRE=f|CAS=r
 del	de+le	PRE.DETdef	MORPH=empty+NOMB.=s|GENRE=m|CAS=r
 dit	dit	NOMcom	NOMB.=s|GENRE=m|CAS=r
 tenir	tenir1	VERinf	MORPH=empty
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 quitai	quiter	VERcjg	MODE=ind|TEMPS=psp|PERS.=1|NOMB.=s
 à	a3	PRE	MORPH=empty
 l'	le	DETdef	NOMB.=s|GENRE=f|CAS=r
@@ -14884,7 +14884,7 @@ clammoie	clamer	VERcjg	MODE=ind|TEMPS=ipf|PERS.=1|NOMB.=s
 an	en1	PRE	MORPH=empty
 la	le	DETdef	NOMB.=s|GENRE=f|CAS=r
 maison	maison	NOMcom	NOMB.=s|GENRE=f|CAS=r
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 mais	mais1	ADVgen	DEGRE=-
 que	que4	CONsub	MORPH=empty
 je	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n
@@ -14918,7 +14918,7 @@ de	de	PRE	MORPH=empty
 ces	ce2	DETdem	NOMB.=p|GENRE=f|CAS=r
 deus	deus	ADJcar	NOMB.=p|GENRE=x|CAS=r
 viles	vile	NOMcom	NOMB.=p|GENRE=f|CAS=r
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 meis	mais1	CONcoo	MORPH=empty
 tote	tot	DETind	NOMB.=s|GENRE=f|CAS=r
 force	force2	NOMcom	NOMB.=s|GENRE=f|CAS=r
@@ -14949,7 +14949,7 @@ et	et	CONcoo	MORPH=empty
 de	de	PRE	MORPH=empty
 la	le	DETdef	NOMB.=s|GENRE=f|CAS=r
 maison	maison	NOMcom	NOMB.=s|GENRE=f|CAS=r
-.//.	.	PONfrt	MORPH=empty
+.//.	.//.	PONfrt	MORPH=empty
 Et	et	CONcoo	MORPH=empty
 por	por2	PRE	MORPH=empty
 delivrer	delivrer	VERinf	MORPH=empty
@@ -15015,7 +15015,7 @@ come	come1	CONsub	MORPH=empty
 je	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n
 les	il	PROper	PERS.=3|NOMB.=p|GENRE=m|CAS=r
 tenoie	tenir1	VERcjg	MODE=ind|TEMPS=ipf|PERS.=1|NOMB.=s
-.//.	.	PONfrt	MORPH=empty
+.//.	.//.	PONfrt	MORPH=empty
 Et	et	CONcoo	MORPH=empty
 ai	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s
 promis	prometre	VERppe	NOMB.=s|GENRE=m|CAS=r
@@ -15051,7 +15051,7 @@ sanz	sans	PRE	MORPH=empty
 le	le	DETdef	NOMB.=s|GENRE=m|CAS=r
 mien	mien	PROpos	PERS.=1|NOMB.=s|GENRE=m|CAS=r
 doner	doner	VERinf	MORPH=empty
-.//.	.	PONfrt	MORPH=empty
+.//.	.//.	PONfrt	MORPH=empty
 Et	et	CONcoo	MORPH=empty
 se	se	CONsub	MORPH=empty
 je	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n
@@ -15074,7 +15074,7 @@ quatre_vinz	catre+vint	DETcar	NOMB.=p|GENRE=x|CAS=r
 /	/	PONfbl	MORPH=empty
 .	.	PONfrt	MORPH=empty
 lb.	livre3	NOMcom	NOMB.=p|GENRE=f|CAS=r
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 et	et	CONcoo	MORPH=empty
 li	le	DETdef	NOMB.=p|GENRE=m|CAS=n
 home	ome	NOMcom	NOMB.=p|GENRE=m|CAS=n
@@ -15091,7 +15091,7 @@ et	et	CONcoo	MORPH=empty
 seroient	estre1	VERcjg	MODE=con|PERS.=3|NOMB.=p
 mien	mien	DETpos	PERS.=1|NOMB.=p|GENRE=m|CAS=n
 taillable	taillable	NOMcom	NOMB.=p|GENRE=m|CAS=n
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 mais	mais1	CONcoo	MORPH=empty
 je	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n
 n'	ne1	ADVneg	MORPH=empty
@@ -15124,7 +15124,7 @@ non	non	ADVneg	MORPH=empty
 ou	o3	CONcoo	MORPH=empty
 son	son4	DETpos	PERS.=3|NOMB.=s|GENRE=m|CAS=r
 commandemant	comandement	NOMcom	NOMB.=s|GENRE=m|CAS=r
-.//.	.	PONfrt	MORPH=empty
+.//.	.//.	PONfrt	MORPH=empty
 Et	et	CONcoo	MORPH=empty
 por	por2	PRE	MORPH=empty
 totes	tot	DETind	NOMB.=p|GENRE=f|CAS=r
@@ -15147,7 +15147,7 @@ seellees	sëeler	VERppe	NOMB.=p|GENRE=f|CAS=r
 de	de	PRE	MORPH=empty
 mon	mon1	DETpos	PERS.=1|NOMB.=s|GENRE=m|CAS=r
 seel	sëel2	NOMcom	NOMB.=s|GENRE=m|CAS=r
-.//.	.	PONfrt	MORPH=empty
+.//.	.//.	PONfrt	MORPH=empty
 Et	et	CONcoo	MORPH=empty
 an	en1	PRE	MORPH=empty
 outre	outre1	ADVgen	DEGRE=-
@@ -15238,23 +15238,23 @@ deus	deus	ADJcar	NOMB.=p|GENRE=m|CAS=r
 cenz	cent	ADJcar	NOMB.=p|GENRE=m|CAS=r
 et	et	CONcoo	MORPH=empty
 quarante	carante	ADJcar	NOMB.=p|GENRE=m|CAS=r
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 ou	en1+le	PRE.DETdef	MORPH=empty+NOMB.=s|GENRE=m|CAS=r
 mois	mois2	NOMcom	NOMB.=s|GENRE=m|CAS=r
 d'	de	PRE	MORPH=empty
 avril	avril	NOMcom	NOMB.=s|GENRE=m|CAS=r
-.//.	.	PONfrt	MORPH=empty
+.//.	.//.	PONfrt	MORPH=empty
 ChMa032			
 Je	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n
 Pierres	Pierre	NOMpro	NOMB.=s|GENRE=m|CAS=n
 de	de	PRE	MORPH=empty
 Bormont	Bourmont	NOMpro	NOMB.=s|GENRE=x|CAS=r
 chevaliers	chevalier	NOMcom	NOMB.=s|GENRE=m|CAS=n
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 sires	seignor	NOMcom	NOMB.=s|GENRE=m|CAS=n
 de	de	PRE	MORPH=empty
 Musci	Mussey	NOMpro	NOMB.=s|GENRE=x|CAS=r
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 faz	faire	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s
 savoir	savoir	VERinf	MORPH=empty
 à	a3	PRE	MORPH=empty
@@ -15290,7 +15290,7 @@ et	et	CONcoo	MORPH=empty
 Jehanne	Jeanne	NOMpro	NOMB.=s|GENRE=f|CAS=r
 ma	mon1	DETpos	PERS.=1|NOMB.=s|GENRE=f|CAS=r
 fame	feme	NOMcom	NOMB.=s|GENRE=f|CAS=r
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 ai	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s
 vendu	vendre	VERppe	NOMB.=s|GENRE=m|CAS=r
 à	a3	PRE	MORPH=empty
@@ -15306,7 +15306,7 @@ de	de	PRE	MORPH=empty
 Monstiers	Monthiers	NOMpro	NOMB.=s|GENRE=x|CAS=r
 an	en1	PRE	MORPH=empty
 Argone	Argonne	NOMpro	NOMB.=s|GENRE=f|CAS=r
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 par	par	PRE	MORPH=empty
 mi	mi2	NOMcom	NOMB.=s|GENRE=f|CAS=r
 soissante	soissante	DETcar	NOMB.=p|GENRE=x|CAS=r
@@ -15323,7 +15323,7 @@ gré	gré2	NOMcom	NOMB.=s|GENRE=m|CAS=r
 an	en1	PRE	MORPH=empty
 deniers	denier	NOMcom	NOMB.=p|GENRE=m|CAS=r
 contans	conter	VERppa	NOMB.=p|GENRE=m|CAS=r
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 tous	tot	DETind	NOMB.=p|GENRE=m|CAS=r
 mes	mon1	DETpos	PERS.=1|NOMB.=p|GENRE=m|CAS=r
 terrages	terrage	NOMcom	NOMB.=p|GENRE=m|CAS=r
@@ -15385,7 +15385,7 @@ ces	ce2	DETdem	NOMB.=p|GENRE=m|CAS=r
 desor	desor	ADVgen	DEGRE=-
 diz	dire	VERppe	NOMB.=p|GENRE=m|CAS=r
 terrages	terrage	NOMcom	NOMB.=p|GENRE=m|CAS=r
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 et	et	CONcoo	MORPH=empty
 toutes	tot	DETind	NOMB.=p|GENRE=f|CAS=r
 mes	mon1	DETpos	PERS.=1|NOMB.=p|GENRE=f|CAS=r
@@ -15408,7 +15408,7 @@ oquoison	ochaison	NOMcom	NOMB.=s|GENRE=f|CAS=r
 de	de	PRE	MORPH=empty
 ces	ce2	DETdem	NOMB.=p|GENRE=m|CAS=r
 terrages	terrage	NOMcom	NOMB.=p|GENRE=m|CAS=r
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 c'	ce1	PROdem	NOMB.=s|GENRE=n|CAS=n
 est	estre1	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 à	a3	PRE	MORPH=empty
@@ -15427,7 +15427,7 @@ douze	doze	DETcar	NOMB.=p|GENRE=x|CAS=r
 souz	sou	NOMcom	NOMB.=p|GENRE=m|CAS=r
 au	a3+le	PRE.DETdef	MORPH=empty+NOMB.=s|GENRE=m|CAS=r
 mainz	moins	ADVgen	DEGRE=-
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 à	a3	PRE	MORPH=empty
 rande	rendre	VERinf	MORPH=empty
 chasqu'	chasque	DETind	NOMB.=s|GENRE=m|CAS=r
@@ -15435,7 +15435,7 @@ an	an	NOMcom	NOMB.=s|GENRE=m|CAS=r
 londemain	lendemain	NOMcom	NOMB.=s|GENRE=m|CAS=r
 de	de	PRE	MORPH=empty
 Noel	nöel	NOMcom	NOMB.=s|GENRE=m|CAS=r
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 douz	deus	DETcar	NOMB.=p|GENRE=x|CAS=r
 souz	sou	NOMcom	NOMB.=p|GENRE=m|CAS=r
 de	de	PRE	MORPH=empty
@@ -15445,7 +15445,7 @@ plus	plus	ADVgen	DEGRE=-
 /	/	PONfbl	MORPH=empty
 .	.	PONfrt	MORPH=empty
 oblies	oblee	NOMcom	NOMB.=p|GENRE=f|CAS=r
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 et	et	CONcoo	MORPH=empty
 /	/	PONfbl	MORPH=empty
 .	.	PONfrt	MORPH=empty
@@ -15483,7 +15483,7 @@ il	il	PROimp	PERS.=3|NOMB.=s|GENRE=m|CAS=n
 est	estre1	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 desore	desor	ADVgen	DEGRE=-
 dit	dire	VERppe	NOMB.=s|GENRE=m|CAS=n
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 qui	qui	PROrel	NOMB.=p|GENRE=f|CAS=n
 ne	ne1	ADVneg	MORPH=empty
 sont	estre1	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p
@@ -15524,7 +15524,7 @@ qui	qui	PROrel	NOMB.=p|GENRE=f|CAS=n
 nel	ne1+il	ADVneg.PROper	MORPH=empty+PERS.=3|NOMB.=s|GENRE=n|CAS=r
 sunt	estre1	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p
 pas	pas	ADVneg	MORPH=empty
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 forz	fors1	ADVgen	DEGRE=-
 que	que4	CONsub	MORPH=empty
 de	de	PRE	MORPH=empty
@@ -15550,7 +15550,7 @@ ces	ce2	DETdem	NOMB.=p|GENRE=f|CAS=r
 desor	desor	ADVgen	DEGRE=-
 dites	dire	VERppe	NOMB.=p|GENRE=f|CAS=r
 choses	chose	NOMcom	NOMB.=p|GENRE=f|CAS=r
-.//.	.	PONfrt	MORPH=empty
+.//.	.//.	PONfrt	MORPH=empty
 Et	et	CONcoo	MORPH=empty
 doi	devoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s
 je	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n
@@ -15589,7 +15589,7 @@ vouront	voloir	VERcjg	MODE=ind|TEMPS=fut|PERS.=3|NOMB.=p
 ester	ester	VERinf	MORPH=empty
 à	a3	PRE	MORPH=empty
 droit	droit	NOMcom	NOMB.=s|GENRE=m|CAS=r
-.//.	.	PONfrt	MORPH=empty
+.//.	.//.	PONfrt	MORPH=empty
 Et	et	CONcoo	MORPH=empty
 ai	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s
 renoncié	renoncier	VERppe	NOMB.=s|GENRE=m|CAS=r
@@ -15597,7 +15597,7 @@ parmerainemant	premerainement	ADVgen	DEGRE=-
 /	/	PONfbl	MORPH=empty
 .	.	PONfrt	MORPH=empty
 je	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 ma	mon1	DETpos	PERS.=1|NOMB.=s|GENRE=f|CAS=n
 mere	mere	NOMcom	NOMB.=s|GENRE=f|CAS=n
 /	/	PONfbl	MORPH=empty
@@ -15617,14 +15617,14 @@ tote	tot	DETind	NOMB.=s|GENRE=f|CAS=r
 aide	äie	NOMcom	NOMB.=s|GENRE=f|CAS=r
 de	de	PRE	MORPH=empty
 droit	droit	NOMcom	NOMB.=s|GENRE=m|CAS=r
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 de	de	PRE	MORPH=empty
 laie	lai3	ADJqua	NOMB.=s|GENRE=f|CAS=r|DEGRE=p
 jostice	justice	NOMcom	NOMB.=s|GENRE=f|CAS=r
 ou	o3	CONcoo	MORPH=empty
 de	de	PRE	MORPH=empty
 crestienté	crestïenté	NOMcom	NOMB.=s|GENRE=f|CAS=r
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 à	a3	PRE	MORPH=empty
 toute	tot	DETind	NOMB.=s|GENRE=f|CAS=r
 boidise	boisdie	NOMcom	NOMB.=s|GENRE=f|CAS=r
@@ -15638,13 +15638,13 @@ defensions	defensïon	NOMcom	NOMB.=p|GENRE=f|CAS=r
 .	.	PONfrt	MORPH=empty
 et	et	CONcoo	MORPH=empty
 allegations	alegacïon	NOMcom	NOMB.=p|GENRE=f|CAS=r
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 de	de	PRE	MORPH=empty
 droit	droit	NOMcom	NOMB.=s|GENRE=m|CAS=r
 et	et	CONcoo	MORPH=empty
 de	de	PRE	MORPH=empty
 fait	fait1	VERppe	NOMB.=s|GENRE=m|CAS=r
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 et	et	CONcoo	MORPH=empty
 à	a3	PRE	MORPH=empty
 toute	tot	DETind	NOMB.=s|GENRE=f|CAS=r
@@ -15663,7 +15663,7 @@ privilege	privilege	NOMcom	NOMB.=s|GENRE=m|CAS=r
 grace	grace	NOMcom	NOMB.=s|GENRE=f|CAS=r
 et	et	CONcoo	MORPH=empty
 indulce	induces1	NOMcom	NOMB.=s|GENRE=f|CAS=r
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 et	et	CONcoo	MORPH=empty
 qui	qui	PROrel	NOMB.=s|GENRE=m|CAS=n
 est	estre1	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
@@ -15672,7 +15672,7 @@ ou	o3	CONcoo	MORPH=empty
 sera	estre1	VERcjg	MODE=ind|TEMPS=fut|PERS.=3|NOMB.=s
 à	a3	PRE	MORPH=empty
 croisiez	croisié	NOMcom	NOMB.=p|GENRE=m|CAS=r
-.//.	.	PONfrt	MORPH=empty
+.//.	.//.	PONfrt	MORPH=empty
 Et	et	CONcoo	MORPH=empty
 por	por2	PRE	MORPH=empty
 ce	ce1	PROdem	NOMB.=s|GENRE=n|CAS=r
@@ -15688,7 +15688,7 @@ tenues	tenir1	VERppe	NOMB.=p|GENRE=f|CAS=n
 à	a3	PRE	MORPH=empty
 tou	tot	DETind	NOMB.=p|GENRE=m|CAS=r
 jorz	jor	NOMcom	NOMB.=p|GENRE=m|CAS=r
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 je	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n
 /	/	PONfbl	MORPH=empty
 .	.	PONfrt	MORPH=empty
@@ -15705,7 +15705,7 @@ lettres	letre	NOMcom	NOMB.=p|GENRE=f|CAS=r
 nos	nostre	DETpos	PERS.=1|NOMB.=p|GENRE=m|CAS=r
 saiaus	sëel2	NOMcom	NOMB.=p|GENRE=m|CAS=r
 pandus	pendre	VERppe	NOMB.=p|GENRE=m|CAS=r
-.//.	.	PONfrt	MORPH=empty
+.//.	.//.	PONfrt	MORPH=empty
 Et	et	CONcoo	MORPH=empty
 ce	ce1	PROdem	NOMB.=s|GENRE=n|CAS=n
 fu	estre1	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
@@ -15729,12 +15729,12 @@ CC	200	ADJcar	NOMB.=p|GENRE=m|CAS=r
 et	et	CONcoo	MORPH=empty
 .	.	PONfrt	MORPH=empty
 XLVIII	48	ADJcar	NOMB.=p|GENRE=m|CAS=r
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 au	a3+le	PRE.DETdef	MORPH=empty+NOMB.=s|GENRE=m|CAS=r
 moiz	mois2	NOMcom	NOMB.=s|GENRE=m|CAS=r
 de	de	PRE	MORPH=empty
 joilet	juillet	NOMcom	NOMB.=s|GENRE=m|CAS=r
-.//.	.	PONfrt	MORPH=empty
+.//.	.//.	PONfrt	MORPH=empty
 ChMa040			
 Ge	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n
 Jofrois	Geoffroi	NOMpro	NOMB.=s|GENRE=m|CAS=n
@@ -15807,7 +15807,7 @@ tiennent	tenir1	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p
 Heis	Heiltz	NOMpro	NOMB.=s|GENRE=x|CAS=r
 le	le	DETdef	NOMB.=s|GENRE=m|CAS=r
 Witier	Hutier	NOMpro	NOMB.=s|GENRE=x|CAS=r
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 c'	ce1	PROdem	NOMB.=s|GENRE=n|CAS=n
 est	estre1	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
 à	a3	PRE	MORPH=empty
@@ -15819,7 +15819,7 @@ set	set	DETcar	NOMB.=p|GENRE=x|CAS=r
 setiers	sestier	NOMcom	NOMB.=p|GENRE=m|CAS=r
 de	de	PRE	MORPH=empty
 blé	blé	NOMcom	NOMB.=s|GENRE=m|CAS=r
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 dun	dont	PROrel	NOMB.=x|GENRE=x|CAS=x
 li	le	DETdef	NOMB.=p|GENRE=m|CAS=n
 quatorze	catorze	PROcar	NOMB.=p|GENRE=m|CAS=n
@@ -15832,7 +15832,7 @@ treze	treize	PROcar	NOMB.=p|GENRE=m|CAS=n
 sunt	estre1	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p
 d'	de	PRE	MORPH=empty
 avainne	aveine	NOMcom	NOMB.=s|GENRE=f|CAS=r
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 en	en1	PRE	MORPH=empty
 tiers	tierz	PROord	NOMB.=s|GENRE=m|CAS=r
 dou	de+le	PRE.DETdef	MORPH=empty+NOMB.=s|GENRE=m|CAS=r
@@ -15847,7 +15847,7 @@ ge	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n
 ai	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s
 le	le	DETdef	NOMB.=s|GENRE=m|CAS=r
 trait	trait	NOMcom	NOMB.=s|GENRE=m|CAS=r
-.//.	.	PONfrt	MORPH=empty
+.//.	.//.	PONfrt	MORPH=empty
 Et	et	CONcoo	MORPH=empty
 le	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=r
 doient	devoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p
@@ -15861,7 +15861,7 @@ totes	tot	DETind	NOMB.=p|GENRE=f|CAS=r
 les	le	DETdef	NOMB.=p|GENRE=f|CAS=r
 autres	autre	ADJind	NOMB.=p|GENRE=f|CAS=r
 parties	partie	NOMcom	NOMB.=p|GENRE=f|CAS=r
-.//.	.	PONfrt	MORPH=empty
+.//.	.//.	PONfrt	MORPH=empty
 Et	et	CONcoo	MORPH=empty
 por	por2	PRE	MORPH=empty
 ce	ce1	PROdem	NOMB.=s|GENRE=n|CAS=r
@@ -15877,7 +15877,7 @@ setiers	sestier	NOMcom	NOMB.=p|GENRE=m|CAS=r
 desor	desor	ADVgen	DEGRE=-
 -	-	PONfbl	MORPH=empty
 diz	dire	VERppe	NOMB.=p|GENRE=m|CAS=r
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 et	et	CONcoo	MORPH=empty
 lor	lor2	DETpos	PERS.=3|NOMB.=s|GENRE=m|CAS=n
 droiz	droit	NOMcom	NOMB.=s|GENRE=m|CAS=n
@@ -15904,7 +15904,7 @@ disme	disme	NOMcom	NOMB.=s|GENRE=m|CAS=r
 desor	desor	ADVgen	DEGRE=-
 -	-	PONfbl	MORPH=empty
 dit	dire	VERppe	NOMB.=s|GENRE=m|CAS=r
-,//;	,	PONfbl	MORPH=empty
+,//;	,//;	PONfbl	MORPH=empty
 tote_voie	tot+voie	ADVgen	DEGRE=-
 par	par	PRE	MORPH=empty
 pais	pais	NOMcom	NOMB.=s|GENRE=f|CAS=r
@@ -15938,7 +15938,7 @@ n'	ne1	ADVneg	MORPH=empty
 i	i2	PROadv	MORPH=empty
 averont	avoir	VERcjg	MODE=ind|TEMPS=fut|PERS.=3|NOMB.=p
 rien	rien	PROind	NOMB.=s|GENRE=f|CAS=r
-.//.	.	PONfrt	MORPH=empty
+.//.	.//.	PONfrt	MORPH=empty
 Et	et	CONcoo	MORPH=empty
 totes	tot	DETind	NOMB.=p|GENRE=f|CAS=r
 ces	ce2	DETdem	NOMB.=p|GENRE=f|CAS=r
@@ -15948,7 +15948,7 @@ ge	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n
 par	par	PRE	MORPH=empty
 ces	ce2	DETdem	NOMB.=p|GENRE=f|CAS=r
 letres	letre	NOMcom	NOMB.=p|GENRE=f|CAS=r
-.//.	.	PONfrt	MORPH=empty
+.//.	.//.	PONfrt	MORPH=empty
 Et	et	CONcoo	MORPH=empty
 que	que4	CONsub	MORPH=empty
 après	après	PRE	MORPH=empty
@@ -15980,7 +15980,7 @@ hoirs	oir	NOMcom	NOMB.=p|GENRE=m|CAS=r
 et	et	CONcoo	MORPH=empty
 d'	de	PRE	MORPH=empty
 autrui	autrui	PROind	NOMB.=s|GENRE=m|CAS=r
-.//.	.	PONfrt	MORPH=empty
+.//.	.//.	PONfrt	MORPH=empty
 Ne	ne2	CONcoo	MORPH=empty
 ge	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n
 meïsmes	mëisme	ADJind	NOMB.=s|GENRE=m|CAS=n
@@ -16000,7 +16000,7 @@ setiers	sestier	NOMcom	NOMB.=p|GENRE=m|CAS=r
 desor	desor	ADVgen	DEGRE=-
 -	-	PONfbl	MORPH=empty
 diz	dire	VERppe	NOMB.=p|GENRE=m|CAS=r
-,//;	,	PONfbl	MORPH=empty
+,//;	,//;	PONfbl	MORPH=empty
 cum	come1	CONsub	MORPH=empty
 cil	cel	PROdem	NOMB.=s|GENRE=m|CAS=n
 qui	qui	PROrel	NOMB.=s|GENRE=m|CAS=n
@@ -16013,13 +16013,13 @@ que	que4	CONsub	MORPH=empty
 à	a3	PRE	MORPH=empty
 ma	mon1	DETpos	PERS.=1|NOMB.=s|GENRE=f|CAS=r
 vie	vie1	NOMcom	NOMB.=s|GENRE=f|CAS=r
-.//.	.	PONfrt	MORPH=empty
+.//.	.//.	PONfrt	MORPH=empty
 Et	et	CONcoo	MORPH=empty
 por	por2	PRE	MORPH=empty
 tesmoignage	tesmoignage	NOMcom	NOMB.=s|GENRE=m|CAS=r
 de	de	PRE	MORPH=empty
 verité	verité	NOMcom	NOMB.=s|GENRE=f|CAS=r
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 por	por2	PRE	MORPH=empty
 ce	ce1	PROdem	NOMB.=s|GENRE=n|CAS=r
 que	que4	CONsub	MORPH=empty
@@ -16045,7 +16045,7 @@ la	le	DETdef	NOMB.=s|GENRE=f|CAS=r
 crestienté	crestïenté	NOMcom	NOMB.=s|GENRE=f|CAS=r
 de	de	PRE	MORPH=empty
 Morcort	Maucourt	NOMpro	NOMB.=s|GENRE=m|CAS=r
-.//.	.	PONfrt	MORPH=empty
+.//.	.//.	PONfrt	MORPH=empty
 Ce	ce1	PROdem	NOMB.=s|GENRE=n|CAS=n
 fu	estre1	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 fait	faire	VERppe	NOMB.=s|GENRE=n|CAS=n
@@ -16068,7 +16068,7 @@ cens	cent	ADJcar	NOMB.=p|GENRE=m|CAS=r
 .	.	PONfrt	MORPH=empty
 et	et	CONcoo	MORPH=empty
 cinquante	cincante	ADJcar	NOMB.=p|GENRE=m|CAS=r
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 en	en1	PRE	MORPH=empty
 mois	mois2	NOMcom	NOMB.=s|GENRE=m|CAS=r
 de	de	PRE	MORPH=empty
@@ -16125,7 +16125,7 @@ covent	covent2	NOMcom	NOMB.=s|GENRE=m|CAS=r
 de	de	PRE	MORPH=empty
 Saint	saint	ADJqua	NOMB.=s|GENRE=m|CAS=r|DEGRE=p
 Desier	Dizier	NOMpro	NOMB.=s|GENRE=m|CAS=r
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 à	a3	PRE	MORPH=empty
 tenir	tenir1	VERinf	MORPH=empty
 à	a3	PRE	MORPH=empty
@@ -16140,19 +16140,19 @@ II	2	DETcar	NOMB.=p|GENRE=x|CAS=r
 muis	mui	NOMcom	NOMB.=p|GENRE=m|CAS=r
 de	de	PRE	MORPH=empty
 blef	blé	NOMcom	NOMB.=s|GENRE=m|CAS=r
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 moitié	moitié	NOMcom	NOMB.=s|GENRE=f|CAS=r
 soile	soigle	NOMcom	NOMB.=s|GENRE=f|CAS=r
 et	et	CONcoo	MORPH=empty
 moitié	moitié	NOMcom	NOMB.=s|GENRE=f|CAS=r
 aveine	aveine	NOMcom	NOMB.=s|GENRE=f|CAS=r
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 à	a3	PRE	MORPH=empty
 la	le	DETdef	NOMB.=s|GENRE=f|CAS=r
 mesure	mesure	NOMcom	NOMB.=s|GENRE=f|CAS=r
 de	de	PRE	MORPH=empty
 Sode	Sode	NOMpro	NOMB.=s|GENRE=x|CAS=r
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 le	le	DETdef	NOMB.=s|GENRE=m|CAS=r
 quel	quel1	DETrel	NOMB.=s|GENRE=m|CAS=r
 blef	blé	NOMcom	NOMB.=s|GENRE=m|CAS=r
@@ -16169,7 +16169,7 @@ de	de	PRE	MORPH=empty
 rente	rente	NOMcom	NOMB.=s|GENRE=f|CAS=r
 chascun	chascun	DETind	NOMB.=s|GENRE=m|CAS=r
 an	an	NOMcom	NOMB.=s|GENRE=m|CAS=r
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 à	a3	PRE	MORPH=empty
 toz	tot	DETind	NOMB.=p|GENRE=m|CAS=r
 jors	jor	NOMcom	NOMB.=p|GENRE=m|CAS=r
@@ -16181,7 +16181,7 @@ des	de+le	PRE.DETdef	MORPH=empty+NOMB.=p|GENRE=m|CAS=r
 terrages	terrage	NOMcom	NOMB.=p|GENRE=m|CAS=r
 de	de	PRE	MORPH=empty
 Sode	Sode	NOMpro	NOMB.=s|GENRE=x|CAS=r
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 et	et	CONcoo	MORPH=empty
 /	/	PONfbl	MORPH=empty
 .	.	PONfrt	MORPH=empty
@@ -16230,7 +16230,7 @@ de	de	PRE	MORPH=empty
 cele	cel	DETdem	NOMB.=s|GENRE=f|CAS=r
 meesme	mëisme	ADJind	NOMB.=s|GENRE=f|CAS=r
 vile	vile	NOMcom	NOMB.=s|GENRE=f|CAS=r
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 li	le	DETdef	NOMB.=s|GENRE=m|CAS=n
 quel	quel1	DETrel	NOMB.=s|GENRE=m|CAS=n
 terrage	terrage	NOMcom	NOMB.=s|GENRE=m|CAS=n
@@ -16253,7 +16253,7 @@ au	a3+le	PRE.DETdef	MORPH=empty+NOMB.=s|GENRE=m|CAS=r
 devant	devant	ADVgen	DEGRE=-
 dit	dire	VERppe	NOMB.=s|GENRE=m|CAS=r
 Phelippe	Philippe	NOMpro	NOMB.=s|GENRE=m|CAS=r
-,//;	,	PONfbl	MORPH=empty
+,//;	,//;	PONfbl	MORPH=empty
 por	por2	PRE	MORPH=empty
 /	/	PONfbl	MORPH=empty
 .	.	PONfrt	MORPH=empty
@@ -16280,7 +16280,7 @@ dou	de+le	PRE.DETdef	MORPH=empty+NOMB.=s|GENRE=m|CAS=r
 tot	tot	PROind	NOMB.=s|GENRE=m|CAS=r
 à	a3	PRE	MORPH=empty
 paié	paiier	VERppe	NOMB.=s|GENRE=m|CAS=r
-.//.	.	PONfrt	MORPH=empty
+.//.	.//.	PONfrt	MORPH=empty
 Et	et	CONcoo	MORPH=empty
 ont	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p
 li	le	DETdef	NOMB.=p|GENRE=m|CAS=n
@@ -16317,7 +16317,7 @@ aus	il	PROper	PERS.=3|NOMB.=p|GENRE=m|CAS=r
 ne	ne2	CONcoo	MORPH=empty
 par	par	PRE	MORPH=empty
 autrui	autrui	PROind	NOMB.=s|GENRE=m|CAS=r
-.//.	.	PONfrt	MORPH=empty
+.//.	.//.	PONfrt	MORPH=empty
 Aprés	après	ADVgen	DEGRE=-
 ,	,	PONfbl	MORPH=empty
 li	le	DETdef	NOMB.=p|GENRE=m|CAS=n
@@ -16371,7 +16371,7 @@ vorroient	voloir	VERcjg	MODE=con|PERS.=3|NOMB.=p
 a	a3	PRE	MORPH=empty
 droit	droit	NOMcom	NOMB.=s|GENRE=m|CAS=r
 venir	venir	VERinf	MORPH=empty
-.//.	.	PONfrt	MORPH=empty
+.//.	.//.	PONfrt	MORPH=empty
 Et	et	CONcoo	MORPH=empty
 cest	cest	DETdem	NOMB.=s|GENRE=m|CAS=r
 vendaige	vendage	NOMcom	NOMB.=s|GENRE=m|CAS=r
@@ -16387,7 +16387,7 @@ cui	cui	PROrel	NOMB.=s|GENRE=m|CAS=r
 la	le	DETdef	NOMB.=s|GENRE=f|CAS=n
 chose	chose	NOMcom	NOMB.=s|GENRE=f|CAS=n
 muet	movoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
-.//.	.	PONfrt	MORPH=empty
+.//.	.//.	PONfrt	MORPH=empty
 Et	et	CONcoo	MORPH=empty
 meïsmes	mëisme	ADJind	NOMB.=s|GENRE=m|CAS=n
 Jehans	Jean	NOMpro	NOMB.=s|GENRE=m|CAS=n
@@ -16397,19 +16397,19 @@ le	le	DETdef	NOMB.=s|GENRE=m|CAS=r
 devant	devant	ADVgen	DEGRE=-
 dit	dire	VERppe	NOMB.=s|GENRE=m|CAS=r
 Phelippe	Philippe	NOMpro	NOMB.=s|GENRE=m|CAS=r
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 et	et	CONcoo	MORPH=empty
 Jehans	Jean	NOMpro	NOMB.=s|GENRE=m|CAS=n
 diz	dire	VERppe	NOMB.=s|GENRE=m|CAS=n
 Seguins	Séguin	NOMpro	NOMB.=s|GENRE=m|CAS=r
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 et	et	CONcoo	MORPH=empty
 Ogiers	Ogier	NOMpro	NOMB.=s|GENRE=m|CAS=n
 ses	son4	DETpos	PERS.=3|NOMB.=s|GENRE=m|CAS=n
 freres	frere	NOMcom	NOMB.=s|GENRE=m|CAS=n
 ,	,	PONfbl	MORPH=empty
 chevalier	chevalier	NOMcom	NOMB.=s|GENRE=m|CAS=n
-,//;	,	PONfbl	MORPH=empty
+,//;	,//;	PONfbl	MORPH=empty
 ont	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p
 loé	löer1	VERppe	NOMB.=s|GENRE=m|CAS=r
 et	et	CONcoo	MORPH=empty
@@ -16423,7 +16423,7 @@ le	le	DETdef	NOMB.=s|GENRE=m|CAS=r
 devant	devant	ADVgen	DEGRE=-
 dit	dire	VERcjg	NOMB.=s|GENRE=m|CAS=r
 vendage	vendage	NOMcom	NOMB.=s|GENRE=m|CAS=r
-.//.	.	PONfrt	MORPH=empty
+.//.	.//.	PONfrt	MORPH=empty
 Et	et	CONcoo	MORPH=empty
 por	por2	PRE	MORPH=empty
 ce	ce1	PROdem	NOMB.=s|GENRE=n|CAS=r
@@ -16433,7 +16433,7 @@ ferme	ferm	ADJqua	NOMB.=s|GENRE=f|CAS=n|DEGRE=p
 chose	chose	NOMcom	NOMB.=s|GENRE=f|CAS=n
 et	et	CONcoo	MORPH=empty
 estable	estable1	ADJqua	NOMB.=s|GENRE=f|CAS=n|DEGRE=p
-,//;	,	PONfbl	MORPH=empty
+,//;	,//;	PONfbl	MORPH=empty
 je	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n
 ,	,	PONfbl	MORPH=empty
 par	par	PRE	MORPH=empty
@@ -16452,7 +16452,7 @@ letres	letre	NOMcom	NOMB.=p|GENRE=f|CAS=r
 de	de	PRE	MORPH=empty
 mon	mon1	DETpos	PERS.=1|NOMB.=s|GENRE=m|CAS=r
 seel	sëel2	NOMcom	NOMB.=s|GENRE=m|CAS=r
-.//.	.	PONfrt	MORPH=empty
+.//.	.//.	PONfrt	MORPH=empty
 Ce	ce1	PROdem	NOMB.=s|GENRE=n|CAS=n
 fu	estre1	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
 fait	faire	VERppe	NOMB.=s|GENRE=n|CAS=n
@@ -16480,12 +16480,12 @@ et	et	CONcoo	MORPH=empty
 /	/	PONfbl	MORPH=empty
 .	.	PONfrt	MORPH=empty
 L	50	ADJcar	NOMB.=p|GENRE=m|CAS=r
-,//.	,	PONfbl	MORPH=empty
+,//.	,//.	PONfbl	MORPH=empty
 ou	en1+le	PRE.DETdef	MORPH=empty+NOMB.=s|GENRE=m|CAS=r
 mois	mois2	NOMcom	NOMB.=s|GENRE=m|CAS=r
 de	de	PRE	MORPH=empty
 mai	mai	NOMcom	NOMB.=s|GENRE=m|CAS=r
-.//.	.	PONfrt	MORPH=empty
+.//.	.//.	PONfrt	MORPH=empty
 ChMa061			
 Je	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n
 Ponsars	Poinçard	NOMpro	NOMB.=s|GENRE=m|CAS=n
@@ -16579,7 +16579,7 @@ abbei	abé1	NOMcom	NOMB.=s|GENRE=m|CAS=r
 et	et	CONcoo	MORPH=empty
 celui	cel	DETdem	NOMB.=s|GENRE=m|CAS=r
 couvent	covent2	NOMcom	NOMB.=s|GENRE=m|CAS=r
-.//.	.	PONfrt	MORPH=empty
+.//.	.//.	PONfrt	MORPH=empty
 Et	et	CONcoo	MORPH=empty
 en	en1	PRE	MORPH=empty
 eschange	eschange	NOMcom	NOMB.=s|GENRE=m|CAS=r
@@ -16615,7 +16615,7 @@ Jehan	Jean	NOMpro	NOMB.=s|GENRE=m|CAS=r
 de	de	PRE	MORPH=empty
 Bersis	Bersis	NOMpro	NOMB.=s|GENRE=x|CAS=r
 fut	estre1	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s
-.//.	.	PONfrt	MORPH=empty
+.//.	.//.	PONfrt	MORPH=empty
 Et	et	CONcoo	MORPH=empty
 cis	cest	DETdem	NOMB.=s|GENRE=m|CAS=n
 eschanges	eschange	NOMcom	NOMB.=s|GENRE=m|CAS=n
@@ -16637,7 +16637,7 @@ partie	partie	NOMcom	NOMB.=s|GENRE=f|CAS=r
 et	et	CONcoo	MORPH=empty
 l'	le	DETdef	NOMB.=s|GENRE=f|CAS=r
 autre	autre	PROind	NOMB.=s|GENRE=f|CAS=r
-.//.	.	PONfrt	MORPH=empty
+.//.	.//.	PONfrt	MORPH=empty
 Et	et	CONcoo	MORPH=empty
 si	si	ADVgen	DEGRE=-
 li	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=i
@@ -16675,7 +16675,7 @@ de	de	PRE	MORPH=empty
 cens	cens	NOMcom	NOMB.=s|GENRE=m|CAS=r
 chasqu'	chasque	DETind	NOMB.=s|GENRE=m|CAS=r
 an	an	NOMcom	NOMB.=s|GENRE=m|CAS=r
-.//.	.	PONfrt	MORPH=empty
+.//.	.//.	PONfrt	MORPH=empty
 Et	et	CONcoo	MORPH=empty
 si	si	ADVgen	DEGRE=-
 doit	devoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
@@ -16706,7 +16706,7 @@ teulleries	tiulerie	NOMcom	NOMB.=p|GENRE=f|CAS=r
 dou	de+le	PRE.DETdef	MORPH=empty+NOMB.=s|GENRE=m|CAS=r
 -	-	PONfbl	MORPH=empty
 Pont	pont	NOMpro	NOMB.=s|GENRE=m|CAS=r
-.//.	.	PONfrt	MORPH=empty
+.//.	.//.	PONfrt	MORPH=empty
 Et	et	CONcoo	MORPH=empty
 si	si	ADVgen	DEGRE=-
 doit	devoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
@@ -16745,7 +16745,7 @@ et	et	CONcoo	MORPH=empty
 à	a3	PRE	MORPH=empty
 celui	cel	DETdem	NOMB.=s|GENRE=m|CAS=r
 convent	covent2	NOMcom	NOMB.=s|GENRE=m|CAS=r
-.//.	.	PONfrt	MORPH=empty
+.//.	.//.	PONfrt	MORPH=empty
 Et	et	CONcoo	MORPH=empty
 si	si	ADVgen	DEGRE=-
 doit	devoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s
@@ -16767,7 +16767,7 @@ d	denier	NOMcom	NOMB.=s|GENRE=m|CAS=r
 .	.	PONfrt	MORPH=empty
 de	de	PRE	MORPH=empty
 cens	cens	NOMcom	NOMB.=s|GENRE=m|CAS=r
-.//.	.	PONfrt	MORPH=empty
+.//.	.//.	PONfrt	MORPH=empty
 Et	et	CONcoo	MORPH=empty
 si	si	ADVgen	DEGRE=-
 li	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=i
@@ -16806,7 +16806,7 @@ VI	6	DETcar	NOMB.=p|GENRE=x|CAS=r
 /	/	PONfbl	MORPH=empty
 .	.	PONfrt	MORPH=empty
 d	denier	NOMcom	NOMB.=p|GENRE=m|CAS=r
-.//.	.	PONfrt	MORPH=empty
+.//.	.//.	PONfrt	MORPH=empty
 Et	et	CONcoo	MORPH=empty
 cis	cest	DETdem	NOMB.=p|GENRE=m|CAS=r
 deniers	denier	NOMcom	NOMB.=p|GENRE=m|CAS=r
@@ -16835,7 +16835,7 @@ Remi	Rémi	NOMpro	NOMB.=s|GENRE=m|CAS=r
 ,	,	PONfbl	MORPH=empty
 à	a3	PRE	MORPH=empty
 Meuremont	Morimond	NOMpro	NOMB.=s|GENRE=x|CAS=r
-.//.	.	PONfrt	MORPH=empty
+.//.	.//.	PONfrt	MORPH=empty
 Et	et	CONcoo	MORPH=empty
 si	si	ADVgen	DEGRE=-
 en	en2	PROadv	MORPH=empty
@@ -16867,7 +16867,7 @@ de	de	PRE	MORPH=empty
 la	le	DETdef	NOMB.=s|GENRE=f|CAS=r
 -	-	PONfbl	MORPH=empty
 ville	vile	NOMcom	NOMB.=s|GENRE=f|CAS=r
-.//.	.	PONfrt	MORPH=empty
+.//.	.//.	PONfrt	MORPH=empty
 Et	et	CONcoo	MORPH=empty
 por	por2	PRE	MORPH=empty
 ce	ce1	PROdem	NOMB.=s|GENRE=n|CAS=r
@@ -16918,4 +16918,4 @@ ou	en1+le	PRE.DETdef	MORPH=empty+NOMB.=s|GENRE=m|CAS=r
 mois	mois2	NOMcom	NOMB.=s|GENRE=m|CAS=r
 de	de	PRE	MORPH=empty
 fevrier	fevrier	NOMcom	NOMB.=s|GENRE=m|CAS=r
-.//.	.	PONfrt	MORPH=empty
+.//.	.//.	PONfrt	MORPH=empty
