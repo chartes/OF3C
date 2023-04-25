@@ -1,67 +1,12 @@
 <corpora>
-    <!-- Avec morph -->
-    <corpus path="../projects/Digulleville/*.tsv" column_marker="TAB">
+    <corpus path="../tsv/LemmaPosMorph/PONfrt/*.tsv" column_marker="TAB">
         <splitter name="regexp" matchPattern="PONfrt" source="POS"/><!-- TODO: set default splitter? -->
+        <splitter name="regexp" matchPattern="Ref\." source="lemma"/><!-- TODO: set default splitter? -->
         <header type="default" />
     </corpus>
-    <!-- /!\ problem PONfrt for abbr -->
-    <corpus path="../projects/docling/tsv/*.tsv" column_marker="TAB">
-        <splitter name="regexp" matchPattern="PONfrt" source="POS"/><!-- TODO: set default splitter? -->
-        <header type="default" />
-    </corpus>
-    
-        
-    <corpus path="../projects/Institutes-Code/tsv/code4.tsv" column_marker="TAB">
+    <corpus path="../tsv/LemmaPosMorph/EmptyLine/*.tsv" column_marker="TAB">
         <splitter name="regexp" matchPattern="PONfrt" source="POS"/>
-        <header type="default" />
-    </corpus>
-    
-
-    <!-- Sans ponct -->
-    <corpus path="../projects/geste_nopunct/tsv/*.tsv" column_marker="TAB">
         <splitter name="empty_line" />
         <header type="default" />
     </corpus>
-
-    <!-- Avec ponct -->
-    <corpus path="../projects/geste_punct/tsv/*.tsv" column_marker="TAB">
-        <splitter name="regexp" matchPattern="PONfrt" source="POS"/>
-        <header type="default" />
-    </corpus>
-    
-    <!-- AND franco-italian -->
-    
-    <corpus path="../projects/rialfri/*.tsv" column_marker="TAB">
-        <splitter name="regexp" matchPattern="PONfrt" source="POS"/>
-        <header type="default" />
-    </corpus>
-    
-    <corpus path="../projects/Rose_Meung/*.tsv" column_marker="TAB">
-        <splitter name="regexp" matchPattern="PONfrt" source="POS"/>
-        <header type="default" />
-    </corpus>
-    
-    <corpus path="../projects/Rutebeuf/*.tsv" column_marker="TAB">
-        <splitter name="regexp" matchPattern="PONfrt" source="POS"/>
-        <header type="default" />
-    </corpus>
-    
-    <!-- REMOVED FOR NOW - more quality control needed, especially NOMpro
-    <corpus path="../projects/students/tsv/*.tsv" column_marker="TAB">
-        <splitter name="regexp" matchPattern="PONfrt" source="POS"/>
-        <header type="default" />
-    </corpus>
-    -->
-    
-    <corpus path="../projects/trouveres/tsv/*.tsv" column_marker="TAB">
-        <splitter name="regexp" matchPattern="PONfrt" source="POS"/>
-        <header type="default" />
-    </corpus>
-
-    <corpus path="../projects/Wauchier/tsv/*.tsv" column_marker="TAB">
-        <splitter name="regexp" matchPattern="PONfrt" source="POS"/>
-        <header type="default" />
-    </corpus>
-
-    
 </corpora>

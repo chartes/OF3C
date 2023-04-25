@@ -1,45 +1,6 @@
 <corpora>
-    <!-- lemmes ok, probablement qqs erreurs de POS -->
-    <!-- REMOVED FOR NOW - more quality control needed, especially NOMpro
-    <corpus path="../projects/arnaud_montreuil/tsv/*.tsv" column_marker="TAB">
-        <splitter name="regexp" matchPattern="PONfrt" source="POS"/>
-        <header type="default" />
-    </corpus>
-    -->
-    
-    <!-- Sans morph -->
-    <corpus path="../projects/chretien/tsv/*.tsv" column_marker="TAB">
+    <corpus path="../tsv/LemmaPos/*.tsv" column_marker="TAB">
         <splitter name="regexp" matchPattern="PONfrt" source="POS"/><!-- TODO: set default splitter? -->
-        <header type="default" />
-    </corpus>
-
-    <corpus path="../projects/Lancelot_Prose/tsv/*.tsv" column_marker="TAB">
-        <splitter name="regexp" matchPattern="PONfrt" source="POS"/>
-        <header type="default" />
-    </corpus>
-    
-    <!-- TODO: à inclure quand aura été inspecté rapidement par Naomi -->
-    
-    <!--<corpus path="../projects/arnaud_montreuil/*.tsv" column_marker="TAB">
-        <splitter name="regexp" matchPattern="PONfrt" source="POS"/>
-        <header type="default" />
-    </corpus>-->
-
-    <!-- Mixte -->
-    <!-- 
-        Sans morph:
-        - `Institutes_pos.tsv`
-        - `Transcription_Code_1–fr-20120.tsv`
-        
-        Avec morph:
-        - `Transcription_Code4_sans_variantes.tsv`
-    -->
-    <corpus path="../projects/Institutes-Code/tsv/Institutes_pos.tsv" column_marker="TAB">
-        <splitter name="regexp" matchPattern="PONfrt" source="POS"/>
-        <header type="default" />
-    </corpus>
-    <corpus path="../projects/Institutes-Code/tsv/code1.tsv" column_marker="TAB">
-        <splitter name="regexp" matchPattern="PONfrt" source="POS"/>
         <header type="default" />
     </corpus>
 </corpora>
