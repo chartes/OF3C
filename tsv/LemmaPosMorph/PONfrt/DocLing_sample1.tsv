@@ -1,5 +1,5 @@
 form	lemma	POS	morph
-chdouai0120			
+[REF:chdouai0120]	Ref.	OUT	MORPH=empty
 Sacent	savoir	VERcjg	MODE=sub|TEMPS=pst|PERS.=3|NOMB.=p
 tout	tot	DETind	NOMB.=p|GENRE=m|CAS=n
 cil	cel	PROdem	NOMB.=p|GENRE=m|CAS=n
@@ -454,7 +454,7 @@ mois	mois2	NOMcom	NOMB.=s|GENRE=m|CAS=r
 de	de	PRE	MORPH=empty
 novembre	novembre	NOMcom	NOMB.=s|GENRE=m|CAS=r
 .	.	PONfrt	MORPH=empty
-chdouai0216			
+[REF:chdouai0216]	Ref.	OUT	MORPH=empty
 Sacent	savoir	VERcjg	MODE=sub|TEMPS=pst|PERS.=3|NOMB.=p
 tout	tot	DETind	NOMB.=p|GENRE=m|CAS=n
 cil	cel	PROdem	NOMB.=p|GENRE=m|CAS=n
@@ -741,7 +741,7 @@ mois	mois2	NOMcom	NOMB.=s|GENRE=m|CAS=r
 de	de	PRE	MORPH=empty
 march	marz	NOMcom	NOMB.=s|GENRE=m|CAS=r
 .	.	PONfrt	MORPH=empty
-chdouai0271			
+[REF:chdouai0271]	Ref.	OUT	MORPH=empty
 Sacent	savoir	VERcjg	MODE=sub|TEMPS=pst|PERS.=3|NOMB.=p
 tout	tot	DETind	NOMB.=p|GENRE=m|CAS=n
 cil	cel	PROdem	NOMB.=p|GENRE=m|CAS=n
@@ -1214,7 +1214,7 @@ mois	mois2	NOMcom	NOMB.=s|GENRE=m|CAS=r
 de	de	PRE	MORPH=empty
 septembre	setembre	NOMcom	NOMB.=s|GENRE=m|CAS=r
 .	.	PONfrt	MORPH=empty
-chdouai0456			
+[REF:chdouai0456]	Ref.	OUT	MORPH=empty
 Sacent	savoir	VERcjg	MODE=sub|TEMPS=pst|PERS.=3|NOMB.=p
 tout	tot	DETind	NOMB.=p|GENRE=m|CAS=n
 cil	cel	PROdem	NOMB.=p|GENRE=m|CAS=n
@@ -2543,7 +2543,7 @@ mois	mois2	NOMcom	NOMB.=s|GENRE=m|CAS=r
 de	de	PRE	MORPH=empty
 juing	jüin	NOMcom	NOMB.=s|GENRE=m|CAS=r
 .	.	PONfrt	MORPH=empty
-chdouai0497			
+[REF:chdouai0497]	Ref.	OUT	MORPH=empty
 Sacent	savoir	VERcjg	MODE=sub|TEMPS=pst|PERS.=3|NOMB.=p
 tout	tot	DETind	NOMB.=p|GENRE=m|CAS=n
 cil	cel	PROdem	NOMB.=p|GENRE=m|CAS=n
@@ -2723,7 +2723,7 @@ mois	mois2	NOMcom	NOMB.=s|GENRE=m|CAS=r
 de	de	PRE	MORPH=empty
 march	marz	NOMcom	NOMB.=s|GENRE=m|CAS=r
 .	.	PONfrt	MORPH=empty
-ChHM075			
+[REF:ChHM075]	Ref.	OUT	MORPH=empty
 Ce	ce1	PROdem	NOMB.=s|GENRE=n|CAS=n
 sunt	estre1	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p
 les	le	DETdef	NOMB.=p|GENRE=f|CAS=n
@@ -6407,7 +6407,7 @@ mois	mois2	NOMcom	NOMB.=s|GENRE=m|CAS=r
 de	de	PRE	MORPH=empty
 decenbre	decembre	NOMcom	NOMB.=s|GENRE=m|CAS=r
 .	.	PONfrt	MORPH=empty
-ChHM177			
+[REF:ChHM177]	Ref.	OUT	MORPH=empty
 En	en1	PRE	MORPH=empty
 non	nom	NOMcom	NOMB.=s|GENRE=m|CAS=r
 dou	de+le	PRE.DETdef	MORPH=empty+NOMB.=s|GENRE=m|CAS=r
@@ -8959,7 +8959,7 @@ jullet	juillet	NOMcom	NOMB.=s|GENRE=m|CAS=r
 devant	devant	ADVgen	DEGRE=-
 dit	dire	VERppe	NOMB.=s|GENRE=m|CAS=r
 .	.	PONfrt	MORPH=empty
-ChHM237			
+[REF:ChHM237]	Ref.	OUT	MORPH=empty
 En	en1	PRE	MORPH=empty
 nom	nom	NOMcom	NOMB.=s|GENRE=m|CAS=r
 dou	de+le	PRE.DETdef	MORPH=empty+NOMB.=s|GENRE=m|CAS=r
@@ -10686,7 +10686,7 @@ mois	mois2	NOMcom	NOMB.=s|GENRE=m|CAS=r
 de	de	PRE	MORPH=empty
 fevrier	fevrier	NOMcom	NOMB.=s|GENRE=m|CAS=r
 .	.	PONfrt	MORPH=empty
-ChHM273			
+[REF:ChHM273]	Ref.	OUT	MORPH=empty
 À	a3	PRE	MORPH=empty
 toz	tot	DETind	NOMB.=p|GENRE=m|CAS=r
 ces	cel	PROdem	NOMB.=p|GENRE=m|CAS=r
@@ -11806,7 +11806,7 @@ mois	mois2	NOMcom	NOMB.=s|GENRE=m|CAS=r
 d'	de	PRE	MORPH=empty
 avri	avril	NOMcom	NOMB.=s|GENRE=m|CAS=r
 .	.	PONfrt	MORPH=empty
-ChHM275			
+[REF:ChHM275]	Ref.	OUT	MORPH=empty
 In	in	ETR	MORPH=empty
 nomine	nomen	ETR	NOMB.=s|GENRE=n|CAS=r
 Patris	pater	ETR	NOMB.=s|GENRE=m|CAS=r
@@ -13794,7 +13794,7 @@ seaux	sëel2	NOMcom	NOMB.=p|GENRE=m|CAS=r
 ceste	cest	DETdem	NOMB.=s|GENRE=f|CAS=r
 execucion	execucïon	NOMcom	NOMB.=s|GENRE=f|CAS=r
 .	.	PONfrt	MORPH=empty
-ChMa001			
+[REF:ChMa001]	Ref.	OUT	MORPH=empty
 Je	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n
 /	/	PONfbl	MORPH=empty
 .	.	PONfrt	MORPH=empty
@@ -14380,7 +14380,7 @@ XXX	30	ADJcar	NOMB.=p|GENRE=m|CAS=r
 .	.	PONfrt	MORPH=empty
 quarto	catre	ADJcar	NOMB.=p|GENRE=m|CAS=r
 .	.	PONfrt	MORPH=empty
-ChMa010			
+[REF:ChMa010]	Ref.	OUT	MORPH=empty
 Je	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n
 Wermonz	Wermont	NOMpro	NOMB.=s|GENRE=m|CAS=n
 vidames	visdame	NOMcom	NOMB.=s|GENRE=m|CAS=n
@@ -15244,7 +15244,7 @@ mois	mois2	NOMcom	NOMB.=s|GENRE=m|CAS=r
 d'	de	PRE	MORPH=empty
 avril	avril	NOMcom	NOMB.=s|GENRE=m|CAS=r
 .//.	.//.	PONfrt	MORPH=empty
-ChMa032			
+[REF:ChMa032]	Ref.	OUT	MORPH=empty
 Je	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n
 Pierres	Pierre	NOMpro	NOMB.=s|GENRE=m|CAS=n
 de	de	PRE	MORPH=empty
@@ -15735,7 +15735,7 @@ moiz	mois2	NOMcom	NOMB.=s|GENRE=m|CAS=r
 de	de	PRE	MORPH=empty
 joilet	juillet	NOMcom	NOMB.=s|GENRE=m|CAS=r
 .//.	.//.	PONfrt	MORPH=empty
-ChMa040			
+[REF:ChMa040]	Ref.	OUT	MORPH=empty
 Ge	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n
 Jofrois	Geoffroi	NOMpro	NOMB.=s|GENRE=m|CAS=n
 chevaliers	chevalier	NOMcom	NOMB.=s|GENRE=m|CAS=n
@@ -16074,7 +16074,7 @@ mois	mois2	NOMcom	NOMB.=s|GENRE=m|CAS=r
 de	de	PRE	MORPH=empty
 mai	mai	NOMcom	NOMB.=s|GENRE=m|CAS=r
 .	.	PONfrt	MORPH=empty
-ChMa042			
+[REF:ChMa042]	Ref.	OUT	MORPH=empty
 Je	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n
 Jehans	Jean	NOMpro	NOMB.=s|GENRE=m|CAS=n
 sires	seignor	NOMcom	NOMB.=s|GENRE=m|CAS=n
@@ -16486,7 +16486,7 @@ mois	mois2	NOMcom	NOMB.=s|GENRE=m|CAS=r
 de	de	PRE	MORPH=empty
 mai	mai	NOMcom	NOMB.=s|GENRE=m|CAS=r
 .//.	.//.	PONfrt	MORPH=empty
-ChMa061			
+[REF:ChMa061]	Ref.	OUT	MORPH=empty
 Je	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n
 Ponsars	Poinçard	NOMpro	NOMB.=s|GENRE=m|CAS=n
 doïens	doiien	NOMcom	NOMB.=s|GENRE=m|CAS=n
