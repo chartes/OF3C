@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://hipster-philology.github.io/protogenie/protogenie/schema.rng"
+     schematypens="http://relaxng.org/ns/structure/1.0"?>
+<config xmlns:xi="http://www.w3.org/2001/XInclude">
+    <default-header>
+        <header type="explicit">
+            <key map-to="token">form</key>
+            <key>lemma</key>
+            <key>POS</key>
+        </header>
+    </default-header>
+    <memory path="lemma-pos.memory.csv"/>
+    <output column_marker="TAB">
+        <header name="order">
+            <key>token</key>
+            <key>lemma</key>
+            <key>POS</key>
+        </header>
+    </output>
+    <postprocessing>
+        <skip matchPattern="token" source="token"/>
+        <skip matchPattern="OUT" source="POS"/>
+        <toolbox name="RomanNumeral">
+            <applyTo source="token">
+                <target>lemma</target>
+                <target>token</target>
+            </applyTo>
+        </toolbox>
+        <replacement matchPattern="[01]" replacementPattern="1">
+            <applyTo source="token">
+                <target>lemma</target>
+                <target>token</target>
+            </applyTo>
+        </replacement>
+        <replacement matchPattern="[2-9]|\d\d+" replacementPattern="2">
+            <applyTo source="token">
+                <target>lemma</target>
+                <target>token</target>
+            </applyTo>
+        </replacement>
+    </postprocessing>
+    <xi:include href="./corpora/without-morph.xml" parse="xml" />
+    <xi:include href="./corpora/with-morph.xml" parse="xml" />
+</config>

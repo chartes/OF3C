@@ -1,0 +1,100 @@
+{
+   "modelname":"Fro-L2",
+   "modelpath":"./models/",
+   "run_test":false,
+   "dev_path":"output-morph/dev.tsv",
+   "input_path":"output-morph/train.tsv",
+   "test_path":"output-morph/test.tsv",
+   "header":true,
+   "sep":"\t",
+   "breakline_data":"^(\\.|segm)$",
+   "breakline_ref":"input",
+   "char_max_size":500,
+   "word_max_size":20000,
+   "max_sent_len":35,
+   "max_sents":1000000,
+   "char_min_freq":1,
+   "word_min_freq":1,
+   "char_eos":true,
+   "char_bos":true,
+   "char_lower":false,
+   "word_lower":true,
+   "utfnorm": false,
+   "mixed_precision": false,
+   "tasks":[
+      {
+         "name":"PERS",
+         "target":true
+      }
+   ],
+   "task_defaults":{
+      "level":"token",
+      "layer":-1,
+      "decoder":"linear",
+      "context":"sentence",
+      "schedule": {
+         "evaluation": "accuracy"
+      }
+   },
+   "lm_shared_softmax":true,
+   "lm_schedule":{
+      "patience":2,
+      "factor":0.5,
+      "weight":0.2,
+      "mode":"min"
+   },
+
+   // Ignore or dont change
+   "word_dropout":0,
+   "wemb_dim":0,
+   "clip_norm":5,
+   "checks_per_epoch":1,
+   "report_freq":128,
+   "buffer_size":10000,
+   "minimize_pad":false,
+   "pretrain_embeddings":false,
+   "load_pretrained_embeddings":"",
+   "load_pretrained_encoder":"",
+   "freeze_embeddings":false,
+   "scorer":"general",
+   "epochs":100,
+
+   // Stable params
+   "cell":"GRU",
+   "merge_type":"concat",
+   "linear_layers":1,
+   "cemb_type":"rnn",
+   "custom_cemb_cell":false,
+   "shuffle":true,
+   "threshold":0.0001,
+   "min_weight":0.2,
+   "include_lm":true,
+
+   // Impactful Hyperparams
+   "num_layers":2,
+   "cemb_layers":2,
+   "cemb_dim":150,
+   "hidden_size":150,
+
+   // Optimizer & LR
+   "optimizer": "Ranger",
+
+   "cache_dataset": true,
+   "dropout":0.32,
+   "lr":0.004901105542864395,
+   "lr_patience":2,
+   "patience":5,
+   "factor":0.6,
+   "noise_strategies": {
+     "uppercase": {
+       "apply": true,
+       "ratio": 0.10,
+       "params": {}
+     }
+   },
+
+   // Device & verbosity
+   "verbose":true,
+   "batch_size":128,
+   "device":"cuda"
+}

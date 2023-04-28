@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://hipster-philology.github.io/protogenie/protogenie/schema.rng"
+     schematypens="http://relaxng.org/ns/structure/1.0"?>
+<config xmlns:xi="http://www.w3.org/2001/XInclude">
+    <default-header>
+        <header type="explicit">
+            <key map-to="token">form</key>
+            <key>lemma</key>
+            <key>POS</key>
+            <key>morph</key>
+        </header>
+    </default-header>
+    <memory path="morph.memory.csv"/>
+    <output column_marker="TAB">
+        <header name="order">
+            <key>token</key>
+            <key>lemma</key>
+            <key>POS</key>
+            <key>MODE</key>
+            <key>TEMPS</key>
+            <key>PERS</key>
+            <key>NOMB</key>
+            <key>GENRE</key>
+            <key>CAS</key>
+            <key>DEGRE</key>
+            <key>SPEC</key>
+        </header>
+    </output>
+    <postprocessing>
+        <skip matchPattern="token" source="token"/>
+        <skip matchPattern="OUT" source="POS"/>
+        <toolbox name="RomanNumeral">
+            <applyTo source="token">
+                <target>lemma</target>
+                <target>token</target>
+            </applyTo>
+        </toolbox>
+        <replacement matchPattern="[01]" replacementPattern="1">
+            <applyTo source="token">
+                <target>lemma</target>
+                <target>token</target>
+            </applyTo>
+        </replacement>
+        <replacement matchPattern="[2-9]|\d\d+" replacementPattern="2">
+            <applyTo source="token">
+                <target>lemma</target>
+                <target>token</target>
+            </applyTo>
+        </replacement>
+        <disambiguation matchPattern="(MODE\=[\w-]+)\|?" new-column="MODE" source="morph" default="MODE=x" />
+        <disambiguation matchPattern="(TEMPS\=[\w-]+)\|?" new-column="TEMPS" source="morph" default="TEMPS=x" />     
+        <disambiguation matchPattern="(PERS\.\=[\w-]+)\|?" new-column="PERS" source="morph" default="PERS.=x" />
+        <disambiguation matchPattern="(NOMB\.\=[\w-]+)\|?" new-column="NOMB" source="morph" default="NOMB.=x" />
+        <disambiguation matchPattern="(GENRE\=[\w-]+)\|?" new-column="GENRE" source="morph" default="GENRE=x" />
+        <disambiguation matchPattern="(CAS\=[\w-]+)\|?" new-column="CAS" source="morph" default="CAS=x" />
+        <disambiguation matchPattern="(DEGRE\=[\w-]+)\|?" new-column="DEGRE" source="morph" default="DEGRE=x" />
+        <disambiguation matchPattern="(SPEC\=[\w-]+)\|?" new-column="SPEC" source="morph" default="SPEC=x" />
+    </postprocessing>
+    <xi:include href="./corpora/with-morph.xml" parse="xml" />
+</config>

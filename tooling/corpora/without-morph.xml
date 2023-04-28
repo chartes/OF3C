@@ -1,0 +1,9 @@
+<corpora>
+    <corpus path="../tsv/LemmaPos/*.tsv" column_marker="TAB">
+        <splitter name="regexp">
+            <option matchPattern="PONfrt" source="POS"/>
+            <option matchPattern="Ref\." source="lemma"/>
+        </splitter>
+        <header type="default" />
+    </corpus>
+</corpora>
