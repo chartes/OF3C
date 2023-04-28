@@ -1,0 +1,100 @@
+{
+   "modelname":"Fro-Lemma",
+   "modelpath":"./models/",
+   "run_test":false,
+   "dev_path":"output-lemma-pos/dev.tsv",
+   "input_path":"output-lemma-pos/train.tsv",
+   "test_path":"output-lemma-pos/test.tsv",
+   "header":true,
+   "sep":"\t",
+   "breakline_ref":"POS",
+   "breakline_data":"NONE",
+   "char_max_size":500,
+   "word_max_size":20000,
+   "max_sent_len":35,
+   "max_sents":1000000,
+   "char_lower": false,
+   "char_min_freq":1,
+   "word_min_freq":1,
+   "char_eos":true,
+   "char_bos":true,
+   "tasks":[
+      {
+         "name":"lemma",
+         "target":true,
+         "context":"sentence",
+         "level":"char",
+         "decoder":"attentional",
+         "settings":{
+            "bos":true,
+            "eos":true,
+            "lower":false,
+            "target":"lemma"
+         },
+         "layer":-1,
+         "schedule": {
+            "evaluation": "precision"
+         }
+      }
+   ],
+   "task_defaults":{
+      "level":"token",
+      "layer":-1,
+      "decoder":"linear",
+      "context":"sentence"
+   },
+   "threshold":0.0002,
+   "min_weight":0.2,
+   "include_lm":true,//Just to see if this is the issue
+   "lm_shared_softmax":true,
+   "lm_schedule":{
+      "patience":2,
+      "factor":0.5,
+      "weight":0.2,
+      "mode":"min"
+   },
+   "batch_size":100, // Was 200
+   "epochs":100,
+   "word_dropout":0,
+
+   "clip_norm":5,
+   "linear_layers":1,
+   "hidden_size":150,
+   "num_layers":1,
+   "cell":"LSTM",
+   "wemb_dim":0,
+   "merge_type":"concat",
+   "cemb_dim":300,
+   "cemb_type":"rnn",
+   "cemb_layers":2,
+   "custom_cemb_cell":false,
+   "checks_per_epoch":1,
+   "report_freq":200,
+   "verbose":true,
+   "device":"cuda",
+   "buffer_size":10000,
+   "minimize_pad":false,
+   "shuffle":true,
+   "pretrain_embeddings":false,
+   "load_pretrained_embeddings":"",
+   "load_pretrained_encoder":"",
+   "freeze_embeddings":false,
+   "scorer":"general",
+
+   // Optimizer
+   "optimizer": "Ranger",
+
+   "cache_dataset": true,
+   "dropout":0.32,
+   "lr":0.004901105542864395,
+   "lr_patience":2,
+   "patience":5,
+   "factor":0.6,
+   "noise_strategies": {
+     "uppercase": {
+       "apply": true,
+       "ratio": 0.10,
+       "params": {}
+     }
+   }
+}
